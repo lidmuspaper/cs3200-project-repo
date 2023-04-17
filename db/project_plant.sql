@@ -1,8 +1,11 @@
 CREATE DATABASE plantapp;
-Use plantapp;
 
+grant all privileges on plantapp.* to 'webapp'@'%';
+flush privileges;
 
-CREATE TABLE Plant_care_routline
+use plantapp;
+
+CREATE TABLE Plant_care_routine
 (
     plant_name          varchar(50) PRIMARY KEY,
     fertilizer_Schedule date,
@@ -56,7 +59,7 @@ CREATE TABLE Plant
     plant_name varchar(50),
     plant_id int PRIMARY KEY,
     user_id int UNIQUE,
-    FOREIGN KEY (plant_name) REFERENCES Plant_care_routline (plant_name),
+    FOREIGN KEY (plant_name) REFERENCES Plant_care_routine (plant_name),
     FOREIGN KEY (plant_name) REFERENCES Illness (plant_name),
     FOREIGN KEY (plant_id) REFERENCES Plant_info (plant_id),
     FOREIGN KEY (user_id) REFERENCES User (user_id)
@@ -106,8 +109,8 @@ CREATE TABLE Location
 (
     location_name varchar(50) PRIMARY KEY,
     temp float,
-    humidity varchar(50),
-    sunlight varchar(50),
+    humidity int,
+    sunlight int,
     user_id int UNIQUE,
     FOREIGN KEY (user_id) REFERENCES User (user_id)
 );
@@ -116,13 +119,13 @@ CREATE TABLE Weather
 (
     rain_chance float,
     temp float,
-    sunlight varchar(50),
-    humidity varchar(50),
+    sunlight int,
+    humidity int,
     user_id int PRIMARY KEY,
     FOREIGN KEY (user_id) REFERENCES User (user_id)
 );
 
-INSERT INTO Plant_care_routline (plant_name, fertilizer_Schedule, type_fertilizer, last_fertilizer, repotting_schedule,
+INSERT INTO Plant_care_routine (plant_name, fertilizer_Schedule, type_fertilizer, last_fertilizer, repotting_schedule,
                                  pot_size, soil_type, last_repotting, watering_amount, watering_schedule, last_watering)
 VALUES ('Spider Plant', '2022-03-01', 'All-purpose fertilizer', '2022-02-01', '2023-03-01', '6-inch', 'Potting mix',
         '2022-10-01', 250.5, '2022-02-01', '2022-03-15'),
