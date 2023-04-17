@@ -1,0 +1,1001 @@
+temp,humidity,sunlight,location_name
+99,95,10,office
+59,73,60,outdoors
+49,38,67,basement
+82,57,5,kitchen
+59,14,96,basement
+56,64,26,living room
+120,92,25,kitchen
+56,58,1,living room
+70,100,9,outdoors
+99,34,31,office
+76,4,21,kitchen
+116,33,33,living room
+81,60,35,outdoors
+71,79,87,office
+117,76,45,basement
+87,19,8,kitchen
+56,99,88,kitchen
+51,78,81,living room
+103,11,64,office
+74,89,86,kitchen
+107,72,83,outdoors
+45,35,22,living room
+70,87,57,kitchen
+60,84,98,kitchen
+59,75,97,kitchen
+46,17,46,outdoors
+81,54,41,bedroom
+35,86,25,kitchen
+42,24,72,basement
+67,34,93,office
+104,83,24,kitchen
+53,96,46,bedroom
+76,16,26,outdoors
+46,81,82,basement
+115,7,99,kitchen
+43,77,16,office
+96,3,99,living room
+81,10,56,kitchen
+96,67,47,living room
+72,87,39,living room
+47,72,47,kitchen
+53,87,73,office
+106,37,7,basement
+69,81,14,outdoors
+53,57,59,bedroom
+102,74,48,outdoors
+54,62,24,basement
+35,52,83,outdoors
+103,99,18,bedroom
+84,83,79,living room
+43,56,50,living room
+38,32,76,outdoors
+95,97,38,bedroom
+99,18,15,basement
+38,37,28,kitchen
+68,38,7,living room
+51,92,91,kitchen
+81,64,80,outdoors
+38,34,41,basement
+85,57,25,outdoors
+51,37,42,living room
+115,26,67,living room
+118,10,66,bedroom
+94,38,1,bedroom
+69,77,67,office
+98,77,63,kitchen
+86,20,72,bedroom
+99,93,58,office
+84,74,5,bedroom
+72,86,98,bedroom
+44,35,75,living room
+101,23,23,kitchen
+105,2,46,bedroom
+78,24,13,basement
+90,21,68,bedroom
+120,17,11,outdoors
+107,12,46,bedroom
+86,10,43,living room
+74,3,80,living room
+102,25,58,outdoors
+103,37,16,living room
+101,42,71,bedroom
+89,26,17,bedroom
+82,60,60,bedroom
+55,93,20,basement
+65,12,30,office
+53,24,83,living room
+39,25,88,bedroom
+41,95,53,bedroom
+118,36,100,basement
+64,21,25,living room
+33,62,72,living room
+36,11,30,outdoors
+100,90,38,basement
+93,56,76,living room
+35,9,32,kitchen
+117,9,14,bedroom
+72,10,76,outdoors
+72,24,14,living room
+101,7,55,living room
+46,32,70,basement
+80,69,57,office
+39,93,47,basement
+40,41,5,kitchen
+108,92,27,basement
+117,13,69,outdoors
+112,81,16,outdoors
+37,34,17,outdoors
+56,22,18,basement
+96,23,88,basement
+82,55,3,basement
+78,23,46,basement
+82,55,23,bedroom
+72,41,35,basement
+48,8,70,office
+66,55,55,office
+48,60,60,bedroom
+100,37,80,bedroom
+35,17,5,living room
+89,91,82,bedroom
+93,59,52,living room
+47,76,63,kitchen
+47,59,95,basement
+115,57,79,kitchen
+39,65,12,office
+104,32,87,kitchen
+50,71,18,living room
+86,36,77,outdoors
+111,39,63,office
+82,52,59,living room
+90,21,67,office
+36,10,17,office
+81,6,46,living room
+41,98,57,bedroom
+72,46,44,bedroom
+118,61,35,basement
+111,64,69,basement
+64,79,84,office
+59,72,4,basement
+101,66,9,kitchen
+102,32,40,bedroom
+112,29,4,basement
+76,69,15,living room
+49,41,9,living room
+48,87,13,kitchen
+113,73,99,living room
+118,42,81,basement
+90,14,42,office
+68,30,68,kitchen
+112,60,41,kitchen
+60,80,22,office
+105,31,15,living room
+92,63,51,bedroom
+58,74,6,bedroom
+66,69,30,outdoors
+35,46,11,outdoors
+37,84,50,outdoors
+60,65,62,office
+41,70,61,outdoors
+119,8,87,basement
+60,52,52,basement
+84,3,76,office
+82,1,72,bedroom
+98,29,46,kitchen
+42,29,57,bedroom
+42,1,92,kitchen
+106,64,28,outdoors
+68,79,52,bedroom
+110,90,23,kitchen
+47,68,27,bedroom
+116,27,91,bedroom
+99,29,84,basement
+67,4,15,kitchen
+40,34,64,basement
+48,41,53,outdoors
+69,8,75,outdoors
+52,17,20,office
+86,13,56,office
+85,7,38,bedroom
+70,36,40,basement
+55,44,53,kitchen
+76,87,94,office
+110,43,81,living room
+48,83,53,basement
+67,29,60,living room
+44,97,35,basement
+83,80,98,bedroom
+80,34,1,office
+87,20,52,basement
+118,18,12,office
+112,100,67,living room
+44,72,49,outdoors
+74,73,49,kitchen
+42,34,64,basement
+88,31,34,outdoors
+120,46,11,bedroom
+120,27,89,office
+70,72,41,kitchen
+78,99,5,basement
+94,71,29,basement
+45,16,7,bedroom
+61,57,6,living room
+72,56,1,outdoors
+90,90,55,office
+91,96,48,kitchen
+118,78,58,office
+73,92,78,bedroom
+101,89,21,kitchen
+77,44,63,office
+65,53,38,outdoors
+120,82,77,kitchen
+100,12,44,living room
+67,16,78,outdoors
+39,89,6,kitchen
+53,2,53,basement
+79,14,34,outdoors
+111,43,86,basement
+43,86,50,office
+35,83,34,basement
+85,24,98,kitchen
+49,83,54,kitchen
+101,67,12,office
+93,22,70,basement
+39,19,95,kitchen
+48,11,43,office
+68,41,59,living room
+43,17,69,outdoors
+113,16,93,bedroom
+113,82,80,bedroom
+36,99,76,office
+56,31,36,outdoors
+99,32,89,bedroom
+89,16,51,outdoors
+60,49,50,basement
+41,7,13,bedroom
+37,85,66,basement
+54,7,32,outdoors
+105,98,48,office
+54,33,48,bedroom
+106,34,23,bedroom
+98,11,55,living room
+44,27,72,office
+79,44,21,office
+52,21,19,basement
+100,9,6,outdoors
+106,73,98,living room
+98,56,21,outdoors
+63,16,34,kitchen
+37,85,7,office
+114,56,64,kitchen
+88,65,13,outdoors
+98,42,45,living room
+66,98,81,office
+93,3,83,living room
+52,17,44,basement
+85,67,17,kitchen
+60,75,3,basement
+102,28,5,bedroom
+39,41,38,office
+48,61,83,outdoors
+61,22,93,kitchen
+34,1,66,living room
+44,61,27,living room
+66,45,62,office
+72,90,38,outdoors
+102,29,21,outdoors
+67,47,81,basement
+91,48,99,kitchen
+37,39,51,outdoors
+83,78,22,bedroom
+58,100,57,outdoors
+111,38,47,basement
+49,59,4,office
+72,16,19,bedroom
+110,37,26,outdoors
+98,10,58,bedroom
+35,61,6,basement
+62,5,69,bedroom
+54,93,11,basement
+95,16,67,living room
+87,72,88,office
+85,36,71,bedroom
+38,22,11,living room
+92,32,61,basement
+83,14,63,office
+42,28,42,outdoors
+73,66,70,outdoors
+71,3,77,kitchen
+119,77,61,kitchen
+74,99,10,office
+52,66,1,outdoors
+64,16,17,kitchen
+63,5,96,basement
+98,69,26,bedroom
+92,9,73,bedroom
+50,30,79,kitchen
+89,65,63,basement
+106,56,15,kitchen
+113,89,7,bedroom
+63,70,52,basement
+47,30,23,kitchen
+105,91,65,office
+64,15,46,living room
+80,96,78,bedroom
+68,71,10,bedroom
+63,28,49,outdoors
+34,77,98,living room
+112,67,39,outdoors
+98,37,45,living room
+92,30,96,living room
+78,89,30,kitchen
+47,8,77,outdoors
+62,100,82,basement
+74,74,11,office
+111,16,10,kitchen
+41,62,6,bedroom
+114,49,19,kitchen
+87,100,4,basement
+109,76,82,basement
+91,23,32,basement
+75,29,64,office
+72,27,96,bedroom
+76,41,88,bedroom
+54,5,100,living room
+109,98,27,bedroom
+113,59,14,kitchen
+66,24,16,outdoors
+56,99,92,bedroom
+116,3,89,basement
+44,1,82,living room
+88,55,37,office
+109,14,77,bedroom
+103,30,77,bedroom
+84,98,6,living room
+76,39,24,living room
+62,4,31,bedroom
+107,47,84,living room
+112,74,7,living room
+88,67,8,basement
+106,58,44,living room
+37,82,79,office
+80,97,6,outdoors
+114,81,16,basement
+50,69,97,living room
+61,61,18,office
+92,94,100,outdoors
+81,87,38,basement
+104,35,9,kitchen
+59,11,34,office
+80,40,63,kitchen
+80,96,64,office
+46,72,5,basement
+63,40,87,basement
+79,64,8,bedroom
+99,84,93,basement
+34,29,88,outdoors
+35,17,63,outdoors
+72,61,47,bedroom
+75,83,62,outdoors
+115,76,49,bedroom
+71,90,20,outdoors
+81,22,54,living room
+58,98,7,office
+119,85,28,living room
+50,14,78,living room
+98,17,12,basement
+37,69,57,basement
+91,29,65,office
+85,53,53,basement
+90,8,100,living room
+63,48,86,basement
+113,100,85,kitchen
+60,48,36,outdoors
+70,17,31,bedroom
+52,97,14,office
+40,65,89,office
+32,53,8,outdoors
+80,77,50,kitchen
+33,80,9,office
+47,99,46,office
+112,98,19,outdoors
+96,69,34,office
+105,70,92,office
+90,7,28,bedroom
+113,87,67,basement
+89,7,48,living room
+68,82,32,living room
+104,25,4,bedroom
+106,25,34,living room
+52,26,12,living room
+36,47,45,office
+93,31,94,outdoors
+32,38,15,basement
+45,43,17,kitchen
+96,60,34,basement
+114,33,19,outdoors
+114,32,23,living room
+61,67,14,bedroom
+115,34,66,bedroom
+111,79,35,outdoors
+42,17,50,living room
+106,34,85,kitchen
+120,37,46,outdoors
+66,35,42,bedroom
+77,95,89,basement
+80,79,28,outdoors
+81,59,85,outdoors
+116,91,14,outdoors
+44,21,65,office
+77,80,13,kitchen
+68,47,88,office
+39,33,91,office
+84,56,55,kitchen
+52,32,10,kitchen
+45,93,45,basement
+50,48,24,basement
+102,6,23,outdoors
+50,17,47,bedroom
+97,84,37,office
+56,13,99,basement
+96,10,39,outdoors
+45,97,48,kitchen
+40,72,67,living room
+106,71,6,basement
+52,45,1,basement
+99,16,2,bedroom
+42,81,45,kitchen
+40,59,5,living room
+99,74,41,basement
+52,67,90,basement
+44,92,14,outdoors
+100,99,31,living room
+85,25,71,kitchen
+38,13,84,living room
+89,5,25,outdoors
+72,8,99,basement
+69,39,83,outdoors
+49,3,52,office
+54,76,16,living room
+64,47,31,office
+71,17,2,outdoors
+58,48,42,bedroom
+77,39,19,living room
+66,76,22,outdoors
+50,95,91,bedroom
+98,14,91,outdoors
+60,33,4,bedroom
+60,2,67,outdoors
+83,25,97,kitchen
+43,97,54,office
+91,47,87,kitchen
+60,7,57,kitchen
+67,61,80,kitchen
+90,89,61,office
+66,69,96,bedroom
+40,22,97,living room
+120,71,5,living room
+79,34,51,office
+50,51,1,bedroom
+115,31,71,living room
+72,47,75,bedroom
+89,85,30,kitchen
+34,11,33,living room
+77,9,12,office
+110,36,2,living room
+46,53,64,bedroom
+38,18,99,office
+67,8,16,kitchen
+100,82,63,basement
+103,3,69,office
+98,92,99,living room
+68,7,74,outdoors
+76,12,97,office
+74,60,71,kitchen
+68,94,85,kitchen
+55,37,81,bedroom
+36,86,22,kitchen
+57,28,62,living room
+48,30,78,basement
+109,60,2,basement
+37,32,18,basement
+69,3,5,kitchen
+56,22,9,outdoors
+78,55,90,outdoors
+33,11,73,basement
+44,96,82,bedroom
+64,97,71,basement
+61,64,67,kitchen
+57,65,44,bedroom
+96,62,85,outdoors
+118,31,65,kitchen
+92,91,2,office
+37,24,38,basement
+59,1,72,outdoors
+92,3,96,basement
+80,73,94,outdoors
+74,78,23,office
+38,11,97,office
+111,27,91,basement
+35,56,63,kitchen
+76,20,95,bedroom
+93,25,20,living room
+80,50,32,office
+104,98,65,bedroom
+39,31,57,office
+47,30,82,office
+100,70,50,outdoors
+52,100,85,living room
+68,98,29,outdoors
+80,9,46,kitchen
+73,11,10,outdoors
+114,74,16,office
+61,95,81,outdoors
+41,79,78,basement
+81,73,65,living room
+35,89,47,kitchen
+119,89,66,living room
+110,1,60,living room
+73,77,54,outdoors
+90,50,56,office
+51,40,99,kitchen
+82,81,69,basement
+52,19,28,office
+37,90,82,office
+108,21,77,basement
+94,94,57,basement
+45,98,73,outdoors
+102,97,3,office
+48,81,4,kitchen
+39,81,1,basement
+116,28,65,living room
+43,51,51,kitchen
+65,98,42,kitchen
+63,79,64,bedroom
+32,62,95,living room
+82,91,26,outdoors
+53,8,23,basement
+58,3,6,living room
+100,64,28,kitchen
+82,16,90,bedroom
+116,18,76,basement
+119,90,59,office
+94,75,63,living room
+55,13,18,office
+65,27,98,kitchen
+64,18,8,bedroom
+52,32,2,basement
+49,91,66,living room
+88,98,57,office
+50,79,59,kitchen
+113,69,29,kitchen
+39,65,23,outdoors
+40,63,93,bedroom
+82,10,74,living room
+92,90,55,outdoors
+50,28,42,office
+42,40,90,outdoors
+82,90,58,kitchen
+51,58,99,living room
+95,89,26,basement
+92,61,13,living room
+83,90,32,office
+40,37,24,kitchen
+119,38,95,office
+45,81,95,outdoors
+46,20,61,kitchen
+83,46,40,outdoors
+89,18,70,office
+51,42,39,living room
+112,16,96,basement
+89,44,92,basement
+69,43,8,outdoors
+110,15,61,office
+85,75,50,living room
+68,34,85,basement
+112,52,45,living room
+61,94,90,bedroom
+118,36,92,living room
+32,80,64,living room
+82,90,44,living room
+89,29,32,office
+90,71,18,outdoors
+96,19,81,office
+100,51,35,basement
+77,28,100,office
+53,55,88,basement
+99,32,58,living room
+70,82,72,outdoors
+99,43,90,outdoors
+91,16,20,outdoors
+55,50,15,outdoors
+115,34,35,kitchen
+59,31,8,bedroom
+90,92,2,office
+96,60,62,kitchen
+105,11,21,bedroom
+74,93,90,office
+41,23,18,kitchen
+95,64,40,office
+115,4,12,basement
+61,2,95,bedroom
+54,69,47,office
+72,94,5,bedroom
+110,75,77,office
+79,87,4,living room
+52,21,19,bedroom
+58,30,8,outdoors
+73,48,69,outdoors
+114,7,30,kitchen
+107,27,77,living room
+42,68,89,outdoors
+44,38,89,kitchen
+104,6,98,bedroom
+82,98,16,outdoors
+59,31,72,outdoors
+93,41,100,basement
+101,62,61,bedroom
+119,68,42,basement
+105,77,64,living room
+115,38,32,outdoors
+114,48,59,bedroom
+87,9,21,bedroom
+119,56,55,office
+56,96,79,living room
+52,26,88,outdoors
+32,100,96,basement
+70,53,51,office
+34,92,94,basement
+84,78,80,basement
+49,13,44,office
+62,80,98,outdoors
+73,100,48,basement
+111,50,94,outdoors
+109,38,37,outdoors
+60,67,49,bedroom
+65,60,68,basement
+57,93,76,bedroom
+66,20,38,basement
+83,50,8,outdoors
+77,32,75,kitchen
+80,56,77,outdoors
+109,53,78,living room
+120,31,37,kitchen
+53,61,56,kitchen
+51,80,77,living room
+76,90,77,bedroom
+60,88,88,bedroom
+103,78,19,kitchen
+85,9,5,kitchen
+69,38,94,bedroom
+104,19,32,kitchen
+111,29,68,office
+33,63,13,living room
+85,12,96,office
+53,31,72,office
+54,52,23,office
+111,13,79,kitchen
+80,28,59,outdoors
+94,27,85,outdoors
+60,17,53,outdoors
+66,46,24,office
+103,61,93,kitchen
+88,37,94,living room
+98,70,8,kitchen
+85,56,80,bedroom
+63,89,79,living room
+95,72,42,office
+118,9,95,bedroom
+120,81,14,bedroom
+51,60,64,bedroom
+66,45,89,kitchen
+114,64,23,kitchen
+90,62,17,outdoors
+97,70,68,living room
+110,47,27,outdoors
+115,64,51,bedroom
+54,95,86,office
+47,80,82,basement
+54,57,59,bedroom
+77,20,42,outdoors
+70,70,97,outdoors
+47,96,34,office
+33,19,30,office
+53,56,19,bedroom
+117,60,58,kitchen
+35,57,62,office
+76,22,3,office
+73,41,54,kitchen
+94,93,99,living room
+81,23,96,outdoors
+117,17,56,kitchen
+53,73,86,outdoors
+36,66,55,office
+97,50,61,kitchen
+48,56,88,kitchen
+66,57,59,living room
+88,40,42,basement
+33,81,11,office
+83,20,74,bedroom
+85,39,35,office
+73,27,50,outdoors
+112,31,32,office
+87,5,38,living room
+65,72,60,kitchen
+47,71,18,office
+67,88,48,basement
+86,92,75,kitchen
+40,19,61,basement
+113,50,46,basement
+112,70,55,basement
+49,12,89,kitchen
+120,34,73,kitchen
+112,85,36,basement
+89,52,28,living room
+39,49,71,office
+112,78,75,kitchen
+86,46,92,bedroom
+65,34,4,office
+79,85,71,living room
+63,74,62,office
+115,52,1,bedroom
+104,100,98,bedroom
+84,60,50,bedroom
+104,29,24,living room
+87,97,2,kitchen
+115,89,19,living room
+49,91,83,living room
+98,49,69,office
+82,9,12,bedroom
+50,79,57,outdoors
+94,76,38,office
+100,4,54,basement
+61,93,14,living room
+102,83,38,living room
+119,46,68,office
+45,81,47,kitchen
+34,65,2,basement
+110,86,31,basement
+62,41,80,bedroom
+100,46,53,kitchen
+111,72,95,living room
+69,87,17,basement
+56,71,10,basement
+96,19,31,living room
+81,15,81,outdoors
+70,18,8,outdoors
+87,6,20,bedroom
+87,44,43,bedroom
+87,33,51,outdoors
+85,16,97,basement
+119,78,60,basement
+47,45,50,living room
+116,92,99,kitchen
+54,24,5,living room
+45,45,91,office
+99,23,16,outdoors
+34,10,57,outdoors
+34,41,73,living room
+32,58,89,basement
+33,48,63,kitchen
+105,79,19,office
+75,52,98,kitchen
+61,5,87,kitchen
+79,80,13,office
+75,42,50,kitchen
+80,85,1,living room
+111,19,78,kitchen
+72,18,77,office
+47,2,77,bedroom
+69,21,53,bedroom
+99,5,18,kitchen
+81,70,5,outdoors
+95,23,77,kitchen
+89,27,1,bedroom
+34,15,11,outdoors
+84,3,51,kitchen
+94,42,46,outdoors
+46,85,67,living room
+75,89,8,outdoors
+69,75,3,outdoors
+89,58,98,outdoors
+49,59,37,basement
+111,100,12,kitchen
+108,70,46,basement
+61,72,96,living room
+69,46,87,basement
+81,71,24,bedroom
+115,26,18,office
+84,81,57,kitchen
+41,66,9,office
+95,70,24,kitchen
+92,13,71,office
+96,7,27,kitchen
+44,8,69,bedroom
+52,51,34,living room
+119,12,23,kitchen
+46,64,96,living room
+111,24,61,basement
+84,63,68,kitchen
+84,8,10,outdoors
+37,86,4,basement
+45,45,25,living room
+76,74,56,bedroom
+49,86,15,kitchen
+76,8,14,basement
+61,3,49,kitchen
+108,21,95,office
+104,68,26,living room
+70,29,64,living room
+89,69,89,kitchen
+95,43,85,bedroom
+69,7,38,outdoors
+62,8,60,living room
+84,59,16,outdoors
+102,13,24,kitchen
+83,66,91,living room
+46,30,60,office
+55,52,61,outdoors
+97,97,39,bedroom
+109,8,52,basement
+107,92,83,outdoors
+65,54,3,basement
+98,56,63,outdoors
+70,83,58,bedroom
+70,56,45,office
+120,40,62,kitchen
+45,47,69,outdoors
+119,84,90,outdoors
+42,81,88,basement
+51,69,98,living room
+62,78,79,kitchen
+49,32,10,bedroom
+80,76,9,kitchen
+50,61,50,office
+58,89,59,office
+55,7,35,basement
+68,5,90,office
+100,83,54,kitchen
+107,68,66,basement
+118,4,18,basement
+110,44,47,outdoors
+53,85,36,living room
+43,29,17,office
+60,51,4,bedroom
+77,94,98,living room
+97,21,90,office
+80,18,5,outdoors
+115,97,54,bedroom
+40,14,9,outdoors
+36,62,9,living room
+76,44,41,kitchen
+42,87,80,living room
+95,57,10,kitchen
+63,73,3,outdoors
+71,42,86,office
+113,34,12,living room
+74,81,60,living room
+73,65,85,basement
+113,52,85,outdoors
+50,33,8,kitchen
+51,18,91,bedroom
+103,92,83,outdoors
+98,11,54,basement
+74,11,47,living room
+37,96,52,bedroom
+111,25,74,living room
+94,15,95,kitchen
+58,90,90,outdoors
+32,59,49,bedroom
+59,57,66,basement
+110,10,92,living room
+81,3,31,kitchen
+110,68,14,living room
+44,9,26,living room
+40,30,92,kitchen
+57,3,32,bedroom
+61,13,16,basement
+88,54,47,bedroom
+105,94,58,kitchen
+87,40,22,kitchen
+47,27,13,office
+36,53,12,living room
+99,55,21,living room
+52,69,66,bedroom
+69,40,78,kitchen
+80,58,47,kitchen
+36,49,18,kitchen
+58,12,77,bedroom
+98,86,58,office
+46,47,76,kitchen
+39,52,25,basement
+88,84,24,outdoors
+39,16,36,living room
+65,49,24,basement
+44,92,19,living room
+119,7,30,kitchen
+110,80,20,office
+90,12,40,living room
+103,37,86,office
+38,52,31,kitchen
+59,55,94,office
+105,29,73,office
+106,57,46,kitchen
+38,98,7,bedroom
+114,7,90,office
+113,58,95,living room
+116,61,22,living room
+52,4,47,outdoors
+51,99,89,basement
+32,33,52,living room
+114,14,99,bedroom
+84,66,97,kitchen
+80,2,30,bedroom
+93,19,92,basement
+48,8,48,bedroom
+88,18,48,office
+89,39,23,basement
+93,4,22,outdoors
+91,14,33,living room
+94,38,71,kitchen
+71,39,31,kitchen
+96,16,91,bedroom
+59,86,96,kitchen
+64,13,39,basement
+81,32,71,kitchen
+51,79,54,bedroom
+36,51,24,outdoors
+99,31,19,office
+40,20,86,outdoors
+46,74,43,kitchen
+43,35,48,bedroom
+99,95,40,basement
+53,39,65,kitchen
+99,17,82,outdoors
+117,22,19,office
+88,93,62,living room
+33,18,62,bedroom
+98,65,57,kitchen
+43,33,36,living room
+48,42,14,living room
+40,17,61,office
+100,61,41,office
+59,30,48,office
+65,12,88,office
+108,95,71,outdoors
+93,41,46,outdoors
+41,70,72,basement
+100,76,5,basement
+120,27,73,kitchen
+41,79,30,outdoors
+77,83,30,living room
+50,57,48,living room
+41,11,61,outdoors
+86,7,4,outdoors
+76,16,88,living room
+105,71,52,basement
+61,37,26,basement
+67,9,21,living room
+82,43,39,living room
+107,67,83,kitchen
+84,19,34,outdoors
+54,27,27,bedroom
+83,80,62,outdoors
+51,25,47,living room
+86,72,49,bedroom
+42,66,78,kitchen
+88,55,5,living room
+110,29,33,outdoors
+90,18,73,office
+90,43,32,office
+104,84,7,office
+80,64,47,outdoors
+72,82,1,living room
+89,84,22,living room
+92,83,7,basement
+36,93,60,bedroom
+83,93,95,basement
+70,15,50,office
+77,74,26,office
+48,82,35,bedroom
+113,71,54,living room
+52,44,28,outdoors
+54,32,76,bedroom
+52,73,5,outdoors
+66,21,91,kitchen
+94,75,64,kitchen
+116,19,32,office
+117,42,80,bedroom
+66,27,39,living room
+32,43,84,outdoors
+76,59,10,bedroom
+47,22,35,basement
+101,79,31,bedroom
+58,8,94,living room
+83,50,26,living room
+100,94,95,living room
+118,30,57,office
+86,66,96,office
+63,25,40,bedroom
+90,58,26,kitchen

@@ -1,0 +1,1001 @@
+location_id,plant_id,location_name
+1,162,office
+2,17,living room
+3,647,kitchen
+4,255,living room
+5,174,outdoors
+6,576,office
+7,19,bedroom
+8,944,living room
+9,98,kitchen
+10,742,outdoors
+11,965,outdoors
+12,10,living room
+13,433,kitchen
+14,787,office
+15,625,basement
+16,499,living room
+17,327,outdoors
+18,409,living room
+19,94,basement
+20,649,outdoors
+21,778,basement
+22,218,basement
+23,878,office
+24,325,basement
+25,375,living room
+26,157,bedroom
+27,665,living room
+28,15,living room
+29,464,office
+30,321,living room
+31,480,outdoors
+32,925,basement
+33,430,outdoors
+34,678,outdoors
+35,775,office
+36,959,kitchen
+37,511,basement
+38,489,outdoors
+39,63,outdoors
+40,419,outdoors
+41,874,outdoors
+42,863,office
+43,560,kitchen
+44,947,office
+45,90,living room
+46,887,basement
+47,897,basement
+48,565,bedroom
+49,56,outdoors
+50,342,outdoors
+51,20,living room
+52,288,bedroom
+53,485,office
+54,194,bedroom
+55,815,office
+56,339,outdoors
+57,471,outdoors
+58,371,living room
+59,227,living room
+60,580,basement
+61,379,office
+62,170,outdoors
+63,665,office
+64,129,bedroom
+65,656,bedroom
+66,732,outdoors
+67,794,basement
+68,680,outdoors
+69,787,basement
+70,420,outdoors
+71,212,office
+72,541,basement
+73,356,bedroom
+74,760,basement
+75,259,basement
+76,178,outdoors
+77,466,kitchen
+78,566,living room
+79,743,outdoors
+80,773,office
+81,664,outdoors
+82,803,office
+83,149,living room
+84,9,bedroom
+85,452,bedroom
+86,81,basement
+87,311,living room
+88,368,office
+89,455,office
+90,746,office
+91,137,office
+92,437,outdoors
+93,776,kitchen
+94,940,living room
+95,959,living room
+96,500,outdoors
+97,493,office
+98,479,office
+99,786,bedroom
+100,671,outdoors
+101,777,outdoors
+102,497,living room
+103,587,office
+104,942,kitchen
+105,278,bedroom
+106,270,office
+107,890,bedroom
+108,712,living room
+109,41,outdoors
+110,263,office
+111,972,office
+112,473,office
+113,833,outdoors
+114,290,kitchen
+115,525,basement
+116,564,outdoors
+117,148,office
+118,607,office
+119,823,outdoors
+120,946,office
+121,72,living room
+122,721,basement
+123,269,outdoors
+124,550,bedroom
+125,770,outdoors
+126,419,living room
+127,244,kitchen
+128,561,kitchen
+129,31,living room
+130,663,living room
+131,390,kitchen
+132,511,living room
+133,537,living room
+134,174,basement
+135,655,living room
+136,931,outdoors
+137,695,basement
+138,40,kitchen
+139,70,bedroom
+140,750,outdoors
+141,469,bedroom
+142,814,outdoors
+143,588,office
+144,831,bedroom
+145,308,living room
+146,43,kitchen
+147,615,outdoors
+148,358,office
+149,793,office
+150,613,kitchen
+151,61,living room
+152,816,office
+153,990,bedroom
+154,194,bedroom
+155,562,living room
+156,193,bedroom
+157,493,bedroom
+158,181,office
+159,446,basement
+160,874,bedroom
+161,84,bedroom
+162,428,outdoors
+163,150,bedroom
+164,644,kitchen
+165,8,living room
+166,568,kitchen
+167,988,living room
+168,205,living room
+169,533,bedroom
+170,747,outdoors
+171,618,living room
+172,907,kitchen
+173,634,basement
+174,678,kitchen
+175,839,basement
+176,108,kitchen
+177,575,kitchen
+178,861,outdoors
+179,173,outdoors
+180,633,office
+181,938,outdoors
+182,502,basement
+183,455,office
+184,76,outdoors
+185,411,basement
+186,498,office
+187,139,living room
+188,278,outdoors
+189,111,office
+190,829,basement
+191,327,outdoors
+192,263,office
+193,318,office
+194,295,outdoors
+195,840,bedroom
+196,309,bedroom
+197,849,office
+198,614,bedroom
+199,564,outdoors
+200,11,bedroom
+201,543,kitchen
+202,842,basement
+203,913,office
+204,410,kitchen
+205,907,kitchen
+206,67,basement
+207,979,living room
+208,386,kitchen
+209,583,outdoors
+210,836,bedroom
+211,576,kitchen
+212,582,basement
+213,638,outdoors
+214,247,basement
+215,626,office
+216,151,basement
+217,807,kitchen
+218,92,bedroom
+219,13,kitchen
+220,684,office
+221,693,bedroom
+222,708,outdoors
+223,329,outdoors
+224,824,living room
+225,371,office
+226,714,basement
+227,72,basement
+228,816,kitchen
+229,927,bedroom
+230,545,outdoors
+231,509,kitchen
+232,443,bedroom
+233,396,bedroom
+234,30,outdoors
+235,42,office
+236,226,bedroom
+237,483,basement
+238,559,living room
+239,197,outdoors
+240,236,basement
+241,74,living room
+242,304,living room
+243,286,living room
+244,339,kitchen
+245,593,office
+246,964,basement
+247,872,office
+248,668,bedroom
+249,270,office
+250,826,outdoors
+251,819,basement
+252,722,basement
+253,115,kitchen
+254,574,living room
+255,253,bedroom
+256,481,kitchen
+257,194,basement
+258,176,office
+259,264,kitchen
+260,517,bedroom
+261,950,office
+262,977,living room
+263,507,kitchen
+264,911,office
+265,511,living room
+266,84,office
+267,436,outdoors
+268,146,kitchen
+269,759,living room
+270,42,office
+271,852,basement
+272,315,basement
+273,171,basement
+274,965,outdoors
+275,297,outdoors
+276,346,living room
+277,899,kitchen
+278,371,outdoors
+279,995,office
+280,433,living room
+281,463,office
+282,837,basement
+283,179,outdoors
+284,79,bedroom
+285,949,outdoors
+286,884,office
+287,46,bedroom
+288,935,office
+289,174,bedroom
+290,756,office
+291,872,bedroom
+292,387,outdoors
+293,906,outdoors
+294,775,office
+295,938,office
+296,792,bedroom
+297,993,living room
+298,401,kitchen
+299,123,kitchen
+300,412,living room
+301,340,living room
+302,456,office
+303,891,living room
+304,83,kitchen
+305,592,bedroom
+306,827,kitchen
+307,794,office
+308,440,kitchen
+309,721,office
+310,410,office
+311,446,office
+312,212,living room
+313,282,basement
+314,390,outdoors
+315,121,bedroom
+316,615,bedroom
+317,265,outdoors
+318,235,office
+319,277,basement
+320,409,kitchen
+321,160,living room
+322,725,office
+323,671,kitchen
+324,551,office
+325,466,outdoors
+326,229,kitchen
+327,552,basement
+328,24,outdoors
+329,647,living room
+330,10,outdoors
+331,439,office
+332,943,basement
+333,894,bedroom
+334,473,basement
+335,285,living room
+336,302,outdoors
+337,381,kitchen
+338,568,outdoors
+339,782,bedroom
+340,899,bedroom
+341,852,kitchen
+342,825,bedroom
+343,318,outdoors
+344,576,office
+345,102,outdoors
+346,737,outdoors
+347,752,basement
+348,309,outdoors
+349,204,living room
+350,270,kitchen
+351,180,office
+352,987,office
+353,532,kitchen
+354,714,basement
+355,607,office
+356,517,kitchen
+357,4,living room
+358,441,basement
+359,108,outdoors
+360,530,basement
+361,863,basement
+362,392,office
+363,200,office
+364,616,office
+365,459,outdoors
+366,656,living room
+367,874,office
+368,425,bedroom
+369,467,kitchen
+370,243,basement
+371,978,basement
+372,244,living room
+373,364,living room
+374,49,living room
+375,127,living room
+376,438,basement
+377,726,kitchen
+378,136,kitchen
+379,824,office
+380,120,living room
+381,797,office
+382,907,kitchen
+383,207,bedroom
+384,601,office
+385,410,outdoors
+386,265,bedroom
+387,818,living room
+388,285,living room
+389,767,bedroom
+390,111,office
+391,720,bedroom
+392,828,office
+393,604,basement
+394,974,bedroom
+395,470,outdoors
+396,506,office
+397,599,bedroom
+398,823,basement
+399,781,outdoors
+400,375,living room
+401,751,outdoors
+402,92,basement
+403,607,living room
+404,300,bedroom
+405,855,outdoors
+406,529,outdoors
+407,919,living room
+408,557,office
+409,768,kitchen
+410,318,kitchen
+411,460,basement
+412,210,bedroom
+413,64,living room
+414,153,bedroom
+415,299,outdoors
+416,354,outdoors
+417,110,kitchen
+418,950,outdoors
+419,838,basement
+420,268,living room
+421,322,bedroom
+422,716,bedroom
+423,176,office
+424,307,basement
+425,893,outdoors
+426,845,office
+427,447,outdoors
+428,178,kitchen
+429,182,kitchen
+430,544,outdoors
+431,364,kitchen
+432,139,outdoors
+433,717,outdoors
+434,69,outdoors
+435,882,office
+436,141,bedroom
+437,330,bedroom
+438,631,living room
+439,930,bedroom
+440,659,kitchen
+441,253,kitchen
+442,647,office
+443,15,outdoors
+444,1000,basement
+445,535,bedroom
+446,993,kitchen
+447,12,outdoors
+448,700,basement
+449,872,outdoors
+450,986,office
+451,700,bedroom
+452,773,office
+453,90,outdoors
+454,79,kitchen
+455,490,office
+456,379,living room
+457,359,basement
+458,527,office
+459,723,kitchen
+460,271,bedroom
+461,624,kitchen
+462,828,living room
+463,728,bedroom
+464,623,living room
+465,810,bedroom
+466,951,outdoors
+467,906,bedroom
+468,128,kitchen
+469,293,bedroom
+470,928,bedroom
+471,763,kitchen
+472,249,living room
+473,625,bedroom
+474,170,office
+475,278,bedroom
+476,900,kitchen
+477,404,outdoors
+478,573,basement
+479,131,outdoors
+480,357,living room
+481,965,kitchen
+482,979,kitchen
+483,815,bedroom
+484,827,living room
+485,382,living room
+486,454,bedroom
+487,805,kitchen
+488,972,living room
+489,140,bedroom
+490,974,living room
+491,123,bedroom
+492,250,office
+493,445,basement
+494,444,bedroom
+495,515,bedroom
+496,394,office
+497,616,bedroom
+498,264,kitchen
+499,517,living room
+500,679,living room
+501,101,living room
+502,393,office
+503,577,basement
+504,259,kitchen
+505,137,kitchen
+506,53,bedroom
+507,744,basement
+508,294,kitchen
+509,650,office
+510,314,kitchen
+511,169,bedroom
+512,318,outdoors
+513,684,basement
+514,497,basement
+515,890,office
+516,199,basement
+517,113,basement
+518,915,bedroom
+519,555,office
+520,810,bedroom
+521,366,office
+522,678,kitchen
+523,406,bedroom
+524,263,living room
+525,601,office
+526,660,office
+527,539,office
+528,630,office
+529,327,living room
+530,18,outdoors
+531,642,bedroom
+532,655,kitchen
+533,358,living room
+534,720,office
+535,533,living room
+536,480,living room
+537,496,basement
+538,662,basement
+539,547,basement
+540,130,bedroom
+541,911,kitchen
+542,132,living room
+543,952,bedroom
+544,879,office
+545,731,kitchen
+546,801,kitchen
+547,680,office
+548,651,living room
+549,701,kitchen
+550,192,office
+551,651,outdoors
+552,323,outdoors
+553,548,office
+554,200,bedroom
+555,739,basement
+556,225,outdoors
+557,816,kitchen
+558,282,kitchen
+559,378,bedroom
+560,48,office
+561,441,bedroom
+562,658,living room
+563,663,living room
+564,285,outdoors
+565,39,living room
+566,846,basement
+567,458,bedroom
+568,759,living room
+569,813,outdoors
+570,712,living room
+571,118,outdoors
+572,151,outdoors
+573,841,outdoors
+574,374,basement
+575,807,bedroom
+576,832,basement
+577,535,office
+578,88,office
+579,248,bedroom
+580,866,kitchen
+581,874,bedroom
+582,82,outdoors
+583,4,office
+584,431,office
+585,356,kitchen
+586,66,basement
+587,722,living room
+588,726,basement
+589,564,living room
+590,761,outdoors
+591,622,bedroom
+592,26,outdoors
+593,536,basement
+594,695,outdoors
+595,366,kitchen
+596,972,office
+597,29,basement
+598,818,basement
+599,518,living room
+600,337,living room
+601,960,living room
+602,470,living room
+603,253,basement
+604,992,basement
+605,296,office
+606,686,kitchen
+607,188,office
+608,719,bedroom
+609,287,living room
+610,731,outdoors
+611,333,office
+612,793,office
+613,64,basement
+614,280,outdoors
+615,787,outdoors
+616,754,kitchen
+617,234,office
+618,127,office
+619,85,kitchen
+620,16,living room
+621,509,outdoors
+622,534,living room
+623,159,living room
+624,230,bedroom
+625,356,basement
+626,68,kitchen
+627,73,office
+628,410,basement
+629,294,outdoors
+630,244,basement
+631,693,office
+632,769,bedroom
+633,414,kitchen
+634,611,kitchen
+635,210,kitchen
+636,735,basement
+637,629,living room
+638,962,kitchen
+639,709,living room
+640,227,basement
+641,189,bedroom
+642,877,bedroom
+643,883,bedroom
+644,518,basement
+645,171,basement
+646,430,office
+647,47,kitchen
+648,841,office
+649,319,basement
+650,536,kitchen
+651,888,basement
+652,976,office
+653,4,outdoors
+654,701,kitchen
+655,169,office
+656,646,basement
+657,522,office
+658,703,bedroom
+659,692,office
+660,449,office
+661,25,outdoors
+662,150,basement
+663,533,basement
+664,628,kitchen
+665,172,basement
+666,636,office
+667,797,outdoors
+668,447,bedroom
+669,149,bedroom
+670,816,outdoors
+671,222,outdoors
+672,955,basement
+673,431,kitchen
+674,330,kitchen
+675,512,basement
+676,825,living room
+677,485,kitchen
+678,900,bedroom
+679,921,kitchen
+680,658,kitchen
+681,699,outdoors
+682,609,outdoors
+683,590,basement
+684,957,outdoors
+685,965,basement
+686,308,bedroom
+687,375,outdoors
+688,958,outdoors
+689,212,bedroom
+690,610,kitchen
+691,195,living room
+692,633,basement
+693,949,bedroom
+694,317,bedroom
+695,865,kitchen
+696,660,kitchen
+697,920,kitchen
+698,782,outdoors
+699,106,office
+700,853,kitchen
+701,673,bedroom
+702,368,kitchen
+703,316,basement
+704,434,office
+705,425,bedroom
+706,470,living room
+707,346,basement
+708,63,office
+709,796,office
+710,554,living room
+711,974,kitchen
+712,755,bedroom
+713,459,living room
+714,640,office
+715,79,basement
+716,162,office
+717,461,kitchen
+718,431,kitchen
+719,414,office
+720,890,office
+721,453,outdoors
+722,75,living room
+723,839,basement
+724,108,kitchen
+725,811,basement
+726,984,living room
+727,112,outdoors
+728,804,outdoors
+729,76,office
+730,717,basement
+731,633,basement
+732,807,office
+733,424,basement
+734,29,kitchen
+735,953,living room
+736,466,kitchen
+737,87,kitchen
+738,676,bedroom
+739,894,outdoors
+740,560,living room
+741,354,bedroom
+742,357,bedroom
+743,578,outdoors
+744,699,outdoors
+745,133,kitchen
+746,455,kitchen
+747,489,kitchen
+748,978,bedroom
+749,282,outdoors
+750,479,outdoors
+751,164,office
+752,453,office
+753,659,kitchen
+754,827,office
+755,650,basement
+756,322,office
+757,301,outdoors
+758,12,outdoors
+759,925,kitchen
+760,857,basement
+761,256,office
+762,769,living room
+763,771,bedroom
+764,612,office
+765,170,office
+766,543,office
+767,440,basement
+768,394,outdoors
+769,728,basement
+770,374,bedroom
+771,130,kitchen
+772,965,office
+773,458,office
+774,592,kitchen
+775,656,bedroom
+776,568,living room
+777,102,kitchen
+778,279,outdoors
+779,248,kitchen
+780,187,outdoors
+781,199,bedroom
+782,986,bedroom
+783,503,living room
+784,33,outdoors
+785,15,outdoors
+786,202,bedroom
+787,598,bedroom
+788,658,living room
+789,794,basement
+790,552,outdoors
+791,590,basement
+792,881,basement
+793,863,outdoors
+794,82,basement
+795,99,office
+796,782,basement
+797,428,basement
+798,418,living room
+799,169,basement
+800,97,bedroom
+801,702,bedroom
+802,876,kitchen
+803,434,outdoors
+804,74,outdoors
+805,705,kitchen
+806,741,office
+807,862,living room
+808,224,outdoors
+809,41,basement
+810,658,outdoors
+811,388,basement
+812,119,office
+813,597,kitchen
+814,406,basement
+815,747,bedroom
+816,759,living room
+817,511,living room
+818,205,basement
+819,919,outdoors
+820,826,basement
+821,447,outdoors
+822,935,bedroom
+823,272,outdoors
+824,549,basement
+825,801,bedroom
+826,833,office
+827,790,bedroom
+828,972,kitchen
+829,160,living room
+830,568,kitchen
+831,312,living room
+832,286,office
+833,566,office
+834,803,kitchen
+835,832,bedroom
+836,799,basement
+837,692,office
+838,386,outdoors
+839,654,basement
+840,303,kitchen
+841,779,office
+842,112,living room
+843,980,living room
+844,510,outdoors
+845,310,bedroom
+846,845,outdoors
+847,191,basement
+848,215,bedroom
+849,669,office
+850,814,living room
+851,553,kitchen
+852,140,bedroom
+853,208,basement
+854,999,kitchen
+855,310,outdoors
+856,435,kitchen
+857,48,living room
+858,752,office
+859,673,kitchen
+860,910,basement
+861,227,living room
+862,958,kitchen
+863,526,kitchen
+864,322,living room
+865,320,basement
+866,331,kitchen
+867,780,outdoors
+868,726,kitchen
+869,676,office
+870,664,kitchen
+871,97,basement
+872,759,outdoors
+873,565,basement
+874,584,bedroom
+875,397,bedroom
+876,218,living room
+877,510,kitchen
+878,503,outdoors
+879,404,kitchen
+880,211,office
+881,699,office
+882,74,basement
+883,996,kitchen
+884,932,outdoors
+885,613,kitchen
+886,28,living room
+887,63,outdoors
+888,400,outdoors
+889,852,living room
+890,100,living room
+891,266,office
+892,620,kitchen
+893,746,kitchen
+894,806,office
+895,714,bedroom
+896,833,living room
+897,439,kitchen
+898,201,kitchen
+899,66,outdoors
+900,244,office
+901,838,outdoors
+902,690,kitchen
+903,787,bedroom
+904,722,kitchen
+905,593,kitchen
+906,79,bedroom
+907,934,bedroom
+908,118,living room
+909,110,outdoors
+910,916,office
+911,977,living room
+912,268,kitchen
+913,418,outdoors
+914,870,office
+915,408,bedroom
+916,248,basement
+917,486,office
+918,246,outdoors
+919,358,outdoors
+920,514,basement
+921,635,living room
+922,846,living room
+923,550,office
+924,225,office
+925,386,office
+926,232,basement
+927,409,outdoors
+928,276,office
+929,813,kitchen
+930,411,living room
+931,117,kitchen
+932,106,office
+933,58,office
+934,652,outdoors
+935,345,office
+936,191,kitchen
+937,71,kitchen
+938,617,office
+939,438,kitchen
+940,767,bedroom
+941,853,basement
+942,572,basement
+943,549,kitchen
+944,125,living room
+945,299,outdoors
+946,664,kitchen
+947,92,office
+948,761,living room
+949,548,bedroom
+950,122,basement
+951,705,kitchen
+952,219,bedroom
+953,69,basement
+954,609,bedroom
+955,217,bedroom
+956,344,outdoors
+957,360,living room
+958,62,kitchen
+959,16,basement
+960,700,living room
+961,475,outdoors
+962,349,living room
+963,385,basement
+964,788,living room
+965,907,bedroom
+966,204,kitchen
+967,94,outdoors
+968,691,bedroom
+969,132,outdoors
+970,277,outdoors
+971,627,basement
+972,255,bedroom
+973,827,office
+974,31,living room
+975,151,kitchen
+976,121,office
+977,178,kitchen
+978,35,bedroom
+979,594,living room
+980,793,office
+981,157,living room
+982,870,kitchen
+983,186,office
+984,395,living room
+985,187,basement
+986,61,bedroom
+987,163,kitchen
+988,878,living room
+989,505,kitchen
+990,276,kitchen
+991,224,bedroom
+992,807,outdoors
+993,852,kitchen
+994,802,kitchen
+995,557,kitchen
+996,146,basement
+997,919,living room
+998,509,kitchen
+999,713,outdoors
+1000,742,basement
