@@ -1,0 +1,1001 @@
+﻿plant_id,routine_name,watering_timer,fertilizing_timer,repotting_timer,last_fertilized,last_repotted,last_watered,type_fertilizer,pot_size,soil_type,watering_amount
+278,fall,6,4,3,1/4/2023,12/26/2022,7/14/2022,Enoxaparin Sodium,12.53,flowering,47
+600,winter,14,8,3,2/11/2023,2/10/2023,6/6/2022,Nortriptyline Hydrochloride,12.36,orchid,25
+865,summer,2,13,1,6/1/2022,8/8/2022,5/10/2022,Wal fex Allergy,79.02,flowering,85
+558,fall,5,10,4,4/8/2023,7/28/2022,1/30/2023,FibroCane CALM,84.26,orchid,65
+109,summer,8,10,11,4/25/2022,12/21/2022,9/15/2022,Hemorrhoidal Cooling Gel,6.71,orchid,60
+750,summer,13,5,10,10/30/2022,10/16/2022,12/18/2022,Synthroid,16.96,nitrogen-rich,61
+309,winter,2,5,1,3/15/2023,11/2/2022,2/22/2023,Vitamin K1,53.14,standard,61
+104,spring,13,9,12,1/7/2023,2/3/2023,7/5/2022,Fissure Control,36.97,standard,65
+695,summer,9,5,5,3/6/2023,5/22/2022,9/22/2022,Listerine Advanced with Tartar Protection Antiseptic,4.02,standard,67
+171,fall,11,5,2,10/8/2022,11/23/2022,1/21/2023,LISINOPRIL,25.96,nitrogen-rich,13
+24,summer,7,1,8,3/1/2023,7/16/2022,1/4/2023,Lexapro,4.65,standard,29
+65,summer,9,3,7,10/6/2022,9/9/2022,2/16/2023,Albutein,9.89,flowering,27
+305,winter,2,2,4,5/11/2022,11/19/2022,6/13/2022,Sulfamethoxazole and Trimethoprim,52.38,standard,63
+213,summer,11,5,7,2/7/2023,7/29/2022,4/10/2023,Olanzapine,58.25,orchid,95
+355,fall,6,1,9,5/13/2022,9/15/2022,4/4/2023,Extra Strength Acetaminophen,84.83,orchid,22
+777,summer,4,8,8,6/2/2022,1/14/2023,5/8/2022,Chlordiazepoxide Hydrochloride,29.21,flowering,46
+821,spring,13,3,9,7/3/2022,10/23/2022,2/27/2023,Traumeel X Value Pack,52.36,flowering,66
+831,winter,3,2,1,9/3/2022,3/18/2023,12/25/2022,Aplenzin,75.07,orchid,19
+736,summer,5,11,8,4/29/2022,1/17/2023,9/25/2022,Good Neighbor Pharmacy headache relief,5.79,nitrogen-rich,79
+353,spring,13,1,6,7/3/2022,12/17/2022,6/4/2022,Pecan Pollen,45.01,orchid,37
+795,fall,9,5,13,7/3/2022,6/19/2022,3/15/2023,Arroyo Willow,51.38,nitrogen-rich,24
+544,spring,11,11,7,1/17/2023,12/26/2022,1/21/2023,Traumatone,70.6,standard,92
+142,spring,2,14,4,8/25/2022,6/5/2022,6/27/2022,DONEPEZIL HYDROCHLORIDE,86.99,standard,43
+611,summer,5,2,13,4/10/2023,10/10/2022,11/29/2022,Vicks Sinex,22.37,nitrogen-rich,72
+825,winter,1,12,14,3/22/2023,6/21/2022,6/14/2022,Agropharma Isopropyl Alcohol,49.57,compact,88
+627,summer,3,8,3,11/28/2022,7/14/2022,3/22/2023,NARS ALL DAY LUMINOUS FOUNDATION,87.53,compact,20
+570,fall,6,3,14,5/20/2022,6/17/2022,6/16/2022,Valproic,51.36,compact,60
+437,winter,10,13,13,8/2/2022,2/4/2023,2/11/2023,Bio Chem Detox,36.76,nitrogen-rich,37
+610,winter,6,6,12,8/27/2022,5/27/2022,8/6/2022,Silace,75.29,flowering,45
+281,fall,11,10,6,11/14/2022,9/22/2022,4/30/2022,Wormwood,99.21,flowering,40
+792,summer,2,1,3,8/17/2022,10/28/2022,12/19/2022,Dicyclomine Hydrochloride,51.34,flowering,53
+966,summer,1,12,12,1/14/2023,4/27/2022,4/27/2022,Lovastatin,11.04,compact,32
+909,winter,2,12,13,3/20/2023,6/11/2022,8/11/2022,pain relief,82.63,flowering,53
+129,fall,10,8,11,12/1/2022,6/5/2022,12/16/2022,NASONEX,95.82,nitrogen-rich,97
+229,fall,5,9,5,6/25/2022,3/25/2023,12/28/2022,itraconazole,9.84,flowering,9
+217,winter,7,4,6,5/31/2022,1/19/2023,4/10/2023,Aspirin,23.11,nitrogen-rich,53
+31,fall,9,6,9,6/20/2022,12/26/2022,12/16/2022,Laxative,20.86,compact,78
+10,spring,2,10,7,4/19/2022,4/12/2023,1/2/2023,Hydrochlorothiazide,11.53,orchid,87
+221,fall,4,7,2,4/6/2023,5/5/2022,9/19/2022,Sodium Fluoride F 18,7.38,nitrogen-rich,86
+607,fall,7,12,4,10/10/2022,8/12/2022,1/2/2023,Crest Complete Multi-Benefit Extra Whitening,34.23,orchid,16
+331,winter,6,6,6,7/30/2022,4/11/2023,12/13/2022,Gehwol Fusskraft Nail and Skin Protection,66.18,nitrogen-rich,3
+502,summer,14,9,11,10/31/2022,6/10/2022,12/4/2022,Oxygen,29.23,orchid,96
+295,winter,12,6,5,4/7/2023,3/18/2023,3/11/2023,Sun Shades Lip Balm,3.36,compact,21
+135,winter,4,5,14,3/12/2023,10/5/2022,9/3/2022,Goodys Extra Strength,30.62,orchid,55
+66,winter,11,6,6,8/3/2022,6/29/2022,5/26/2022,Body Luxuries Cherry Blossom Waterless Anti-bacterial Hand Sanitizer,57.86,compact,40
+554,summer,10,4,9,2/2/2023,11/8/2022,10/14/2022,Hydrochlorothiazide,80.55,flowering,55
+525,spring,5,7,11,8/14/2022,7/17/2022,9/21/2022,Papaverine Hydrochloride,2.78,compact,38
+12,spring,14,12,1,8/29/2022,2/4/2023,1/4/2023,BAMBOO SALT Eunganggo Jook Yeom,14.11,flowering,85
+652,winter,11,4,2,9/4/2022,10/29/2022,9/26/2022,Formu Care pain relief,31.11,orchid,86
+886,spring,2,4,5,6/25/2022,5/17/2022,10/13/2022,Senna-Lax,23.03,flowering,94
+978,summer,3,10,3,10/20/2022,11/23/2022,6/14/2022,Doxycycline,29.21,compact,55
+317,fall,10,6,13,9/2/2022,5/9/2022,3/24/2023,GERI-LANTA MAXIMUM STRENGTH,46.1,flowering,54
+523,summer,4,13,10,7/26/2022,4/19/2022,2/5/2023,Atenolol,88.18,orchid,19
+982,fall,9,4,2,8/7/2022,12/21/2022,8/7/2022,Doxycycline,70.53,flowering,7
+489,winter,4,10,3,6/3/2022,3/17/2023,2/24/2023,DIORSNOW WHITE REVEAL PURE TRANSPARENCY MAKEUP SPF 30 020 Light Beige,92.55,flowering,71
+422,spring,8,10,11,2/25/2023,10/29/2022,8/27/2022,Valacyclovir Hydrochloride,63.84,flowering,31
+766,summer,1,6,13,8/1/2022,5/2/2022,2/26/2023,Imipramine Hydrochloride,59.36,orchid,74
+834,spring,13,5,6,12/12/2022,6/2/2022,9/8/2022,Relief,8.09,flowering,75
+685,winter,11,6,2,12/7/2022,2/13/2023,7/30/2022,Queen Palm,40.86,compact,73
+214,spring,13,9,1,5/2/2022,7/8/2022,6/22/2022,Ketorolac Tromethamine,48.69,flowering,42
+795,fall,1,13,11,3/16/2023,4/7/2023,11/24/2022,Degree,98.42,flowering,68
+829,fall,7,11,8,8/30/2022,8/3/2022,11/16/2022,Felodipine,3.73,standard,63
+116,spring,5,7,9,5/16/2022,12/21/2022,10/4/2022,Nortriptyline Hydrochloride,62.75,orchid,4
+638,fall,4,10,13,12/24/2022,8/17/2022,12/25/2022,Pin X,31.31,standard,32
+803,spring,8,8,4,8/23/2022,1/19/2023,10/4/2022,REMEDY Clear-Aid Skin Protectant,13.68,nitrogen-rich,50
+401,winter,2,10,14,1/21/2023,2/8/2023,12/4/2022,Mekinist,33.06,nitrogen-rich,97
+589,summer,14,8,14,7/26/2022,6/19/2022,10/5/2022,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,63.54,orchid,40
+8,winter,12,10,6,2/25/2023,4/6/2023,7/31/2022,nicotine,19.93,nitrogen-rich,49
+571,fall,8,14,14,4/23/2022,8/25/2022,3/5/2023,Oxybutynin Chloride,26.42,standard,90
+68,fall,9,6,6,12/31/2022,11/26/2022,10/9/2022,RHEUMATIC PAINS,11.32,nitrogen-rich,86
+496,summer,11,11,11,2/27/2023,2/15/2023,12/16/2022,Morphine Sulfate,62.99,compact,57
+473,winter,3,11,14,11/5/2022,2/26/2023,4/29/2022,Sodium Chloride,78.54,standard,43
+388,spring,9,11,3,9/25/2022,10/6/2022,8/14/2022,ELOCTATE,36.45,orchid,11
+811,winter,4,2,10,6/26/2022,11/26/2022,1/23/2023,CLINIMIX E,89.02,nitrogen-rich,12
+228,spring,7,12,7,8/23/2022,5/15/2022,11/18/2022,Hydroxyzine Pamoate,31.02,flowering,94
+267,fall,8,1,10,6/15/2022,2/16/2023,7/10/2022,Healing Waters Peach Nectarine Hand Sanitizer,31.28,nitrogen-rich,41
+913,fall,3,2,6,9/15/2022,7/3/2022,5/28/2022,REGIMEN ANTIMICROBIAL,6.62,orchid,63
+700,fall,4,3,4,4/7/2023,1/11/2023,7/23/2022,Cyclophosphamide,88.5,compact,15
+436,spring,6,12,5,8/12/2022,2/5/2023,11/11/2022,3LAB Aqua BB SPF 40 BROAD SPECTRUM 02,78.51,compact,53
+676,fall,6,10,13,2/14/2023,7/18/2022,12/5/2022,Tobramycin,19.89,orchid,38
+730,spring,6,1,12,6/22/2022,5/16/2022,8/24/2022,Medium Foundation SPF 15,96.45,orchid,96
+919,summer,11,4,14,1/23/2023,7/31/2022,2/12/2023,Bodycology,33.37,compact,46
+954,summer,10,8,13,12/29/2022,3/24/2023,3/20/2023,Silk Antibacterial Foaming Hand,1.7,standard,15
+24,winter,12,5,1,8/16/2022,9/10/2022,7/5/2022,Neurontin,17.58,orchid,98
+516,summer,11,8,3,12/19/2022,12/2/2022,10/17/2022,Oxycodone Hydrochloride,56.91,nitrogen-rich,73
+957,spring,1,7,11,6/24/2022,5/29/2022,12/2/2022,Care Bears Cotton Candy Antiseptic Hand Cleansing,5.89,orchid,85
+321,fall,3,5,12,4/12/2023,9/18/2022,10/15/2022,Pioglitazone,66.05,standard,16
+192,summer,3,9,6,9/10/2022,9/2/2022,1/22/2023,Pediatric Infuvite Multiple Vitamins for Infusion,79.67,orchid,52
+1000,fall,6,4,7,9/5/2022,7/16/2022,6/23/2022,Stool Softener,90.32,nitrogen-rich,10
+724,spring,14,12,8,3/9/2023,5/14/2022,1/6/2023,Senna Laxative plus Stool Softener,31.64,standard,85
+182,summer,14,7,2,6/18/2022,8/20/2022,10/23/2022,Fresh Umbrain Clay Freshface Foundation SPF 20 Croisette,59.58,nitrogen-rich,26
+373,winter,14,13,5,11/28/2022,1/24/2023,11/14/2022,Risperidone,48.65,flowering,4
+225,winter,2,4,7,11/27/2022,11/24/2022,8/31/2022,ALMOST POWDER,22.43,compact,16
+796,fall,14,7,3,7/22/2022,3/6/2023,12/16/2022,Glytone Essentials Rejuvenate daily,11.28,standard,25
+746,spring,8,7,10,3/19/2023,10/1/2022,9/30/2022,Upper Respiratory Staph Strep Combination,49.24,standard,45
+193,summer,13,1,9,3/20/2023,11/19/2022,10/24/2022,AsthmaCare,47.83,orchid,42
+799,winter,12,6,4,7/14/2022,8/31/2022,12/30/2022,Aricept,29.67,flowering,54
+898,winter,14,9,14,8/6/2022,1/30/2023,7/9/2022,FIRST AID Contains 404 PIECES,96.92,standard,80
+387,fall,5,11,7,3/9/2023,9/16/2022,1/29/2023,Hydroxyzine Hydrochloride,51.0,orchid,72
+230,winter,10,14,1,8/6/2022,11/8/2022,8/27/2022,California Juniper Pollen,98.68,flowering,59
+25,spring,9,4,8,12/8/2022,10/3/2022,1/13/2023,Ash Mixture,95.8,nitrogen-rich,81
+142,spring,14,11,7,3/16/2023,2/15/2023,12/6/2022,Sciatica Relief,60.33,nitrogen-rich,85
+778,spring,9,2,10,1/26/2023,6/3/2022,12/30/2022,AK-POLY-BAC,6.21,flowering,39
+17,summer,7,6,3,1/9/2023,9/20/2022,8/13/2022,White Ash,71.91,standard,64
+605,fall,11,5,2,5/17/2022,3/20/2023,8/2/2022,SENSAI TRIPLE TOUCH COMPACT TC01,71.62,standard,10
+736,winter,2,8,11,9/23/2022,4/8/2023,8/23/2022,PINUS ECHINATA POLLEN,44.44,compact,30
+298,spring,14,11,2,2/5/2023,8/1/2022,1/8/2023,BENEFIANCE PROTECTIVE HAND REVITALIZER,63.82,orchid,25
+143,fall,9,9,7,1/25/2023,6/21/2022,9/27/2022,Tri-Med Medical,55.86,nitrogen-rich,78
+779,fall,4,3,14,5/31/2022,1/30/2023,6/16/2022,Dark Skin Defense Concealer Broad Spectrum SPF 15,24.03,compact,6
+783,fall,2,6,11,3/23/2023,10/14/2022,11/18/2022,Divalproex Sodium,68.0,orchid,62
+153,spring,6,4,12,8/7/2022,1/3/2023,3/22/2023,Neutrogena MoistureShine Lip Soother,80.66,standard,70
+383,fall,12,12,9,8/26/2022,7/30/2022,3/15/2023,Usana Active Calcium,89.46,flowering,92
+875,summer,8,7,8,8/18/2022,7/31/2022,5/24/2022,Rheuma Joint Support,65.97,compact,98
+883,fall,7,14,11,7/25/2022,7/17/2022,8/28/2022,Efudex,81.67,compact,8
+201,fall,13,4,5,5/2/2022,1/14/2023,4/2/2023,Atenolol,63.83,orchid,17
+363,summer,7,14,4,9/7/2022,11/30/2022,11/17/2022,Acebutolol Hydrochloride,20.36,orchid,5
+185,winter,9,8,2,10/19/2022,1/19/2023,4/8/2023,HydrOXYzine Hydrochloride,71.95,orchid,92
+482,fall,3,14,14,5/3/2022,4/25/2022,5/13/2022,Renes Cuprum,89.66,standard,78
+724,summer,1,11,14,11/13/2022,11/12/2022,5/7/2022,POPULUS DELTOIDES SSP MONILIFERA POLLEN,74.01,compact,69
+311,summer,8,4,12,10/7/2022,8/2/2022,10/23/2022,Cefazolin,3.38,standard,2
+618,winter,11,2,7,5/25/2022,4/16/2023,12/29/2022,Quality Choice Cold and Sore Throat,18.09,orchid,32
+811,fall,2,4,6,6/9/2022,6/14/2022,7/12/2022,NUVIGIL,57.62,flowering,85
+806,winter,11,3,9,8/30/2022,8/29/2022,1/1/2023,Verapamil Hydrochloride,34.27,compact,49
+367,fall,9,8,4,12/25/2022,2/6/2023,10/28/2022,Nicotiana Carbo,6.51,flowering,26
+406,spring,4,12,8,11/5/2022,1/12/2023,4/6/2023,Alprazolam,74.96,flowering,100
+497,winter,14,2,6,12/2/2022,12/2/2022,12/16/2022,GenRx Cala Zinc Skin Healing,4.25,compact,51
+26,spring,8,8,7,8/11/2022,11/13/2022,12/30/2022,Hemorrhoidal,73.35,flowering,96
+957,spring,1,7,14,1/22/2023,9/2/2022,5/9/2022,dg health cold and allergy,15.07,orchid,45
+843,fall,11,2,14,7/10/2022,12/5/2022,10/20/2022,Lyrica,73.48,flowering,75
+447,summer,11,6,11,4/6/2023,12/2/2022,6/12/2022,Triaminic,2.26,nitrogen-rich,32
+931,fall,1,3,2,7/14/2022,3/6/2023,1/7/2023,Enoxaparin Sodium,40.01,standard,80
+219,fall,2,10,12,4/3/2023,7/6/2022,6/23/2022,tizanidine,72.02,orchid,16
+639,spring,11,2,6,3/27/2023,9/16/2022,11/23/2022,clarithromycin,89.71,flowering,42
+877,fall,2,6,2,10/1/2022,1/2/2023,12/1/2022,Covergirl Outlast Stay Fabulous 3in1 Foundation,90.97,compact,11
+704,fall,8,7,6,12/27/2022,4/30/2022,12/2/2022,Promethazine Hydrochloride,54.07,nitrogen-rich,11
+259,spring,10,12,8,6/17/2022,1/19/2023,5/30/2022,Pleo Stroph,57.27,compact,81
+281,winter,11,14,7,1/22/2023,3/1/2023,1/7/2023,SPRYCEL,13.52,nitrogen-rich,26
+113,winter,6,1,12,5/26/2022,12/15/2022,5/12/2022,fluvoxamine maleate,62.06,flowering,97
+368,winter,7,6,2,2/10/2023,12/30/2022,3/4/2023,NITROGEN,65.81,nitrogen-rich,11
+479,spring,11,14,2,10/27/2022,9/18/2022,3/5/2023,Nitroglycerin Transdermal Delivery System,27.3,standard,38
+878,spring,7,5,6,3/27/2023,5/10/2022,4/12/2023,HydrOXYzine Hydrochloride,13.08,orchid,1
+85,fall,3,1,11,6/3/2022,4/6/2023,11/15/2022,Insects (whole body) cockroach mix,16.66,orchid,42
+517,summer,5,14,11,6/16/2022,9/4/2022,12/22/2022,Leader ibuprofen,64.16,standard,66
+460,fall,8,6,7,8/19/2022,5/27/2022,9/22/2022,Menveo,10.77,orchid,12
+632,summer,14,5,12,6/15/2022,12/13/2022,10/23/2022,Refresh Sanitizing Towlette,7.37,nitrogen-rich,17
+838,winter,1,14,3,1/6/2023,8/23/2022,12/23/2022,AMITRIPTYLINE HYDROCHLORIDE,88.99,flowering,12
+515,spring,1,1,5,4/25/2022,1/25/2023,12/3/2022,LBEL EFFET PARFAIT DUAL-USE COMPACT YOUTHFUL LOOKING SKIN SPF7,30.49,flowering,16
+661,summer,1,6,14,10/20/2022,12/13/2022,3/20/2023,Ciprofloxacin,33.8,orchid,12
+746,fall,11,13,5,2/7/2023,12/12/2022,3/2/2023,Kadian,97.76,nitrogen-rich,3
+465,fall,9,3,7,11/19/2022,6/9/2022,10/5/2022,Metformin Hydrochloride,92.05,standard,15
+94,winter,11,1,6,2/28/2023,4/26/2022,1/1/2023,Stool Softener,71.64,compact,92
+667,spring,1,13,7,1/8/2023,6/8/2022,12/26/2022,Tincture Merthiolate,20.27,standard,45
+861,summer,4,11,4,10/14/2022,2/10/2023,3/30/2023,NV-HP,83.04,orchid,74
+394,winter,9,3,6,5/18/2022,5/30/2022,10/10/2022,CELTIS OCCIDENTALIS POLLEN,29.95,flowering,52
+426,winter,11,2,12,5/1/2022,8/20/2022,11/2/2022,CEPHALEXIN,84.76,flowering,4
+734,summer,5,6,11,8/16/2022,7/4/2022,6/30/2022,Purminerals 4-in-1 14-Hour Wear Foundation Broad Spectrum SPF 15 (GOLDEN DARK),90.12,nitrogen-rich,47
+587,fall,3,7,4,1/16/2023,6/14/2022,8/13/2022,Levitra,14.44,compact,43
+733,summer,6,1,14,12/7/2022,4/4/2023,10/31/2022,RED GINSENG FERMENTED TONER,38.39,standard,18
+323,fall,9,5,8,5/11/2022,6/24/2022,4/27/2022,Hydrogen Peroxide,75.04,compact,76
+865,spring,3,14,5,6/15/2022,6/25/2022,5/9/2022,Midazolam,64.37,nitrogen-rich,46
+707,fall,4,9,9,6/11/2022,10/17/2022,1/22/2023,ATORVASTATIN CALCIUM,66.68,compact,29
+992,winter,12,1,12,12/2/2022,9/17/2022,3/11/2023,Cephalexin,85.76,nitrogen-rich,68
+156,fall,4,7,5,5/22/2022,7/1/2022,4/28/2022,Clemastine Fumarate,51.78,flowering,78
+64,fall,3,7,6,4/8/2023,8/19/2022,1/28/2023,Doxycycline,63.03,standard,4
+173,spring,6,1,9,10/20/2022,5/16/2022,7/26/2022,Shimmery Sun,35.99,orchid,83
+609,spring,10,4,7,5/20/2022,9/2/2022,6/18/2022,Deferoxamine Mesylate,5.99,compact,64
+449,spring,11,13,1,2/11/2023,11/17/2022,5/23/2022,Run Kang Alcohol Pads - MEDIUM,47.91,compact,93
+997,spring,6,11,12,3/20/2023,9/15/2022,11/15/2022,Oxcarbazepine,50.43,orchid,97
+508,spring,7,10,7,10/25/2022,10/31/2022,11/4/2022,DayTime Cold Flu Non-Drowsy,85.77,orchid,13
+398,fall,9,1,6,12/3/2022,8/11/2022,12/1/2022,Perfect Choice,54.34,nitrogen-rich,66
+154,fall,2,1,11,12/28/2022,4/22/2022,4/19/2022,Penicilium chrysogenum,32.46,standard,92
+380,winter,13,2,10,7/2/2022,12/31/2022,4/14/2023,OXALIPLATIN,56.87,nitrogen-rich,57
+822,winter,4,2,12,1/24/2023,8/5/2022,8/27/2022,Preventage Firming Defense Creme Normal/Dry,16.14,compact,41
+350,spring,11,4,10,11/28/2022,6/23/2022,9/11/2022,Acyclovir,83.68,compact,97
+898,summer,1,6,13,3/23/2023,10/3/2022,9/29/2022,Afinitor,10.26,flowering,45
+779,fall,2,2,10,1/1/2023,12/15/2022,5/11/2022,Lovastatin,33.88,flowering,2
+726,summer,9,11,9,2/3/2023,11/30/2022,1/23/2023,Corn Grass,50.03,nitrogen-rich,4
+127,winter,1,4,13,5/23/2022,3/4/2023,2/21/2023,LIDODERM,60.97,flowering,28
+82,summer,14,2,8,3/22/2023,9/8/2022,10/13/2022,NIACIN,12.08,standard,87
+280,summer,4,4,13,9/17/2022,3/15/2023,3/30/2023,Synthroid,76.87,nitrogen-rich,94
+170,fall,11,12,8,7/27/2022,4/29/2022,10/20/2022,Dermasil Sensitive,36.29,nitrogen-rich,53
+646,fall,5,13,8,4/13/2023,5/19/2022,2/16/2023,California Live Oak,93.36,compact,28
+286,fall,10,6,7,11/13/2022,5/2/2022,8/19/2022,clear lax,59.85,orchid,5
+281,winter,9,8,9,3/30/2023,3/14/2023,5/7/2022,Nasal Decongestant PE,20.12,compact,15
+675,fall,1,13,6,3/18/2023,7/22/2022,4/23/2022,Triostat,93.23,standard,82
+307,winter,5,1,5,10/17/2022,4/16/2023,1/5/2023,DG HEALTH ANTI ITCH,58.32,flowering,49
+453,winter,13,6,11,8/29/2022,6/16/2022,12/22/2022,Cozaar,49.4,compact,81
+354,winter,6,7,6,10/23/2022,7/18/2022,9/20/2022,Tramadol Hydrochloride,61.6,flowering,57
+534,spring,7,1,7,7/9/2022,12/11/2022,1/28/2023,Stem Cell Wrinkle Serum,15.7,compact,73
+680,spring,14,4,1,9/23/2022,5/9/2022,9/5/2022,Ibuprofen,4.41,standard,31
+685,spring,9,6,7,6/23/2022,7/24/2022,10/5/2022,Pomegranate Rose Hand Sanitizer,59.32,orchid,28
+187,spring,7,13,10,3/13/2023,3/6/2023,5/26/2022,Naturasil,60.38,nitrogen-rich,7
+140,fall,10,7,9,6/8/2022,8/5/2022,7/9/2022,Finafta,39.16,compact,97
+658,winter,14,6,7,1/5/2023,10/11/2022,1/5/2023,Cold Remedy,37.32,standard,15
+923,spring,13,11,4,8/12/2022,11/6/2022,6/6/2022,ATORVASTATIN CALCIUM,41.5,standard,67
+476,winter,7,6,2,9/26/2022,7/12/2022,3/28/2023,Oxygen,83.01,orchid,78
+972,fall,1,13,14,1/9/2023,3/13/2023,10/8/2022,Warfarin Sodium,16.97,flowering,78
+976,fall,11,8,12,12/6/2022,6/14/2022,3/21/2023,"Animal Allergens, Feather Mix",33.25,orchid,41
+150,fall,12,5,1,12/14/2022,5/1/2022,6/30/2022,V-COF,66.37,compact,34
+129,summer,14,13,2,9/28/2022,5/19/2022,10/4/2022,Ketoprofen,95.23,nitrogen-rich,66
+817,summer,12,4,14,1/17/2023,4/8/2023,4/4/2023,SHISEIDO SUN PROTECTION LIP TREATMENT,79.55,flowering,30
+123,winter,12,14,13,4/22/2022,4/18/2022,5/14/2022,Quinapril,49.35,flowering,38
+664,winter,11,13,6,11/20/2022,4/24/2022,12/12/2022,Benazepril Hydrochloride and Hydrochlorothiazide,84.3,flowering,20
+76,spring,12,4,12,3/11/2023,6/3/2022,5/4/2022,Acne,50.42,orchid,57
+159,fall,14,9,2,2/15/2023,2/26/2023,2/24/2023,Antibacterial Hand GB Sugar Cookie,41.24,orchid,29
+235,summer,10,9,11,2/14/2023,5/29/2022,12/28/2022,Midazolam,35.61,compact,72
+347,fall,10,11,3,4/22/2022,9/23/2022,5/14/2022,Benzocaine,49.51,nitrogen-rich,76
+568,summer,1,8,13,3/19/2023,2/28/2023,10/17/2022,Propylthiouracil,89.96,orchid,23
+887,summer,11,7,2,2/7/2023,2/1/2023,5/24/2022,Quinapril Hydrochloride,58.12,compact,49
+401,summer,5,7,4,6/1/2022,5/14/2022,7/5/2022,Cold and Cough,64.2,flowering,18
+405,winter,4,3,4,11/9/2022,6/4/2022,11/29/2022,PURELL Advanced Green Certified Instant Hand Sanitizer,60.47,compact,24
+28,summer,12,11,6,9/12/2022,6/18/2022,8/4/2022,Medpride,41.45,compact,57
+764,summer,13,2,7,4/28/2022,4/23/2022,11/11/2022,Aller-Detox Caffeine,37.1,standard,60
+676,summer,10,14,5,1/11/2023,6/11/2022,1/26/2023,Cetirizine Hydrochloride,43.29,nitrogen-rich,69
+711,summer,11,12,11,12/16/2022,1/18/2023,6/11/2022,SUNTINTS,31.74,standard,36
+936,winter,13,9,1,3/8/2023,12/30/2022,6/4/2022,PULMICORT RESPULES,71.23,nitrogen-rich,30
+828,spring,12,4,4,6/10/2022,3/30/2023,12/19/2022,Synthroid,24.54,orchid,55
+792,fall,3,2,13,6/20/2022,1/10/2023,5/21/2022,Meteoric Iron Prunus Immune Support,85.45,standard,62
+409,fall,5,4,1,12/22/2022,2/2/2023,1/29/2023,ibuprofen,90.52,nitrogen-rich,96
+692,fall,9,5,2,12/27/2022,2/10/2023,7/1/2022,Childrens Ibuprofen,49.76,flowering,66
+913,fall,6,8,5,9/21/2022,8/23/2022,1/12/2023,Alba TerraTint Bloom SPF 15 Lip Balm,65.56,orchid,16
+613,spring,7,2,14,7/15/2022,7/23/2022,1/27/2023,Acute Viro Reliever,42.63,nitrogen-rich,13
+815,summer,4,10,12,10/25/2022,1/31/2023,9/16/2022,RISPERDAL,22.56,orchid,69
+424,summer,3,7,10,7/8/2022,7/16/2022,8/12/2022,Escitalopram,37.94,standard,16
+812,summer,12,5,9,9/6/2022,2/24/2023,4/3/2023,acyclovir,11.03,compact,84
+51,winter,14,3,13,6/27/2022,6/23/2022,11/17/2022,Glimepiride,79.29,flowering,98
+261,fall,7,10,5,6/28/2022,1/2/2023,10/23/2022,CARBIDOPA AND LEVODOPA,60.69,flowering,72
+900,summer,10,10,9,4/12/2023,8/7/2022,3/11/2023,Glimepiride,16.51,standard,41
+410,spring,7,2,7,3/17/2023,1/21/2023,5/12/2022,Clear Eyes Outdoor Dry Eye Protection,50.69,nitrogen-rich,97
+958,winter,3,11,9,11/23/2022,6/13/2022,8/20/2022,Garlic,8.93,nitrogen-rich,27
+917,winter,6,14,8,8/22/2022,11/13/2022,2/11/2023,Promethazine hydrochloride,81.98,compact,33
+82,summer,4,1,6,2/15/2023,7/8/2022,2/22/2023,Trauma Relief Gel,30.8,flowering,28
+362,summer,6,10,7,11/3/2022,3/15/2023,12/10/2022,Sinutone,30.11,standard,44
+313,summer,8,14,4,2/28/2023,10/20/2022,9/9/2022,Oxygen,8.3,compact,84
+509,fall,8,10,8,10/15/2022,10/15/2022,5/19/2022,Phenobarbital,78.14,standard,4
+585,fall,1,7,3,10/15/2022,3/8/2023,5/31/2022,Fluconazole,22.71,orchid,79
+287,fall,12,1,4,12/14/2022,7/26/2022,10/4/2022,ORRIS,52.4,nitrogen-rich,39
+977,winter,3,10,1,7/9/2022,8/31/2022,5/26/2022,Cenestin,23.35,standard,85
+638,spring,1,7,6,7/19/2022,9/14/2022,8/30/2022,Uramaxin GT,71.08,standard,28
+364,summer,12,12,4,10/12/2022,7/4/2022,3/19/2023,PREZISTA,33.25,flowering,66
+564,winter,6,6,11,7/29/2022,6/28/2022,7/1/2022,Avena Valeriana,23.26,compact,32
+921,fall,1,12,2,5/26/2022,5/12/2022,8/7/2022,2 in 1,66.81,orchid,18
+961,winter,3,10,11,8/4/2022,2/3/2023,11/14/2022,Thiothixene,99.89,standard,16
+551,winter,11,7,5,11/13/2022,10/4/2022,2/16/2023,MISOPROSTOL,92.53,flowering,89
+145,fall,14,9,2,8/1/2022,6/5/2022,10/10/2022,nighttime cold and flu relief,91.64,nitrogen-rich,37
+317,summer,2,14,14,2/14/2023,5/31/2022,11/24/2022,Cold Sore Treatment,45.51,flowering,50
+827,fall,9,12,2,12/28/2022,2/24/2023,4/5/2023,XtraCare Foam Antibacterial Hand Wash,47.09,orchid,97
+700,spring,1,2,5,11/15/2022,8/6/2022,11/8/2022,Dexrazoxane Hydrochloride,44.62,standard,76
+839,summer,4,12,3,7/22/2022,10/24/2022,2/13/2023,Loratadine,24.75,flowering,51
+854,fall,6,7,12,4/21/2022,2/12/2023,10/27/2022,Pleo Usti,38.12,nitrogen-rich,94
+341,winter,10,12,10,8/16/2022,12/15/2022,3/8/2023,Duloxetine Hydrochloride,49.52,flowering,62
+160,summer,12,7,2,1/31/2023,11/8/2022,3/20/2023,Queen Palm,29.28,flowering,44
+874,fall,10,3,11,4/17/2022,6/30/2022,5/5/2022,good neighbor pharmacy cold remedy,28.2,orchid,5
+878,fall,6,12,9,4/25/2022,12/19/2022,9/6/2022,Metronidazole,90.17,compact,33
+437,summer,9,10,11,4/8/2023,6/13/2022,9/16/2022,Oxygen,10.05,standard,53
+506,fall,11,13,12,12/19/2022,6/16/2022,10/8/2022,phendimetrazine tartrate,91.9,standard,46
+780,fall,1,6,4,5/24/2022,9/4/2022,5/17/2022,buprenorphine hydrochloride and naloxone hydrochloride dihydrate,99.59,standard,5
+460,summer,9,6,7,2/2/2023,12/9/2022,4/21/2022,Dr. Oberon Moms Care Cream,95.61,nitrogen-rich,28
+721,winter,12,10,8,7/1/2022,11/16/2022,10/23/2022,Anti-Bacterial Hand,93.41,compact,58
+205,summer,9,7,10,5/11/2022,3/29/2023,4/13/2023,Transanosil,3.83,flowering,17
+169,summer,1,13,2,9/22/2022,10/13/2022,11/2/2022,Pseudoephedrine hydrochloride,48.55,orchid,79
+841,fall,11,8,5,6/3/2022,4/28/2022,12/15/2022,4 Way,94.54,compact,68
+238,spring,11,14,7,5/24/2022,8/22/2022,8/15/2022,AZITHROMYCIN,99.28,flowering,67
+45,winter,8,5,5,1/22/2023,5/26/2022,8/16/2022,Orphenadrine Citrate,11.95,orchid,40
+20,fall,5,14,13,5/7/2022,1/10/2023,11/5/2022,ESIKA,50.15,nitrogen-rich,42
+146,spring,5,11,13,10/27/2022,7/22/2022,4/16/2023,Rizatriptan Benzoate,47.36,standard,51
+505,winter,10,14,14,3/1/2023,5/27/2022,3/16/2023,Ibuprofen,69.82,flowering,58
+534,fall,9,12,3,9/7/2022,11/6/2022,7/3/2022,Bipolaris sorokiniana,17.8,flowering,4
+180,fall,11,9,13,5/31/2022,1/13/2023,10/23/2022,Suave,48.04,orchid,58
+150,winter,12,9,8,12/12/2022,7/7/2022,4/4/2023,Crest Sensitivity,21.7,compact,15
+363,fall,4,12,12,11/27/2022,1/24/2023,4/7/2023,Standardized Cat Hair,94.08,nitrogen-rich,44
+193,spring,13,3,9,8/22/2022,2/15/2023,9/23/2022,Lidocaine Hydrochloride,37.75,orchid,50
+831,spring,9,3,2,2/21/2023,7/20/2022,11/17/2022,Coppertone Sport,32.27,nitrogen-rich,34
+786,spring,3,4,10,10/20/2022,11/10/2022,9/21/2022,FeverALL Adults,32.78,compact,33
+438,fall,8,8,6,12/15/2022,12/13/2022,6/25/2022,Dandruff,67.34,orchid,58
+757,summer,10,1,14,5/24/2022,1/8/2023,4/28/2022,Alendronate Sodium,17.09,compact,64
+763,winter,8,13,8,11/21/2022,2/11/2023,4/14/2023,ReCreate Foundation,96.03,standard,22
+701,winter,9,11,13,11/17/2022,1/25/2023,1/11/2023,Lidocaine and Prilocaine,54.42,flowering,5
+170,summer,14,4,1,2/1/2023,11/29/2022,4/28/2022,CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 118,11.35,flowering,55
+473,winter,1,9,8,11/17/2022,8/2/2022,9/16/2022,PENICILLIUM NOTATUM CHRYSOGENUM,9.73,flowering,12
+110,fall,5,9,2,2/8/2023,1/10/2023,5/1/2022,OXYGEN,81.71,standard,91
+8,summer,2,7,8,8/14/2022,6/20/2022,5/23/2022,Flurazepam,57.22,orchid,21
+490,fall,3,13,6,3/4/2023,6/23/2022,1/3/2023,Depression - Mood Support,50.38,nitrogen-rich,21
+847,fall,5,7,5,10/27/2022,2/3/2023,2/14/2023,Prevacid,43.0,standard,62
+168,spring,2,1,11,12/23/2022,3/13/2023,10/19/2022,Rasuvo,89.89,nitrogen-rich,92
+210,summer,12,1,3,10/14/2022,1/28/2023,12/26/2022,Chlordiazepoxide Hydrochloride,4.21,flowering,93
+418,fall,5,9,3,9/23/2022,11/18/2022,7/23/2022,OXYGEN,66.94,standard,5
+824,winter,12,6,14,12/31/2022,9/28/2022,11/25/2022,Escitalopram,54.73,nitrogen-rich,52
+248,spring,5,1,4,1/21/2023,3/15/2023,7/22/2022,Gehwol med Lipidro,54.78,compact,67
+352,summer,10,3,12,6/25/2022,4/2/2023,9/12/2022,nifedipine,18.12,compact,6
+630,spring,5,5,1,4/28/2022,5/16/2022,4/20/2022,Desipramine Hydrochloride,31.99,orchid,8
+394,fall,6,3,1,8/4/2022,4/8/2023,8/1/2022,Cholestyramine,23.3,nitrogen-rich,87
+94,summer,2,14,6,12/30/2022,6/4/2022,2/14/2023,Zolpidem Tartrate,4.52,compact,1
+859,spring,8,3,8,4/8/2023,7/7/2022,5/12/2022,Heparin Sodium,96.26,compact,5
+452,winter,8,1,2,5/14/2022,12/17/2022,12/10/2022,donepezil hydrochloride,6.61,nitrogen-rich,64
+840,spring,4,1,1,2/23/2023,1/19/2023,5/22/2022,Midodrine Hydrochloride,21.44,nitrogen-rich,31
+838,spring,3,13,14,4/26/2022,6/7/2022,12/25/2022,PREMIER VALUE MEDICATED WIPES,25.48,standard,77
+942,winter,8,3,4,9/25/2022,5/4/2022,7/14/2022,Bladder Irritation,5.18,standard,90
+417,summer,11,3,1,9/17/2022,10/27/2022,5/3/2022,Childrens Chewable Mapap,38.9,nitrogen-rich,18
+945,spring,6,8,9,10/15/2022,5/9/2022,8/23/2022,Extra Strength Gas Relief,97.59,compact,20
+644,winter,10,4,6,7/3/2022,4/4/2023,9/3/2022,HORMODENDRUM CLADOSPORIUM CLADOSPORIOIDES,79.28,compact,36
+393,spring,10,6,1,5/10/2022,4/9/2023,9/23/2022,hemorrhoidal cooling,9.78,orchid,81
+315,summer,2,4,4,10/31/2022,10/5/2022,10/20/2022,Modafinil,46.12,compact,7
+867,fall,12,7,9,8/12/2022,8/5/2022,7/20/2022,Ondansetron,71.7,orchid,20
+233,summer,4,11,12,2/10/2023,6/25/2022,5/9/2022,Lipitor,34.48,flowering,8
+299,winter,9,1,10,3/4/2023,10/29/2022,4/21/2022,Carisoprodol,72.2,compact,46
+313,spring,4,7,10,7/5/2022,11/7/2022,11/17/2022,Unscented Hand Sanitizer,68.09,nitrogen-rich,70
+30,spring,12,4,6,1/2/2023,8/30/2022,4/12/2023,PRAVASTATIN SODIUM,24.33,orchid,42
+580,winter,10,4,14,9/15/2022,10/31/2022,10/4/2022,Neptune E2 ANTISEPTIC HAND,45.99,standard,9
+18,fall,1,13,10,7/26/2022,3/6/2023,6/9/2022,Egotistical,13.88,nitrogen-rich,5
+542,summer,2,4,2,7/19/2022,12/22/2022,1/24/2023,ultrastrength,97.82,flowering,82
+262,winter,5,5,11,6/12/2022,7/21/2022,9/22/2022,Lady Speed Stick,95.56,compact,57
+135,spring,2,1,12,6/4/2022,9/7/2022,8/6/2022,Anacin,23.33,flowering,36
+643,spring,9,9,8,12/31/2022,8/20/2022,7/17/2022,OsmoPrep,33.03,standard,9
+544,spring,14,13,9,3/14/2023,7/27/2022,11/28/2022,Treatment Set TS349185,25.03,orchid,21
+665,summer,3,7,14,2/11/2023,2/9/2023,9/20/2022,Ritussin DM,9.25,orchid,51
+996,fall,6,6,14,12/24/2022,2/2/2023,3/16/2023,Enoxaparin Sodium,1.77,compact,56
+285,spring,9,9,1,5/13/2022,12/13/2022,6/18/2022,HEADCHES PAINFUL MENSTRUATION,99.54,nitrogen-rich,65
+94,fall,9,3,4,4/14/2023,12/20/2022,2/17/2023,Diclofenac Sodium and Misoprostol,65.96,standard,73
+808,winter,13,10,6,7/28/2022,12/16/2022,1/21/2023,Cyclobenzaprine Hydrochloride,72.82,compact,37
+743,winter,1,10,12,9/27/2022,7/9/2022,1/19/2023,Levocetirizine dihydrochloride,93.32,compact,81
+923,summer,5,7,5,2/9/2023,12/22/2022,5/14/2022,Matte Moisturizer SPF 15,44.06,standard,100
+930,winter,4,9,9,2/10/2023,12/19/2022,10/26/2022,Ranitidine,55.76,standard,34
+797,winter,11,8,3,6/19/2022,6/3/2022,1/28/2023,Antiseptic,78.67,compact,61
+165,spring,14,12,7,1/16/2023,4/5/2023,11/1/2022,INNOPRAN,1.08,orchid,75
+705,winter,13,2,9,6/7/2022,1/15/2023,8/10/2022,Oregon Ash,87.74,flowering,4
+826,summer,1,3,13,4/23/2022,11/16/2022,9/20/2022,Extra Strength Headache Relief,76.89,standard,76
+102,fall,3,1,13,3/9/2023,6/26/2022,10/22/2022,HYDROMORPHONE HYDROCHLORIDE,19.52,compact,39
+326,spring,13,8,8,7/2/2022,2/17/2023,6/13/2022,Clear,65.19,standard,64
+430,summer,12,8,11,8/5/2022,4/9/2023,9/10/2022,PHENADOZ,32.61,nitrogen-rich,11
+527,fall,10,4,9,12/24/2022,10/1/2022,8/30/2022,Bikini Zone Medicated CREME,94.52,compact,33
+46,fall,9,11,7,7/20/2022,9/12/2022,6/2/2022,METFORMIN HYDROCHLORIDE,94.67,compact,63
+534,spring,10,4,2,5/31/2022,4/23/2022,6/24/2022,UV Defense Fluid,10.95,standard,77
+811,fall,3,5,6,2/3/2023,12/11/2022,11/8/2022,TENORMIN,30.13,compact,63
+764,spring,9,13,1,4/10/2023,8/1/2022,9/7/2022,Microgestin Fe,61.8,flowering,50
+521,fall,7,11,13,3/2/2023,4/23/2022,3/8/2023,LETTUCE,56.82,flowering,94
+565,spring,11,11,4,1/5/2023,12/10/2022,11/24/2022,Triamterene and Hydrochlorothiazide,60.16,standard,55
+715,summer,8,3,10,3/12/2023,1/30/2023,12/26/2022,Equate Tussin CF,12.94,flowering,28
+431,summer,10,6,4,12/24/2022,8/10/2022,10/17/2022,Genuine Triple Antibiotic,38.76,standard,67
+709,summer,5,5,6,7/12/2022,8/3/2022,9/12/2022,Biodesp,80.23,flowering,39
+858,winter,6,11,13,2/12/2023,6/29/2022,4/28/2022,Gas Relief,35.39,flowering,50
+447,fall,4,11,6,9/7/2022,9/29/2022,10/17/2022,Solbar Zinc SPF38,71.61,flowering,34
+909,summer,7,7,4,7/26/2022,11/15/2022,2/5/2023,SPF 20,13.63,compact,47
+174,fall,10,1,11,2/27/2023,6/26/2022,4/1/2023,Hongo Killer,70.35,orchid,28
+397,fall,10,2,6,6/12/2022,5/27/2022,5/29/2022,Liquid Makeup SPF 16,98.21,nitrogen-rich,16
+208,summer,13,7,12,5/15/2022,4/26/2022,3/10/2023,D-TOX Remedy,27.26,nitrogen-rich,6
+992,winter,2,7,12,11/5/2022,6/21/2022,4/5/2023,Ketorolac Tromethamine,85.35,compact,76
+978,summer,5,6,10,4/5/2023,6/23/2022,1/6/2023,Hemorrhoid Control,97.92,flowering,65
+195,spring,10,2,2,12/22/2022,2/2/2023,2/18/2023,Coralite Muscle Joint,21.32,nitrogen-rich,16
+457,fall,11,12,6,9/27/2022,12/29/2022,11/30/2022,Platinum for Men,12.67,flowering,47
+616,spring,14,13,12,10/27/2022,7/29/2022,11/19/2022,Polytrim,86.61,standard,46
+969,fall,5,13,12,5/20/2022,1/18/2023,3/10/2023,Pedesil,27.55,flowering,93
+599,spring,12,4,13,2/26/2023,3/30/2023,1/3/2023,FARXIGA,41.69,standard,3
+856,fall,9,11,2,11/21/2022,3/30/2023,1/7/2023,Keppra,15.38,flowering,26
+869,winter,12,5,4,4/8/2023,5/28/2022,12/18/2022,Coricidin HBP Chest Congestion And Cough,7.96,compact,20
+666,spring,6,12,12,5/20/2022,1/15/2023,3/27/2023,Ampicillin Trihydrate,8.27,orchid,54
+518,fall,1,6,9,10/8/2022,2/7/2023,7/29/2022,Glyburide and Metformin Hydrochloride,25.24,orchid,100
+885,spring,9,11,14,1/18/2023,8/12/2022,9/29/2022,Conjunctiva Argentum Special Order,39.44,orchid,22
+266,spring,13,13,4,4/22/2022,9/23/2022,12/27/2022,H-Balm Control,68.01,standard,79
+119,summer,14,7,2,12/24/2022,1/30/2023,4/26/2022,Dermisil,40.21,orchid,58
+752,winter,11,8,9,8/19/2022,10/11/2022,8/24/2022,AILANTHUS ALTISSIMA POLLEN,8.84,flowering,8
+802,winter,3,8,8,8/1/2022,10/14/2022,5/27/2022,IOSAT,67.69,nitrogen-rich,2
+864,summer,10,3,14,10/20/2022,3/8/2023,1/31/2023,Syeda,56.08,compact,72
+85,winter,1,8,12,1/6/2023,11/4/2022,8/10/2022,PEGINTRON,82.35,nitrogen-rich,17
+615,winter,8,5,6,1/21/2023,6/26/2022,12/12/2022,Black Cottonwood Pollen,41.22,orchid,93
+629,winter,8,6,7,5/9/2022,12/13/2022,10/28/2022,DIZZINESS HP,75.02,flowering,92
+551,fall,2,2,12,5/3/2022,3/16/2023,6/26/2022,DAUNORUBICIN HYDROCHLORIDE,26.09,orchid,95
+463,winter,11,10,13,11/9/2022,3/19/2023,6/12/2022,PROMACTA,49.86,standard,77
+932,summer,12,6,7,6/1/2022,6/28/2022,10/12/2022,Crab,92.42,flowering,54
+959,summer,1,3,8,8/18/2022,9/29/2022,12/30/2022,Triveen-PRx,42.86,orchid,23
+211,winter,14,7,4,1/25/2023,7/6/2022,5/19/2022,LBEL,17.44,standard,54
+799,fall,8,8,2,3/10/2023,7/18/2022,12/20/2022,Citalopram,26.92,flowering,91
+832,summer,9,5,10,11/24/2022,12/26/2022,12/24/2022,Heparin Sodium,27.56,compact,18
+922,winter,14,13,5,8/9/2022,12/26/2022,7/10/2022,Intestinal Distress,93.67,compact,12
+531,winter,14,12,8,11/18/2022,10/13/2022,9/29/2022,Lemon Verbena Hand Sanitizer,67.39,nitrogen-rich,34
+387,winter,10,2,10,2/12/2023,9/17/2022,12/5/2022,topcare feminine,38.67,standard,16
+21,summer,8,4,8,7/8/2022,10/14/2022,3/1/2023,Triamcinolone Acetonide,3.56,orchid,88
+851,summer,11,10,6,6/28/2022,11/24/2022,12/19/2022,Arnica Plus,44.55,compact,56
+405,fall,4,3,6,6/29/2022,10/8/2022,2/20/2023,Childrens Ibuprofen,38.77,flowering,4
+442,spring,1,5,14,3/14/2023,3/12/2023,8/4/2022,DG Health Cold and Flu Relief,33.44,orchid,74
+976,summer,4,9,12,3/9/2023,1/25/2023,10/1/2022,Eye Drops Regular,5.41,flowering,60
+639,winter,1,6,6,7/31/2022,2/3/2023,8/29/2022,XtraCare Creamy Petroleum Jelly,79.1,nitrogen-rich,89
+871,spring,11,2,2,11/12/2022,2/23/2023,2/24/2023,CYRAMZA,74.18,nitrogen-rich,20
+106,fall,11,7,2,4/22/2022,7/29/2022,10/18/2022,Verapamil Hydrochloride,31.05,standard,83
+823,summer,12,1,3,4/21/2022,12/27/2022,10/14/2022,Up and Up Nicotine,91.93,nitrogen-rich,53
+185,spring,1,1,6,3/11/2023,3/31/2023,2/22/2023,Minor Arthritic Pain,40.75,orchid,88
+193,summer,9,7,3,2/27/2023,4/17/2022,1/12/2023,Warfarin Sodium,31.39,flowering,85
+472,spring,11,6,6,4/29/2022,9/21/2022,6/26/2022,Simvastatin,82.64,flowering,17
+81,fall,14,5,5,10/23/2022,10/16/2022,6/17/2022,Ondansetron Hydrochloride,99.69,flowering,57
+619,summer,5,10,6,8/8/2022,3/30/2023,10/20/2022,Ibuprofen,80.08,compact,75
+244,winter,5,8,4,2/5/2023,6/1/2022,9/23/2022,Letrozole,86.67,nitrogen-rich,80
+239,fall,3,14,5,12/12/2022,9/16/2022,5/13/2022,Spironolactone,90.88,compact,37
+915,fall,8,14,14,2/7/2023,12/1/2022,6/14/2022,SierraSil Pain Relief,30.4,nitrogen-rich,16
+195,spring,3,11,6,1/6/2023,1/23/2023,7/12/2022,Epsom Salt,60.74,compact,56
+363,summer,1,2,14,2/24/2023,12/10/2022,10/27/2022,SIMVASTATIN,79.79,nitrogen-rich,82
+391,spring,11,14,1,9/27/2022,2/17/2023,3/23/2023,Ear Wax Build-Up,86.5,nitrogen-rich,11
+929,spring,4,12,3,9/5/2022,3/25/2023,2/18/2023,Metaxalone,75.79,compact,90
+227,spring,4,8,5,5/14/2022,8/21/2022,9/22/2022,Lisinopril,1.56,flowering,75
+380,spring,7,1,10,6/20/2022,7/21/2022,11/9/2022,Aggrenox,15.79,flowering,15
+567,fall,11,5,5,3/16/2023,12/22/2022,1/2/2023,LBEL COULEUR LUXE AMPLIFIER XP,75.09,nitrogen-rich,77
+235,winter,12,4,1,5/22/2022,11/30/2022,2/24/2023,Ropinirole,73.51,compact,76
+718,fall,14,7,2,11/22/2022,7/14/2022,2/6/2023,Pentasa,81.02,standard,30
+33,fall,14,13,5,2/26/2023,4/1/2023,2/7/2023,BabyBIG,96.94,compact,92
+440,summer,12,12,7,8/14/2022,6/14/2022,2/4/2023,Balsam Poplar,15.04,nitrogen-rich,24
+878,spring,4,12,2,9/22/2022,7/8/2022,7/1/2022,TABACUM,98.43,flowering,20
+232,summer,4,7,13,7/19/2022,5/16/2022,9/9/2022,Advanced Eye Relief Dry Eye Rejuvenation,80.24,standard,76
+731,fall,12,13,8,6/3/2022,12/17/2022,1/31/2023,good neighbor pharmacy aspirin,95.6,nitrogen-rich,49
+695,winter,11,8,12,6/7/2022,1/12/2023,4/9/2023,pain and fever,4.28,nitrogen-rich,55
+194,winter,7,11,12,2/23/2023,11/4/2022,9/27/2022,Hydrocortisone Butyrate,23.92,nitrogen-rich,90
+410,fall,14,4,12,1/29/2023,12/16/2022,4/28/2022,Oxcarbazepine,38.54,nitrogen-rich,79
+385,spring,12,4,10,7/23/2022,10/31/2022,12/8/2022,CareOne Lansoprazole,42.99,compact,97
+96,summer,14,12,9,7/8/2022,5/22/2022,4/20/2022,Clindamycin hydrochloride,16.3,flowering,6
+686,winter,14,9,4,1/5/2023,12/4/2022,4/27/2022,Tacrolimus,41.38,nitrogen-rich,95
+344,fall,12,8,2,11/26/2022,7/8/2022,8/14/2022,Ceftriaxone Sodium,65.86,standard,36
+992,fall,11,8,11,11/4/2022,2/3/2023,10/23/2022,Antiseptic Hand Gel,89.38,flowering,54
+658,fall,3,14,12,9/13/2022,12/23/2022,1/19/2023,Zostrix Hot and Cold Therapy System,47.83,standard,77
+148,winter,13,2,2,5/20/2022,8/9/2022,6/16/2022,Fluconazole,24.24,compact,26
+855,summer,5,5,2,3/26/2023,8/9/2022,7/8/2022,PHYSICIANS CARE STING RELIEF PAD,2.11,nitrogen-rich,65
+507,fall,6,6,5,5/2/2022,9/20/2022,11/4/2022,Gabapentin,4.56,standard,74
+604,summer,13,11,1,12/12/2022,7/6/2022,12/4/2022,Apis Arnica,35.7,nitrogen-rich,44
+528,summer,11,10,12,9/13/2022,11/8/2022,10/30/2022,Carvedilol,9.95,orchid,69
+36,summer,3,13,6,9/19/2022,8/12/2022,1/14/2023,FNG,25.54,standard,49
+780,winter,7,3,10,11/18/2022,6/30/2022,6/18/2022,SPF30 EVERYDAY/YEAR-ROUND SUNSCREEN,13.27,standard,44
+730,winter,4,12,10,12/20/2022,3/7/2023,7/17/2022,Oxygen,11.93,nitrogen-rich,73
+603,spring,7,12,5,2/22/2023,11/12/2022,9/7/2022,Minocycline hydrochloride,52.72,nitrogen-rich,65
+263,fall,14,2,8,5/23/2022,6/14/2022,8/24/2022,Ketorolac Tromethamine,94.7,nitrogen-rich,28
+956,fall,9,9,11,4/1/2023,1/18/2023,9/1/2022,Isopropyl alcohol,95.57,compact,69
+404,summer,2,8,9,1/14/2023,11/17/2022,8/6/2022,Divalproex Sodium,40.94,standard,75
+450,spring,10,2,4,9/17/2022,7/29/2022,4/8/2023,Penicilium chrysogenum,54.76,compact,18
+257,summer,5,2,11,5/28/2022,12/16/2022,5/20/2022,GUNA-IL 3,76.52,nitrogen-rich,90
+790,winter,13,3,5,9/28/2022,7/27/2022,1/9/2023,Nausea Vomitting,37.3,nitrogen-rich,32
+69,winter,10,4,12,3/17/2023,3/20/2023,9/15/2022,Cold and Flu,82.72,flowering,10
+391,winter,10,14,14,8/15/2022,10/2/2022,1/8/2023,careone stomach relief,12.7,orchid,30
+175,winter,14,10,13,8/8/2022,6/30/2022,8/8/2022,Varibar Honey,90.22,flowering,100
+7,summer,7,12,4,12/9/2022,9/12/2022,1/5/2023,ALOE UP PRO 50,17.82,orchid,52
+331,summer,11,2,14,10/14/2022,11/19/2022,10/16/2022,Clarithromycin,83.91,compact,52
+298,summer,14,11,4,5/11/2022,11/25/2022,7/8/2022,SKIN 79 Super Plus Beblesh Balm SPF25 PA (40g),18.44,standard,75
+969,summer,14,5,8,3/3/2023,3/23/2023,2/17/2023,Promethazine Hydrochloride,52.29,standard,71
+898,fall,2,4,3,8/30/2022,12/19/2022,9/15/2022,Oxygen,7.59,flowering,28
+6,spring,7,8,5,9/19/2022,12/21/2022,2/5/2023,EyS Eye Wash,2.41,flowering,85
+745,fall,10,6,11,12/28/2022,2/7/2023,3/23/2023,Humulin 70/30,7.76,flowering,48
+561,summer,9,2,11,3/15/2023,6/4/2022,12/13/2022,Metformin Hydrochloride,35.07,flowering,88
+720,winter,10,1,2,9/2/2022,12/13/2022,5/6/2022,Carnitor,99.03,compact,66
+934,winter,1,4,14,7/26/2022,3/20/2023,10/13/2022,Azathioprine,87.51,standard,97
+904,summer,3,4,6,7/14/2022,4/11/2023,9/20/2022,UV LOCK ULTRA MILK SUN,67.33,nitrogen-rich,32
+382,summer,2,1,5,4/17/2022,5/24/2022,11/7/2022,Rivastigmine Tartrate,95.7,flowering,16
+914,winter,14,6,14,10/5/2022,2/8/2023,6/23/2022,Tucks Internal Soothers,26.94,nitrogen-rich,10
+300,winter,1,12,11,3/22/2023,3/5/2023,10/13/2022,Teething,39.97,orchid,33
+254,spring,5,13,9,12/6/2022,12/26/2022,7/12/2022,Benztropine Mesylate,3.16,compact,32
+94,summer,14,11,10,9/4/2022,6/24/2022,8/3/2022,Tag Alder,65.75,compact,76
+350,winter,8,14,11,9/17/2022,6/6/2022,2/18/2023,Early Menopause,4.97,orchid,60
+637,summer,11,13,4,5/14/2022,10/13/2022,2/4/2023,Medline Acetaminophen,35.14,nitrogen-rich,7
+259,summer,5,8,11,11/15/2022,3/10/2023,12/6/2022,topcare Ibuprofen Cold and Sinus,3.49,orchid,56
+898,winter,13,10,2,8/10/2022,6/21/2022,12/7/2022,Proactiv Renewing Cleanser,27.43,standard,7
+134,summer,1,13,8,4/5/2023,7/11/2022,10/10/2022,Gabapentin,62.61,compact,68
+239,winter,9,14,12,7/26/2022,12/8/2022,6/27/2022,citalopram hydrobromide,37.04,orchid,78
+782,spring,13,10,8,6/30/2022,6/6/2022,12/24/2022,Hand Sanitizer,13.33,nitrogen-rich,47
+61,fall,5,4,13,8/30/2022,12/11/2022,12/15/2022,Ampicillin and Sulbactam,75.48,orchid,96
+975,winter,9,13,9,12/30/2022,11/16/2022,1/9/2023,URSODIOL,47.33,nitrogen-rich,43
+802,summer,6,1,4,5/13/2022,12/15/2022,4/4/2023,Hydrocodone Bitartrate and Acetaminophen,63.56,compact,85
+626,fall,9,3,7,9/6/2022,3/14/2023,12/5/2022,ZOCOR,79.85,nitrogen-rich,15
+869,spring,14,11,9,4/6/2023,10/31/2022,2/12/2023,Captopril,77.19,flowering,68
+472,spring,9,8,10,8/25/2022,7/19/2022,9/15/2022,Calcitriol,78.56,nitrogen-rich,23
+162,summer,14,10,12,3/22/2023,7/21/2022,10/7/2022,Bay Leaf,4.01,standard,100
+383,summer,10,2,2,8/25/2022,1/7/2023,6/27/2022,Famotidine,20.59,compact,96
+969,spring,1,13,3,7/16/2022,7/1/2022,6/8/2022,Theracodophen-Low-90,3.21,flowering,16
+733,fall,1,5,13,8/20/2022,11/26/2022,8/31/2022,Up and Up Hemorrhoidal,38.47,nitrogen-rich,21
+310,winter,4,11,4,7/29/2022,2/8/2023,8/17/2022,Levomefolate Calcium Acetylcysteine and Mecobalamin Algal,3.84,compact,64
+749,spring,8,9,4,6/12/2022,5/20/2022,3/29/2023,FINASTERIDE,66.4,flowering,79
+2,winter,13,14,12,6/20/2022,3/11/2023,7/4/2022,RUTA GRAV,2.9,nitrogen-rich,43
+166,fall,1,13,1,7/12/2022,4/13/2023,7/24/2022,Maxixum Security Gel Toothpaste,57.36,flowering,16
+236,fall,9,4,6,8/26/2022,8/8/2022,8/6/2022,Moisture Renew,6.5,standard,74
+587,summer,3,9,8,1/29/2023,12/19/2022,9/2/2022,Anticavity,50.24,nitrogen-rich,66
+492,summer,3,9,11,9/24/2022,4/11/2023,7/8/2022,SKIN DEFENSE MAKEUP,12.63,compact,69
+799,summer,11,1,10,7/30/2022,8/30/2022,12/15/2022,Felodipine,3.21,nitrogen-rich,70
+40,fall,11,14,10,4/24/2022,7/10/2022,5/9/2022,"Oral Cleansing and Suctioning System, q4",78.6,orchid,100
+642,winter,4,13,8,10/24/2022,4/19/2022,8/1/2022,Donepezil Hydrochloride,93.75,compact,99
+429,fall,5,8,12,1/5/2023,7/18/2022,11/24/2022,ESIKA Perfect Match,98.21,nitrogen-rich,82
+481,fall,9,13,8,11/20/2022,10/23/2022,3/8/2023,Cyclobenzaprine Hydrochloride,21.78,flowering,76
+630,fall,2,6,5,12/20/2022,6/12/2022,12/8/2022,Amethia Lo,34.78,flowering,20
+13,winter,5,10,9,4/3/2023,11/18/2022,5/22/2022,D - TIME,33.49,flowering,48
+596,summer,5,13,8,11/27/2022,1/10/2023,10/13/2022,Dexamethasone Sodium Phosphate,68.03,flowering,18
+938,spring,9,2,11,6/30/2022,6/17/2022,9/21/2022,ENALAPRIL MALEATE,28.87,orchid,91
+27,winter,14,9,12,1/6/2023,5/23/2022,12/9/2022,YUN XIANG JING,1.05,nitrogen-rich,55
+495,summer,3,5,14,4/4/2023,12/24/2022,10/24/2022,GAMMAKED,85.0,flowering,98
+914,winter,3,2,4,3/9/2023,12/27/2022,11/15/2022,ASPIRIN LOW DOSE,84.54,orchid,9
+843,winter,1,5,10,2/27/2023,9/4/2022,5/2/2022,Everyday Clean,13.97,standard,69
+922,summer,12,8,10,9/16/2022,9/13/2022,10/6/2022,Indapamide,10.48,flowering,70
+564,spring,9,10,7,12/1/2022,7/18/2022,6/16/2022,CeraVe,82.71,flowering,5
+385,winter,9,9,12,9/10/2022,9/22/2022,1/25/2023,"Bioelements, Inc.",43.24,standard,35
+126,winter,2,3,3,8/17/2022,4/6/2023,5/23/2022,Dicloxacillin Sodium,50.97,orchid,84
+929,winter,3,4,9,5/17/2022,11/13/2022,10/27/2022,CareOne Lansoprazole,70.71,orchid,53
+69,winter,14,13,8,4/2/2023,3/3/2023,1/6/2023,Nighttime Cold Head Congestion,2.64,orchid,97
+797,winter,12,9,5,3/9/2023,7/14/2022,6/4/2022,bicalutamide,29.86,nitrogen-rich,67
+740,spring,14,7,4,6/22/2022,5/7/2022,12/12/2022,Levofloxacin,28.79,compact,15
+504,summer,14,8,7,8/13/2022,11/15/2022,8/25/2022,equate pain and fever,9.25,nitrogen-rich,28
+355,spring,14,13,14,9/22/2022,2/14/2023,3/15/2023,Bengay Pain Relieving,14.98,compact,13
+124,fall,9,1,11,1/31/2023,3/11/2023,2/22/2023,Cefuroxime Axetil,93.04,flowering,90
+321,winter,6,7,12,11/21/2022,1/17/2023,4/22/2022,CATHYCAT ESSENCE SUN BB,79.41,compact,15
+339,winter,4,11,6,5/17/2022,5/26/2022,4/10/2023,Loratadine and Pseudoephedrine,15.81,compact,33
+453,spring,8,6,6,6/11/2022,2/18/2023,2/4/2023,Levofloxacin,32.32,standard,81
+83,summer,2,4,3,11/17/2022,1/3/2023,5/30/2022,Hormeel,8.95,orchid,86
+208,summer,2,7,12,9/18/2022,4/10/2023,10/3/2022,Unithroid,64.6,nitrogen-rich,37
+410,summer,6,2,8,12/17/2022,7/29/2022,1/8/2023,nizatidine,27.72,nitrogen-rich,77
+277,summer,1,5,13,12/11/2022,9/26/2022,9/27/2022,Petroleum Skin Protectant,74.85,nitrogen-rich,31
+856,spring,14,1,5,6/27/2022,5/15/2022,12/10/2022,Ginsamin Power,63.23,standard,73
+958,summer,10,5,1,9/19/2022,8/20/2022,6/27/2022,ZOVIRAX,56.25,compact,1
+94,fall,2,14,12,10/25/2022,5/12/2022,10/31/2022,AMARANTHUS RETROFLEXUS POLLEN,63.36,compact,47
+774,summer,10,6,4,10/23/2022,8/15/2022,6/30/2022,NHS Rheumatism,32.48,orchid,38
+274,spring,6,4,1,5/25/2022,7/11/2022,7/7/2022,Midazolam,61.01,standard,9
+316,spring,1,11,5,7/29/2022,2/25/2023,11/3/2022,Oxygen,56.53,flowering,37
+913,summer,11,1,8,2/26/2023,11/26/2022,11/9/2022,ANAFRANIL,39.77,orchid,5
+161,winter,3,2,13,3/27/2023,6/4/2022,6/25/2022,Metformin Hydrochloride,42.0,compact,14
+324,spring,14,1,2,6/27/2022,4/18/2022,12/13/2022,Coralite Ultra Antibacterial Deodorant,26.79,standard,72
+592,summer,1,12,10,4/24/2022,5/12/2022,11/6/2022,bareMinerals bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20,88.39,orchid,50
+513,summer,5,14,5,12/31/2022,3/9/2023,2/1/2023,"Molds, Rusts and Smuts, Candida albicans",98.87,compact,80
+873,winter,13,13,8,12/14/2022,4/3/2023,10/16/2022,Halog,92.53,compact,78
+750,winter,4,1,11,10/4/2022,6/14/2022,4/9/2023,Quinapril,20.22,nitrogen-rich,56
+626,fall,14,13,2,4/8/2023,8/26/2022,12/24/2022,Lenscale Quailbrush,46.8,flowering,81
+482,spring,7,4,2,5/25/2022,10/25/2022,3/26/2023,Nighttime Sinus,40.28,standard,47
+826,winter,7,11,5,1/26/2023,4/7/2023,7/24/2022,Guiatuss,36.69,nitrogen-rich,66
+87,fall,6,10,3,9/11/2022,6/13/2022,4/19/2022,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,69.39,orchid,19
+509,fall,6,9,1,1/9/2023,7/29/2022,10/31/2022,OXYGEN,66.19,compact,69
+430,fall,6,10,13,6/12/2022,7/14/2022,9/9/2022,Sulfamethoxazole and Trimethoprim,25.8,compact,91
+848,spring,6,6,11,3/2/2023,6/6/2022,6/25/2022,Western White Pine,58.46,compact,54
+726,winter,4,2,7,7/4/2022,9/21/2022,10/1/2022,AcneFree Body Clearing,34.32,orchid,79
+611,winter,4,2,1,10/22/2022,5/6/2022,2/27/2023,Phentermine Hydrochloride,22.18,compact,59
+778,spring,2,5,10,10/18/2022,1/16/2023,6/17/2022,Diltiazem Hydrochloride,76.85,nitrogen-rich,94
+777,spring,8,9,6,5/10/2022,6/17/2022,9/9/2022,NAIL RENEW,53.77,compact,93
+464,summer,5,11,13,6/29/2022,12/14/2022,2/22/2023,TRETTEN,79.1,flowering,100
+804,summer,13,4,4,4/29/2022,8/3/2022,12/17/2022,Severe Cold Multi-Symptom,8.65,flowering,47
+426,spring,7,7,1,7/29/2022,7/26/2022,7/5/2022,HEB,29.78,standard,54
+314,spring,10,13,6,5/6/2022,12/20/2022,7/4/2022,Wing Scale Pollen,23.16,compact,67
+816,fall,2,13,14,2/23/2023,12/26/2022,2/6/2023,Acetaminophen,87.95,flowering,18
+236,winter,8,4,3,10/18/2022,12/5/2022,3/6/2023,Quetiapine fumarate,54.64,compact,13
+924,fall,11,6,1,1/16/2023,11/12/2022,5/3/2022,Gripp-Heel,50.84,nitrogen-rich,65
+812,summer,3,9,1,7/5/2022,9/18/2022,2/27/2023,AHC Complex Choice EGF Booster,75.47,standard,77
+150,fall,1,10,7,10/7/2022,5/7/2022,12/13/2022,ENGERIX-B,74.84,orchid,31
+940,fall,1,3,7,6/18/2022,2/2/2023,8/14/2022,Predator,53.08,nitrogen-rich,52
+591,summer,9,9,9,4/4/2023,5/14/2022,5/6/2022,Enalapril Maleate,6.66,flowering,18
+348,fall,4,6,8,7/20/2022,6/18/2022,9/1/2022,Cefazolin,6.92,flowering,1
+268,fall,12,12,2,9/16/2022,1/25/2023,2/23/2023,Assured,3.04,standard,39
+225,winter,12,11,7,12/12/2022,9/21/2022,10/3/2022,Cough and Cold HBP,16.17,compact,98
+64,summer,8,10,14,5/15/2022,10/13/2022,12/5/2022,MOTION SICKNESS HP,11.88,orchid,97
+162,fall,11,10,11,10/24/2022,11/1/2022,7/20/2022,PEG-3350 and Electrolytes,3.64,nitrogen-rich,39
+521,spring,8,4,14,10/22/2022,11/20/2022,9/20/2022,QUESTRAN,34.75,orchid,35
+580,winter,4,6,11,6/28/2022,11/11/2022,4/18/2022,Premarin,51.97,flowering,39
+793,fall,11,1,10,10/13/2022,8/11/2022,12/19/2022,Methazolamide,24.79,orchid,85
+6,summer,6,14,8,10/18/2022,1/12/2023,9/24/2022,Medi-First Sinus Decongestant,49.91,standard,40
+686,summer,7,14,8,7/10/2022,8/25/2022,7/12/2022,Doxycycline Hyclate,7.16,standard,92
+516,winter,2,14,1,8/19/2022,12/17/2022,6/10/2022,Health Smart Instant Hand Sanitizer with aloe vera and vitamin e sweet pea,15.07,nitrogen-rich,41
+510,summer,8,5,1,8/3/2022,2/26/2023,8/13/2022,HYOSCYAMINE SULFATE,84.84,compact,35
+613,summer,10,4,7,3/22/2023,1/5/2023,2/7/2023,Oxalis 20,64.75,nitrogen-rich,49
+878,fall,14,11,2,12/5/2022,5/24/2022,12/20/2022,Mellow Instant Hand Sanitizer Original,52.65,orchid,8
+544,spring,8,8,3,2/14/2023,5/17/2022,1/10/2023,Miracle Ice,55.68,flowering,17
+564,winter,7,3,11,11/27/2022,10/5/2022,6/15/2022,LIPSTICK QUEEN ENDLESS SUMMER Broad Spectrum SPF 15 Sunscreen,41.26,compact,93
+4,fall,1,13,4,5/11/2022,3/14/2023,10/3/2022,Ulta,18.33,orchid,84
+584,fall,9,12,4,10/6/2022,11/8/2022,12/13/2022,Lymph Spleen Combo,61.79,nitrogen-rich,30
+262,spring,5,1,10,11/11/2022,2/1/2023,7/1/2022,Clinical Works Ocean Breeze Waterless Hand Sanitizer,62.99,flowering,77
+760,summer,7,9,6,1/11/2023,5/12/2022,4/16/2023,Vancomycin Hydrochloride,64.88,compact,62
+603,summer,8,7,14,7/17/2022,3/17/2023,11/6/2022,cortisone,59.0,nitrogen-rich,98
+715,fall,9,3,2,12/4/2022,9/2/2022,3/19/2023,ULTRAM ER,29.47,nitrogen-rich,86
+210,summer,14,13,2,11/25/2022,2/9/2023,7/10/2022,White Pine,97.92,flowering,57
+266,winter,9,8,11,9/5/2022,9/3/2022,8/21/2022,CD DIORSKIN NUDE SKIN-GLOWING MAKEUP SUNSCREEN BROAD SPECTRUM SPF 15 021 Linen,57.68,nitrogen-rich,79
+699,spring,3,6,9,7/29/2022,3/28/2023,5/13/2022,Thyropar,17.65,standard,97
+903,winter,2,2,7,6/4/2022,8/30/2022,7/15/2022,FUSARIUM VASINFECTUM OXYSPORUM,11.22,nitrogen-rich,17
+740,summer,9,14,11,8/4/2022,12/25/2022,3/29/2023,Haddock,39.55,nitrogen-rich,12
+410,winter,11,10,4,6/30/2022,4/19/2022,8/1/2022,Fluphenazine Hydrochloride,57.27,flowering,70
+944,fall,8,10,8,7/22/2022,9/17/2022,9/21/2022,Antimicrobial,87.05,compact,42
+33,summer,8,11,11,2/15/2023,4/15/2023,12/29/2022,Sabadil,21.55,flowering,52
+406,winter,12,4,7,10/27/2022,4/17/2022,6/14/2022,Milk of Magnesia,89.52,nitrogen-rich,7
+972,winter,3,10,6,5/3/2022,10/9/2022,5/3/2022,Methylprednisolone,48.88,flowering,98
+865,summer,8,4,6,12/22/2022,1/18/2023,5/10/2022,SOUR DOCK SHEEP SORREL POLLEN,51.49,compact,54
+45,spring,5,8,3,9/19/2022,12/11/2022,8/19/2022,Oxaprozin,45.92,compact,39
+393,fall,8,10,5,2/28/2023,8/11/2022,8/9/2022,Phenobarbital,27.27,nitrogen-rich,69
+238,winter,5,2,4,4/18/2022,2/16/2023,2/25/2023,SIMPLY RIGHT BODY CARE,14.63,standard,100
+160,spring,2,11,8,6/6/2022,9/19/2022,3/22/2023,Extra Strength Headache Relief,23.32,flowering,19
+260,fall,6,7,7,2/11/2023,1/28/2023,7/9/2022,FENOFIBRATE,8.31,flowering,25
+443,fall,2,1,14,7/22/2022,5/4/2022,10/19/2022,Prometrium,17.63,orchid,65
+305,fall,14,5,10,10/2/2022,9/4/2022,5/28/2022,OXYCODONE AND ACETAMINOPHEN,8.95,standard,71
+152,winter,13,12,6,11/8/2022,5/13/2022,7/10/2022,Tandem,51.88,standard,37
+861,fall,10,3,9,1/18/2023,8/27/2022,1/8/2023,Bupropion Hydrochloride,59.16,orchid,17
+395,fall,4,7,14,8/10/2022,8/5/2022,1/5/2023,Equate Flu and Severe Cold and Cough,63.14,orchid,87
+800,summer,7,12,8,11/22/2022,5/4/2022,6/18/2022,SYNTHROID,8.74,nitrogen-rich,86
+349,winter,5,14,5,9/18/2022,10/10/2022,9/2/2022,Badger Sport SPF 35 Sunscreen,45.69,compact,62
+396,winter,10,4,4,5/18/2022,5/29/2022,8/30/2022,Plexion,46.47,compact,51
+521,spring,7,10,3,12/9/2022,2/19/2023,2/25/2023,Phisoderm Anti Blemish Body Wash,59.24,standard,43
+500,spring,10,9,6,3/15/2023,11/17/2022,11/22/2022,Top Care Day Time,6.1,compact,78
+421,winter,7,8,12,11/25/2022,3/10/2023,10/31/2022,Prednisone,86.56,standard,42
+832,summer,6,7,14,11/25/2022,12/1/2022,8/30/2022,JAKAFI,92.99,flowering,12
+319,winter,9,10,2,1/22/2023,3/22/2023,3/13/2023,Ribavirin,10.26,standard,66
+840,winter,5,3,8,9/28/2022,1/8/2023,1/17/2023,Lipitor,23.19,compact,6
+756,spring,9,14,6,1/24/2023,11/10/2022,2/1/2023,Ginger,30.76,flowering,43
+384,winter,7,6,11,9/30/2022,1/4/2023,10/9/2022,Anti-Bacterial Hand,94.92,standard,26
+970,winter,9,12,1,2/20/2023,12/20/2022,10/23/2022,CLEANpHIRST Alcohol Free Antiseptic Hand Sanitizer,41.54,flowering,75
+42,fall,4,14,14,8/3/2022,12/18/2022,6/22/2022,Too Faced BB Creme Complete Coverage Make-Up,84.11,orchid,91
+954,spring,7,13,2,3/18/2023,10/9/2022,11/26/2022,Glytone Clarifying SunVanish with Sunscreen,5.03,flowering,95
+782,fall,3,5,5,7/20/2022,4/12/2023,1/10/2023,Diltiazem Hydrochloride,90.19,orchid,55
+141,spring,13,8,4,7/11/2022,6/18/2022,7/1/2022,Ketoprofen,35.91,standard,48
+284,spring,10,4,3,11/26/2022,5/2/2022,1/26/2023,ARC FIRST AID Contains 101 PIECES Hardcase,40.77,standard,54
+417,fall,10,14,11,8/27/2022,9/28/2022,7/27/2022,Total Niccolum,31.2,standard,9
+858,fall,10,13,2,10/9/2022,2/28/2023,11/7/2022,Alcohol-Free Anticavity,82.98,nitrogen-rich,92
+713,fall,12,6,6,12/23/2022,1/22/2023,1/11/2023,Traumeel,91.7,compact,47
+891,winter,14,12,7,2/21/2023,2/12/2023,5/22/2022,Softsoap,42.48,compact,32
+187,fall,6,7,7,6/28/2022,9/23/2022,1/18/2023,Stool Softener,43.92,flowering,57
+609,winter,1,14,7,4/28/2022,3/9/2023,5/31/2022,Citalopram Hydrobromide,22.57,orchid,58
+461,summer,10,7,10,6/12/2022,3/21/2023,2/25/2023,care one flu and severe cold,72.14,standard,71
+369,summer,11,9,2,10/27/2022,1/16/2023,12/2/2022,Carboplatin,74.08,orchid,96
+346,fall,3,14,1,6/2/2022,7/30/2022,11/14/2022,ShopRite Pain Relief PM,24.07,orchid,19
+186,summer,9,12,1,1/22/2023,1/1/2023,7/25/2022,Cefuroxime,79.55,orchid,78
+502,fall,10,3,4,2/28/2023,8/28/2022,10/23/2022,Niseko Sunscreen SPF 25,20.23,orchid,17
+860,spring,14,1,2,7/11/2022,7/1/2022,2/27/2023,Buspirone Hydrochloride,81.21,standard,71
+274,spring,11,9,11,2/22/2023,12/12/2022,4/3/2023,Amoxicillin,52.3,standard,24
+67,fall,5,1,11,10/7/2022,5/29/2022,2/2/2023,METHYLPHENIDATE HYDROCHLORIDE,3.07,standard,16
+185,spring,6,4,11,1/21/2023,11/12/2022,4/25/2022,Good Neighbor Anti-Fungal,8.61,orchid,24
+590,fall,14,14,3,5/7/2022,6/28/2022,4/1/2023,HAMSOA YUYU DERMA119 BALM,3.8,flowering,83
+952,summer,14,9,11,12/7/2022,9/30/2022,3/19/2023,No7 Stay Perfect Foundation Sunscreen SPF 15 Cocoa,42.89,standard,91
+815,winter,8,2,13,1/3/2023,11/29/2022,9/10/2022,Tramadol Hydrochloride,88.51,orchid,11
+18,fall,8,8,13,7/4/2022,7/14/2022,4/13/2023,Childrens Allergy,57.01,compact,10
+140,winter,5,8,7,9/17/2022,8/26/2022,12/9/2022,7 Select Sleep Aid,85.91,orchid,2
+767,winter,12,13,10,7/10/2022,1/28/2023,1/6/2023,PROPECIA,39.08,standard,49
+681,fall,5,14,13,6/25/2022,9/29/2022,7/23/2022,Cefprozil,99.84,nitrogen-rich,61
+593,summer,6,2,9,9/17/2022,6/24/2022,3/9/2023,Valproic Acid,55.96,flowering,74
+697,fall,7,2,12,12/7/2022,12/22/2022,9/24/2022,Old Spice Classic,5.83,flowering,55
+541,spring,14,11,5,12/28/2022,1/6/2023,12/10/2022,BOTANICAL VANILLA MAKEUP BASE,5.16,orchid,44
+706,summer,14,12,2,11/1/2022,7/23/2022,11/24/2022,Constulose,44.65,flowering,82
+998,winter,7,12,7,12/19/2022,7/4/2022,12/7/2022,Naturasil,45.4,compact,11
+760,summer,4,4,9,9/20/2022,10/15/2022,6/14/2022,Losartan Potassium and Hydrochlorothiazide,94.96,compact,66
+98,spring,13,5,3,5/13/2022,7/2/2022,8/14/2022,Hydroxyzine Hydrochloride,62.15,compact,51
+376,summer,3,3,6,7/9/2022,2/15/2023,3/17/2023,telmisartan and hydrochlorthiazide,85.61,standard,10
+762,winter,5,11,2,4/22/2022,3/13/2023,1/13/2023,Mirtazapine,15.55,flowering,64
+712,summer,3,13,11,11/28/2022,6/14/2022,8/2/2022,KALI PHOS,55.07,nitrogen-rich,54
+193,fall,7,12,8,1/19/2023,5/3/2022,1/26/2023,LBEL,18.97,orchid,8
+406,spring,1,4,1,2/2/2023,12/2/2022,7/30/2022,Rescon,76.13,standard,39
+300,summer,9,13,13,9/16/2022,7/18/2022,6/27/2022,Handy Solutions Kidz Crest,71.64,nitrogen-rich,58
+635,spring,5,3,10,1/1/2023,7/2/2022,7/16/2022,Cyproheptadine Hydrochloride,73.82,orchid,69
+26,spring,11,9,6,10/11/2022,3/1/2023,6/23/2022,Prednisone,67.85,orchid,32
+972,summer,3,13,14,11/29/2022,5/11/2022,2/6/2023,Varicose Veins - Phlebitis,23.17,orchid,44
+620,spring,9,7,3,4/22/2022,10/27/2022,9/1/2022,Daytime Severe Cold and Flu Relief,14.21,compact,24
+442,spring,5,2,4,8/11/2022,6/26/2022,6/1/2022,Methylprednisolone,56.54,nitrogen-rich,46
+903,winter,6,14,14,8/10/2022,1/19/2023,8/10/2022,Cytomegalovirus Remedy,74.2,flowering,41
+651,summer,9,14,4,4/24/2022,12/19/2022,2/21/2023,Artichoke,40.67,nitrogen-rich,69
+941,summer,11,8,6,3/17/2023,5/1/2022,5/4/2022,Gliadel,33.87,orchid,52
+699,spring,10,5,3,11/21/2022,7/14/2022,8/16/2022,Protamine Sulfate,51.32,flowering,92
+776,spring,13,11,7,6/10/2022,11/1/2022,6/19/2022,Pleo Ex,45.57,standard,7
+452,winter,5,7,9,6/25/2022,9/27/2022,8/9/2022,Clorazepate Dipotassium,96.25,orchid,82
+904,fall,12,2,10,11/17/2022,4/2/2023,12/2/2022,SHISEIDO THE MAKEUP SHEER MATIFYING COMPACT (REFILL),78.63,standard,30
+670,spring,13,13,9,5/11/2022,12/24/2022,5/2/2022,Old Spice Game Day,47.87,flowering,36
+714,spring,12,6,10,3/22/2023,4/7/2023,3/21/2023,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - OBSCURE 8C,82.24,standard,5
+716,spring,1,14,1,5/29/2022,10/11/2022,7/26/2022,BLACK WALNUT FOOD,62.85,compact,7
+688,fall,3,10,11,7/29/2022,8/31/2022,10/4/2022,FANAPT,38.09,flowering,61
+472,winter,5,10,4,4/15/2023,1/9/2023,7/2/2022,ACID REDUCER,85.75,orchid,20
+872,summer,2,14,4,3/27/2023,3/27/2023,12/31/2022,DualSenses Scalp Regulation Anti-Dandruff Shampoo,81.58,standard,14
+549,fall,9,2,9,2/8/2023,8/1/2022,9/20/2022,NITRO-BID,34.1,standard,63
+380,winter,7,14,7,1/26/2023,11/1/2022,11/1/2022,Warm Deep Original,13.74,standard,72
+419,fall,13,8,5,5/15/2022,4/26/2022,11/30/2022,Rabbit Hair,8.33,orchid,57
+78,winter,9,5,11,12/31/2022,12/21/2022,11/14/2022,AllergyEase Shellfish and Seafood,83.8,nitrogen-rich,68
+564,summer,5,7,1,8/13/2022,6/26/2022,12/26/2022,Dexamethasone,2.1,orchid,34
+495,winter,14,6,1,7/31/2022,12/14/2022,4/30/2022,Trandolapril,89.88,compact,17
+885,spring,5,12,8,5/26/2022,5/1/2022,8/23/2022,rHGH Complex,41.21,compact,43
+28,fall,2,6,9,10/26/2022,11/24/2022,9/15/2022,Alcohol free hand sanitizer,16.55,nitrogen-rich,18
+708,winter,13,1,6,3/1/2023,7/18/2022,5/9/2022,Neutrahist,3.74,standard,21
+512,spring,3,7,10,3/24/2023,1/5/2023,5/15/2022,Energy Catalyst,27.24,standard,81
+99,spring,1,12,6,8/5/2022,7/28/2022,4/18/2022,Loratadine,47.26,standard,36
+966,fall,6,10,11,7/16/2022,10/4/2022,8/24/2022,Broad Spectrum SPF 30,4.42,nitrogen-rich,77
+602,summer,10,3,10,4/9/2023,1/24/2023,6/20/2022,Nitroglycerin,52.08,compact,59
+238,winter,13,1,4,11/8/2022,10/18/2022,2/28/2023,Citalopram Hydrobromide,18.57,compact,7
+788,summer,5,1,8,6/21/2022,11/4/2022,5/28/2022,Omeprazole,52.74,standard,13
+450,summer,2,9,1,5/9/2022,11/6/2022,3/21/2023,Flutone,8.8,compact,92
+77,fall,1,14,3,12/20/2022,10/5/2022,2/25/2023,Bromocriptine mesylate,73.24,flowering,87
+321,summer,8,5,1,5/13/2022,3/12/2023,11/3/2022,Carbon Dioxide-Oxygen-Nitrogen Mixture,3.32,orchid,28
+171,summer,3,3,3,9/9/2022,5/30/2022,8/22/2022,Berberis Oxalis,56.5,nitrogen-rich,52
+85,spring,9,2,13,5/17/2022,3/29/2023,6/14/2022,NYLOXIN,11.03,compact,82
+737,fall,12,3,8,2/4/2023,10/7/2022,10/10/2022,Metoprolol Succinate,92.76,standard,23
+839,summer,7,6,9,10/20/2022,11/14/2022,6/1/2022,Hydrocodone Bitartrate And Acetaminophen,1.05,standard,92
+580,summer,10,3,4,4/15/2023,12/25/2022,7/28/2022,CTx3 Rinse,54.17,orchid,89
+435,fall,1,2,9,6/19/2022,11/23/2022,11/3/2022,"BabyGanics Bye, Bye Dry Eczema",99.04,orchid,83
+598,summer,12,2,13,8/16/2022,7/9/2022,11/3/2022,Sunkiss,89.9,compact,77
+473,fall,12,10,5,9/17/2022,3/28/2023,10/8/2022,Lice Treatment,39.03,flowering,36
+293,spring,2,10,7,12/27/2022,9/27/2022,1/22/2023,amoxicillin and clavulanate potassium,91.87,compact,20
+305,winter,14,2,2,8/20/2022,11/16/2022,5/25/2022,LA MER THE REPARATIVE FACE SUN Broad Spectrum SPF 30,25.26,flowering,27
+179,winter,11,12,12,11/23/2022,7/30/2022,1/13/2023,Suphedrine PE Sinus and Allergy,49.96,orchid,18
+955,fall,9,13,3,2/3/2023,1/14/2023,5/15/2022,Navy Beans,58.26,orchid,38
+55,winter,10,7,8,11/28/2022,2/11/2023,8/26/2022,Leader Cherry SPF 4 Lip Balm,38.76,standard,92
+107,spring,8,1,8,1/8/2023,2/10/2023,9/18/2022,Quiet Rose Always color stay-on Makeup Broad Spectrum SPF 15,53.1,standard,31
+903,winter,10,11,14,6/19/2022,1/6/2023,1/10/2023,Naproxen,19.3,compact,27
+568,summer,1,9,4,1/25/2023,1/27/2023,12/19/2022,Ramipril,92.39,standard,57
+828,fall,12,1,9,8/26/2022,3/10/2023,11/6/2022,Lenscale Quailbrush,70.35,standard,12
+278,winter,8,11,9,11/17/2022,12/2/2022,9/21/2022,Ambien,29.23,flowering,60
+575,spring,13,2,8,2/6/2023,5/2/2022,11/21/2022,Amlodipine and Benazepril Hydrochloride,40.33,nitrogen-rich,37
+946,summer,2,7,11,8/10/2022,12/28/2022,10/27/2022,Bambusa Formica,20.08,standard,38
+959,summer,4,9,13,11/21/2022,12/8/2022,6/23/2022,ZEA MAYS POLLEN,96.96,orchid,16
+498,fall,2,14,4,8/2/2022,4/19/2022,12/17/2022,Silver Nitrate,67.8,standard,48
+731,winter,12,4,4,5/24/2022,7/16/2022,4/26/2022,hemorrhoidal,92.51,compact,38
+51,fall,1,3,12,6/10/2022,7/4/2022,8/20/2022,Fortamet,63.29,nitrogen-rich,33
+995,spring,6,6,14,7/6/2022,1/7/2023,4/5/2023,verapamil hydrochloride,29.47,flowering,5
+868,fall,9,4,8,9/4/2022,2/19/2023,9/11/2022,Cefuroxime,86.07,standard,61
+879,winter,6,1,3,12/9/2022,6/27/2022,12/22/2022,Peptic Relief,85.49,flowering,49
+129,spring,14,2,10,6/5/2022,10/30/2022,10/16/2022,Umcka Cold Flu Sugar Free Orange,43.14,orchid,38
+771,spring,3,3,11,4/30/2022,10/28/2022,10/10/2022,DOK EXTRA STRENGTH STOOL SOFTENER,80.89,flowering,24
+123,winter,5,5,7,4/7/2023,12/16/2022,4/28/2022,Morphine Sulfate,17.18,nitrogen-rich,31
+176,summer,4,9,11,3/1/2023,8/12/2022,4/9/2023,Hand Sanitizer,66.42,flowering,83
+711,spring,7,6,6,9/7/2022,6/19/2022,10/14/2022,Venlafaxine Hydrochloride,98.68,flowering,7
+924,summer,13,6,11,3/2/2023,1/10/2023,7/4/2022,CVS Athletes Foot Cream .5oz,68.28,orchid,41
+160,fall,1,1,13,7/28/2022,1/15/2023,3/21/2023,Cultivated Oat,74.94,nitrogen-rich,48
+454,spring,14,10,9,3/21/2023,10/13/2022,9/18/2022,Diphenhydramine Hydrochloride,35.94,nitrogen-rich,53
+214,spring,8,9,1,8/2/2022,6/22/2022,7/28/2022,Gengraf,37.35,flowering,71
+349,fall,6,9,10,5/24/2022,7/4/2022,10/27/2022,DawnMist Deodorant Bar No. 3/4,54.39,flowering,90
+608,summer,1,2,1,12/20/2022,10/10/2022,7/19/2022,Vazculep,55.13,orchid,87
+56,spring,6,2,14,3/9/2023,1/19/2023,1/28/2023,Olay Total Effects CC Tone Correcting,71.86,nitrogen-rich,77
+569,winter,10,3,14,4/3/2023,8/21/2022,9/23/2022,Sulfacetamide Sodium,18.44,nitrogen-rich,63
+20,winter,2,14,10,5/20/2022,1/16/2023,4/1/2023,Duloxetine,46.32,standard,15
+533,summer,3,11,10,8/6/2022,1/13/2023,5/31/2022,Gadavyt Cough,36.64,nitrogen-rich,88
+994,summer,13,1,11,5/27/2022,7/15/2022,10/27/2022,citalopram hydrobromide,77.06,flowering,8
+116,fall,5,9,2,6/26/2022,12/29/2022,7/26/2022,Whole Egg,92.5,nitrogen-rich,80
+508,spring,7,12,13,3/19/2023,9/21/2022,11/10/2022,Robitussin Mucus Plus Chest Congestion,12.14,flowering,71
+412,summer,8,5,7,1/29/2023,10/10/2022,5/6/2022,CARBON DIOXIDE,43.68,compact,33
+902,fall,6,4,13,8/2/2022,5/16/2022,7/11/2022,Colgate,77.95,compact,8
+644,winter,12,10,10,2/28/2023,10/12/2022,5/3/2022,Fluoxetine,68.54,nitrogen-rich,70
+950,fall,12,4,3,10/28/2022,11/27/2022,11/8/2022,Banophen,31.37,compact,87
+588,fall,2,4,11,10/24/2022,12/19/2022,6/9/2022,Gas Relief,21.3,nitrogen-rich,70
+435,spring,6,12,6,10/27/2022,2/21/2023,9/16/2022,up and up nasal,26.25,compact,85
+106,winter,11,14,5,7/20/2022,1/8/2023,11/11/2022,Fentanyl,55.92,flowering,54
+717,winter,14,9,4,10/9/2022,12/4/2022,2/14/2023,Trazodone Hydrochloride,81.12,flowering,37
+946,fall,5,10,1,3/22/2023,3/1/2023,1/21/2023,Topcare Sinus Congestion and Pain,71.22,orchid,38
+709,summer,7,14,9,5/20/2022,4/4/2023,10/19/2022,Bekunis Natures Gentle Laxative Herbal Tea,73.93,orchid,57
+245,winter,4,8,3,5/3/2022,1/10/2023,7/1/2022,Potassium Chloride,81.04,flowering,93
+12,summer,6,7,2,7/10/2022,5/11/2022,10/18/2022,Carbidopa and Levodopa,71.33,nitrogen-rich,17
+927,winter,8,9,13,4/18/2022,11/4/2022,3/24/2023,BAC-D Foaming Antibacterial Hand sanitizer,45.33,flowering,57
+653,spring,4,4,1,7/24/2022,3/5/2023,8/30/2022,PROBUFEN,36.2,orchid,93
+618,fall,2,4,9,3/14/2023,8/15/2022,7/6/2022,Tamsulosin Hydrochloride,87.98,nitrogen-rich,42
+862,spring,10,8,2,7/10/2022,1/15/2023,10/24/2022,BeneFIX,44.88,compact,9
+25,winter,2,8,1,5/6/2022,5/11/2022,8/16/2022,Valsartan,69.05,standard,67
+785,spring,12,9,7,5/12/2022,2/2/2023,6/11/2022,Oxygen,88.25,orchid,100
+511,summer,4,8,10,2/10/2023,8/23/2022,8/15/2022,CVS Athletes Foot Cream .5oz,14.5,compact,98
+193,spring,1,8,14,10/1/2022,3/17/2023,8/6/2022,Golden Sunshine Far Infrared Herbal,61.62,orchid,44
+576,summer,13,11,9,1/22/2023,2/22/2023,10/11/2022,DDF,47.29,compact,54
+745,spring,6,1,7,5/10/2022,12/14/2022,12/30/2022,nasal decongestant pe,70.31,compact,27
+404,fall,10,8,5,10/12/2022,8/21/2022,2/5/2023,SHISEIDO SHEER AND PERFECT FOUNDATION,77.29,compact,46
+113,fall,11,2,14,9/28/2022,6/29/2022,4/15/2023,Diphenhydramine Hydrochloride,90.15,nitrogen-rich,8
+781,spring,4,6,2,1/12/2023,10/7/2022,6/4/2022,Carbon Dioxide,89.14,compact,14
+31,fall,1,13,4,7/31/2022,5/24/2022,8/15/2022,Loxapine,99.19,standard,56
+204,winter,13,2,12,4/2/2023,7/11/2022,4/16/2023,Omeprazole,87.05,standard,71
+572,fall,13,2,3,7/9/2022,4/14/2023,4/10/2023,Ibuprofen,26.85,orchid,87
+420,fall,3,6,3,3/7/2023,7/14/2022,12/14/2022,temazepam,52.57,orchid,100
+550,fall,2,2,12,8/31/2022,4/19/2022,12/6/2022,Skin Eruptions Cough,47.07,nitrogen-rich,58
+474,fall,10,14,2,6/25/2022,3/8/2023,5/11/2022,Nicomide,41.06,nitrogen-rich,1
+801,summer,2,12,6,8/1/2022,5/28/2022,10/2/2022,Naproxen,39.65,nitrogen-rich,49
+363,summer,11,2,6,4/26/2022,4/20/2022,7/21/2022,Neutrogena Nourishing Eye Quad,66.81,nitrogen-rich,19
+659,winter,13,11,8,9/27/2022,4/12/2023,10/7/2022,Healing,80.21,orchid,55
+244,spring,5,3,12,12/19/2022,10/3/2022,3/16/2023,HYDROCORTISONE,52.22,standard,72
+603,spring,14,8,8,2/1/2023,11/12/2022,8/19/2022,Risperidone,27.46,orchid,31
+124,fall,11,6,8,9/20/2022,12/29/2022,11/22/2022,OP Protective Spray Gel 8,58.49,nitrogen-rich,39
+200,summer,10,11,4,10/1/2022,4/1/2023,6/24/2022,SHISEIDO RADIANT LIFTING FOUNDATION,29.76,flowering,32
+203,summer,7,4,1,5/7/2022,1/14/2023,9/6/2022,Ketorolac Tromethamine,18.96,orchid,40
+952,spring,11,9,2,5/19/2022,11/19/2022,7/30/2022,Ibuprofen PM,11.75,standard,47
+516,winter,11,4,5,3/8/2023,4/24/2022,5/23/2022,Dicyclomine Hydrochloride,52.6,orchid,12
+884,fall,3,10,12,5/10/2022,11/29/2022,10/1/2022,Carvedilol,25.24,orchid,25
+210,spring,2,5,6,5/21/2022,11/12/2022,4/1/2023,Childrens Allegra Allergy,44.69,nitrogen-rich,43
+412,fall,1,9,7,4/27/2022,4/19/2022,11/13/2022,AMLODIPINE BESYLATE,2.66,orchid,61
+111,summer,6,5,6,9/12/2022,5/31/2022,6/28/2022,Walgreens,41.07,orchid,27
+802,summer,4,7,2,4/21/2022,4/5/2023,1/11/2023,care one calcium antacid,67.25,nitrogen-rich,23
+654,winter,6,2,5,3/8/2023,6/23/2022,5/20/2022,One Gel Sport,75.08,nitrogen-rich,1
+103,winter,5,7,13,5/11/2022,2/12/2023,2/26/2023,Abstral,81.74,standard,97
+452,spring,11,6,14,9/1/2022,3/9/2023,9/27/2022,Calcarea Fluorica Kit Refill,41.93,nitrogen-rich,100
+361,fall,2,14,14,5/11/2022,12/28/2022,5/8/2022,Cymbalta,2.5,standard,95
+818,spring,9,7,7,3/19/2023,8/13/2022,9/2/2022,Potassium Chloride,24.13,standard,97
+372,summer,2,1,1,7/13/2022,3/9/2023,5/27/2022,Walgreen Maximum Strength Diaper Rash,41.43,orchid,46
+752,winter,1,10,5,1/10/2023,10/18/2022,5/30/2022,"Cat Pelt, Standardized",76.45,standard,94
+38,spring,13,10,1,6/7/2022,9/10/2022,2/14/2023,Articaine Hydrochloride and Epinephrine,63.46,nitrogen-rich,87
+579,fall,3,13,4,11/27/2022,3/19/2023,9/14/2022,Wounds Recovery,65.64,flowering,38
+69,winter,5,2,14,2/22/2023,12/2/2022,1/7/2023,Pain Relief PM,42.91,flowering,73
+585,fall,8,3,10,3/27/2023,5/7/2022,9/26/2022,Hackberry,18.97,orchid,14
+525,fall,8,8,11,2/4/2023,3/29/2023,7/18/2022,CLE DE PEAU BEAUTE FOUNDATION L,68.02,flowering,91
+737,winter,1,2,13,11/25/2022,12/21/2022,1/20/2023,WHITE FLOWER ANALGESIC BALM,10.92,nitrogen-rich,93
+349,summer,13,9,4,8/24/2022,9/8/2022,9/20/2022,DIGOX,99.88,standard,33
+373,winter,11,9,11,4/12/2023,1/23/2023,5/11/2022,FLOVENT,77.43,nitrogen-rich,65
+427,summer,14,1,10,7/5/2022,4/14/2023,8/12/2022,Ginger Lime Waterless Hand Wash,70.04,nitrogen-rich,31
+962,spring,5,3,9,4/19/2022,1/17/2023,8/29/2022,Sebum Clearing Masque,46.1,compact,48
+776,summer,11,14,5,12/27/2022,11/11/2022,6/1/2022,TYLENOL Cold,27.14,orchid,29
+712,summer,2,8,6,5/16/2022,12/1/2022,8/7/2022,Personal Care Antibacterial Hand - Fresh Melon,20.76,orchid,85
+2,summer,13,2,3,2/5/2023,3/13/2023,8/16/2022,Hydrogen Peroxide,19.05,nitrogen-rich,43
+840,fall,4,5,14,5/28/2022,3/19/2023,6/12/2022,Treatment Set TS331133,72.9,standard,79
+927,summer,13,5,11,10/8/2022,11/8/2022,8/6/2022,LoHist DM,84.61,orchid,35
+388,summer,13,11,4,5/27/2022,9/2/2022,12/27/2022,ATORVASTATIN CALCIUM,55.48,orchid,67
+22,summer,3,9,9,10/18/2022,12/3/2022,10/28/2022,Rat Epithelium,91.41,standard,63
+915,winter,10,3,10,11/8/2022,6/23/2022,11/4/2022,BROMUS INERMIS POLLEN,21.18,nitrogen-rich,47
+125,fall,2,3,4,11/28/2022,6/17/2022,8/10/2022,Up and Up Cold Flu Relief,34.9,compact,16
+660,winter,6,10,4,5/2/2022,2/24/2023,8/29/2022,Venlafaxine Hydrochloride,39.48,standard,64
+766,fall,7,12,9,5/4/2022,11/17/2022,8/10/2022,POLYCIN,7.09,compact,37
+368,fall,6,13,3,12/24/2022,7/25/2022,2/8/2023,Super BB 10-in-1 Beauty Balm Concealer,44.89,compact,81
+63,winter,8,14,10,10/13/2022,8/21/2022,10/13/2022,HAND SANITIZER,50.05,orchid,6
+642,fall,11,2,3,2/4/2023,3/2/2023,7/23/2022,Anti-Bacterial Deep Cleansing Hand,93.19,compact,37
+113,spring,9,3,1,11/22/2022,11/7/2022,12/3/2022,Kleenex Clear Antibacterial Skin Cleanser,60.36,flowering,96
+578,summer,10,2,4,10/25/2022,12/10/2022,1/21/2023,UltrasolSunscreen,23.51,compact,52
+916,summer,8,12,1,3/19/2023,1/31/2023,9/6/2022,Carvedilol,67.48,compact,4
+591,summer,14,6,6,7/4/2022,4/2/2023,8/27/2022,symmetry Antimicrobial Foaming Hand Wash,16.5,standard,40
+276,fall,3,2,5,9/27/2022,7/29/2022,8/25/2022,Atovaquone and Proguanil HCl,91.83,nitrogen-rich,29
+520,summer,3,1,7,8/28/2022,3/26/2023,12/11/2022,BABOR HSR Lifting Decollete Mask,64.57,nitrogen-rich,86
+350,fall,10,1,7,3/3/2023,6/18/2022,8/4/2022,TAZTIA,59.58,nitrogen-rich,82
+124,summer,12,1,1,12/12/2022,7/23/2022,10/22/2022,Hydroxyzine Hydrochloride,32.14,standard,82
+440,winter,2,12,10,10/31/2022,9/19/2022,3/31/2023,tramadol hydrochloride,37.63,standard,23
+557,fall,4,12,9,1/1/2023,4/5/2023,6/9/2022,Ampicillin,84.76,nitrogen-rich,60
+596,winter,2,3,14,6/12/2022,10/15/2022,6/5/2022,Equate nicotine,43.07,compact,23
+908,fall,13,10,3,12/2/2022,7/13/2022,2/3/2023,Enoxaparin Sodium,35.49,orchid,90
+471,summer,13,12,13,8/10/2022,7/17/2022,9/27/2022,Terbinafine Hydrochloride,42.45,nitrogen-rich,60
+927,fall,6,12,14,6/29/2022,5/20/2022,1/8/2023,Mens Mitchum Advanced Invisible,27.2,flowering,72
+811,fall,8,1,10,12/14/2022,10/10/2022,5/24/2022,Olive Pollen,71.07,orchid,99
+656,fall,1,5,5,7/6/2022,7/25/2022,4/13/2023,Han-I-Size,4.55,nitrogen-rich,14
+949,spring,6,2,2,1/10/2023,8/26/2022,2/28/2023,Zicam Ultra Cold Remedy Rapidmelts,29.35,compact,70
+853,summer,6,12,8,3/24/2023,8/31/2022,12/2/2022,care one acid reducer,46.93,flowering,43
+200,spring,14,6,14,6/29/2022,8/15/2022,11/13/2022,ibuprofen pm,49.4,nitrogen-rich,42
+434,summer,10,5,9,1/27/2023,3/28/2023,10/31/2022,Potassium Chloride in Dextrose and Sodium Chloride,5.7,orchid,77
+236,fall,7,8,14,9/7/2022,2/12/2023,7/17/2022,Ovarium 6 Special Order,9.18,orchid,77
+249,winter,7,3,4,2/24/2023,6/29/2022,10/7/2022,PURELL Advanced E3 Rated Instant Hand Sanitizer,15.1,nitrogen-rich,13
+446,winter,4,7,11,10/9/2022,6/14/2022,10/24/2022,ELF Zit Eraser,86.6,orchid,58
+883,fall,13,14,13,5/31/2022,7/31/2022,10/17/2022,FOR THE GARDENER LIP BALM,17.59,flowering,55
+78,winter,3,7,7,10/9/2022,10/7/2022,6/25/2022,Donepezil Hydrochloride,25.87,standard,47
+894,fall,10,1,3,2/21/2023,4/26/2022,1/30/2023,California Mugwort,93.94,standard,49
+787,fall,4,7,2,1/26/2023,3/3/2023,6/15/2022,Treatment Set TS346791,48.7,compact,65
+514,winter,4,4,12,5/16/2022,12/21/2022,11/26/2022,Minocycline Hydrochloride,89.89,standard,91
+671,fall,11,14,1,3/9/2023,9/10/2022,7/18/2022,Nitroglycerin In Dextrose,62.86,standard,100
+429,summer,12,6,13,10/1/2022,9/30/2022,4/30/2022,sunmark headache relief,64.16,standard,28
+838,fall,7,14,6,7/3/2022,4/17/2022,1/2/2023,Fusarium compactum,50.05,standard,94
+546,fall,14,14,7,6/17/2022,7/11/2022,2/14/2023,SPF 20,36.71,compact,70
+818,fall,7,4,14,1/13/2023,9/15/2022,4/26/2022,FAMILY CARE ACNE TREATMENT,41.63,nitrogen-rich,28
+475,spring,1,11,2,11/1/2022,2/21/2023,8/2/2022,Kroger,61.38,compact,53
+508,fall,11,8,14,4/12/2023,2/7/2023,10/15/2022,Maximum Strength Menstrual Relief,29.22,orchid,18
+3,fall,6,6,4,9/3/2022,4/29/2022,9/29/2022,RoC Multi Correxion 4 Zone Daily Moisturizer,28.08,standard,18
+87,spring,13,4,9,6/25/2022,12/19/2022,3/10/2023,Clonazepam,26.25,compact,80
+964,summer,14,1,8,4/30/2022,9/14/2022,11/7/2022,CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 116,77.76,flowering,55
+254,fall,9,4,12,1/1/2023,7/11/2022,7/7/2022,LBEL HYDRATESS,46.54,flowering,68
+650,winter,2,8,9,4/1/2023,4/27/2022,4/26/2022,Folic Acid,35.62,nitrogen-rich,34
+776,summer,11,1,10,3/6/2023,10/19/2022,2/28/2023,MARLISSA,89.62,flowering,90
+420,fall,3,9,11,7/28/2022,7/16/2022,2/27/2023,JANUMET,53.93,standard,71
+280,fall,13,7,4,8/30/2022,3/24/2023,12/11/2022,AllergyEase Nut and Seed,82.69,orchid,23
+195,fall,5,12,9,9/1/2022,4/27/2022,4/8/2023,Neutrogena MoistureShine SPF20,70.68,flowering,22
+955,spring,10,6,5,8/10/2022,5/25/2022,7/2/2022,BOS TAURUS SKIN,7.79,orchid,13
+288,summer,10,1,5,12/8/2022,6/5/2022,1/17/2023,SINUS PAIN AND CONGESTION DAYTIME,27.57,orchid,2
+579,summer,9,8,1,12/30/2022,6/26/2022,4/28/2022,VENLAFAXINE HYDROCHLORIDE,34.86,compact,19
+783,fall,2,10,10,6/9/2022,9/8/2022,9/19/2022,Mary Kay Tinted Lip Balm Sunscreen SPF 15 Mango,29.99,flowering,1
+997,winter,9,4,10,9/2/2022,10/13/2022,4/19/2022,Lysol,74.91,orchid,40
+794,winter,4,2,13,3/24/2023,7/14/2022,11/7/2022,Matrix Support,5.0,orchid,45
+608,summer,10,9,6,9/17/2022,7/22/2022,8/16/2022,LBEL EFET PARFAIT Spots Reducing Effect Foundation SPF 18 - CLAIRE 4,35.91,compact,3
+865,summer,9,1,5,3/3/2023,6/27/2022,6/27/2022,Cefuroxime Axetil,70.03,orchid,1
+253,spring,13,3,8,6/10/2022,3/9/2023,5/4/2022,KIDS CHOICE,81.59,orchid,36
+37,spring,8,14,3,2/7/2023,2/8/2023,3/21/2023,Chloraseptic Sore Throat,88.48,orchid,12
+973,summer,12,5,1,6/14/2022,9/26/2022,3/13/2023,PRAVASTATIN SODIUM,90.41,flowering,51
+65,winter,13,7,12,12/2/2022,8/10/2022,5/15/2022,flormar Foundation Sunscreen Broad Spectrum SPF 20 LF16 NATURAL BEIGE,42.81,standard,58
+169,spring,8,13,5,3/26/2023,8/2/2022,12/2/2022,Haloperidol,85.49,compact,87
+271,summer,1,6,13,5/9/2022,1/27/2023,1/12/2023,Tinactin,96.51,orchid,21
+375,fall,11,9,11,4/8/2023,11/6/2022,3/29/2023,EXTAVIA,7.93,flowering,85
+43,fall,3,2,12,1/30/2023,9/16/2022,7/25/2022,Losartan Potassium,55.15,nitrogen-rich,42
+955,fall,10,10,2,10/3/2022,7/9/2022,9/15/2022,Opahl,9.35,nitrogen-rich,36
+841,fall,2,3,7,1/18/2023,3/17/2023,9/28/2022,Smith and Johnson Antibacterial,58.53,standard,78
+370,fall,5,9,9,12/16/2022,6/17/2022,5/3/2022,Estradiol,57.79,standard,99
+298,fall,8,7,10,2/2/2023,11/25/2022,9/2/2022,Sodium Chloride,74.85,standard,56
+41,winter,6,14,5,10/1/2022,2/7/2023,9/14/2022,LEADER NICOTINE TRANSDERMAL SYSTEM,9.29,flowering,7
+170,fall,5,12,13,8/31/2022,6/9/2022,6/5/2022,Metoprolol Tartrate,86.11,nitrogen-rich,29
+935,fall,7,9,2,5/27/2022,10/23/2022,3/12/2023,Ibuprofen,16.83,compact,48
+740,fall,5,3,1,11/14/2022,8/13/2022,12/21/2022,Medicated Green Oil,6.78,flowering,46
+31,summer,1,1,3,8/9/2022,3/7/2023,7/18/2022,Cefadroxil,17.9,compact,38
+680,spring,14,14,14,9/22/2022,3/12/2023,4/19/2022,ZOLPIDEM TARTRATE,66.71,orchid,92
+795,spring,14,3,14,10/15/2022,1/14/2023,12/19/2022,SUMATRIPTAN SUCCINATE,11.62,standard,35
+947,summer,13,12,3,7/12/2022,7/23/2022,5/11/2022,"Pollens - Trees, Tree Mix 5",47.66,flowering,32
+647,fall,9,10,8,12/17/2022,10/1/2022,7/25/2022,Methadone Hydrochloride,67.52,standard,56
+276,summer,8,13,1,6/7/2022,3/27/2023,7/13/2022,Quinapril,94.4,nitrogen-rich,86
+269,fall,2,3,2,4/24/2022,1/6/2023,2/19/2023,Preferred Plus Loperamide Hydrochloride,28.65,flowering,24
+749,summer,10,12,10,3/6/2023,1/13/2023,6/20/2022,RHIZOPUS ARRHIZUS VAR ARRHIZUS,43.22,orchid,50
+956,fall,14,2,10,10/31/2022,4/10/2023,9/15/2022,Smart Sense Anti Diarrheal,24.51,compact,81
+140,fall,7,5,14,3/8/2023,7/26/2022,6/13/2022,good neighbor pharmacy cold,87.52,standard,46
+723,summer,5,13,3,1/8/2023,11/13/2022,4/9/2023,Misoprostol,40.88,orchid,23
+419,summer,8,3,10,9/6/2022,6/18/2022,12/1/2022,Morphine Sulfate,84.78,standard,22
+987,spring,5,9,2,3/24/2023,2/4/2023,7/14/2022,THERAFLU,94.4,standard,48
+502,spring,8,3,6,10/23/2022,5/18/2022,10/17/2022,Betamethasone Dipropionate,46.6,nitrogen-rich,56
+239,summer,6,14,5,12/20/2022,4/8/2023,3/22/2023,Acetaminophen And Codeine,17.19,nitrogen-rich,43
+399,winter,8,8,10,10/31/2022,8/21/2022,11/7/2022,Crest Pro-Health For Me,25.81,orchid,3
+592,fall,9,5,13,9/13/2022,6/14/2022,1/8/2023,Olive Pollen,68.26,standard,17
+384,spring,5,1,6,9/25/2022,11/23/2022,10/12/2022,Metformin Hydrochloride Extended Release,76.9,orchid,3
+310,fall,9,14,2,10/31/2022,4/6/2023,9/1/2022,CVS Simple Care Protective Rash,56.85,flowering,27
+506,spring,8,6,12,5/21/2022,2/13/2023,8/19/2022,Synthroid,71.8,flowering,27
+824,spring,7,3,7,7/5/2022,10/22/2022,9/22/2022,VENLAFAXINE,62.77,flowering,6
+909,spring,12,3,9,1/26/2023,4/14/2023,1/28/2023,FaBB Tablets,78.57,compact,3
+34,winter,1,9,2,3/25/2023,8/18/2022,12/23/2022,OXYGEN,97.03,compact,76
+836,summer,3,8,12,9/26/2022,11/17/2022,12/27/2022,Cyclobenzaprine Hydrochloride,71.78,compact,78
+547,fall,11,9,12,7/6/2022,1/15/2023,11/13/2022,Chloraseptic Warming Sore Throat,90.62,compact,19
+231,winter,11,6,1,3/21/2023,7/26/2022,8/5/2022,Trepoxen-250,83.88,nitrogen-rich,74
+704,summer,2,3,10,1/31/2023,12/17/2022,1/26/2023,mapap,97.11,compact,84
+256,fall,14,9,12,1/5/2023,7/16/2022,10/19/2022,Thyroidinum,86.79,standard,97
+186,fall,11,3,3,5/3/2022,8/30/2022,8/29/2022,Neutrogena MoistureShine SPF20,12.07,nitrogen-rich,5
+177,summer,3,14,13,10/18/2022,11/11/2022,10/25/2022,All Day Pain Relief,76.49,flowering,40
+450,summer,1,7,8,6/20/2022,7/22/2022,8/3/2022,"Food - Plant Source, Rice, Whole Grain",40.86,orchid,66
+771,spring,3,8,4,4/15/2023,11/3/2022,10/15/2022,Earwax Removal Aid,2.71,flowering,31
+259,winter,10,12,12,3/5/2023,4/2/2023,4/7/2023,doxepin hydrochloride,27.67,flowering,9
+14,winter,9,14,13,7/30/2022,5/25/2022,11/26/2022,Melaleuca Pollen,17.17,compact,20
+815,winter,6,1,1,1/31/2023,9/26/2022,8/9/2022,MyOmega,29.52,flowering,74
+992,fall,7,2,5,11/2/2022,11/12/2022,7/30/2022,GRAVI-T,80.33,orchid,8
+196,summer,2,9,13,3/24/2023,11/25/2022,7/22/2022,DIANEAL PD-2 with Dextrose,66.01,standard,13
+587,spring,11,10,5,11/4/2022,10/30/2022,11/19/2022,UV ESSENTIEL,50.1,standard,10
+942,summer,1,4,10,9/12/2022,10/20/2022,1/11/2023,Listerine Smart Rinse,10.37,nitrogen-rich,33
+201,summer,3,11,8,11/3/2022,10/27/2022,11/4/2022,Gabapentin,42.41,nitrogen-rich,81
+404,winter,4,12,3,1/29/2023,6/10/2022,8/22/2022,Lamotrigine,96.13,nitrogen-rich,26
+658,spring,4,12,3,8/12/2022,4/23/2022,3/22/2023,Temovate,78.97,compact,35
+595,fall,9,2,5,6/29/2022,7/4/2022,8/23/2022,Sterile Water,24.76,compact,76
+921,fall,3,2,6,5/21/2022,6/27/2022,8/16/2022,Haloperidol,63.57,nitrogen-rich,4
+691,fall,9,6,11,2/12/2023,12/21/2022,7/10/2022,NightTime Sinus Relief,5.95,nitrogen-rich,100
+522,spring,14,6,13,9/15/2022,4/17/2022,4/9/2023,Amiodarone Hydrochloride,7.26,orchid,23
+455,spring,10,9,11,1/3/2023,7/12/2022,3/1/2023,RoC Retinol Correxion Deep Wrinkle Daily Moisturizer,63.65,standard,93
+678,fall,13,12,13,1/16/2023,2/25/2023,10/10/2022,COUMADIN,38.9,nitrogen-rich,29
+251,fall,14,13,4,5/21/2022,10/27/2022,1/19/2023,ENALAPRIL MALEATE AND HYDROCHLOROTHIAZIDE,83.68,flowering,96
+748,fall,9,4,11,3/19/2023,4/25/2022,6/21/2022,PALMERS SKIN SUCCESS,58.62,compact,19
+288,spring,11,12,3,8/3/2022,6/26/2022,5/10/2022,Ibuprofen,21.85,flowering,79
+574,summer,11,11,6,6/14/2022,2/14/2023,5/2/2022,PANTOPRAZOLE SODIUM,35.95,flowering,33
+745,spring,10,14,7,6/29/2022,10/20/2022,5/17/2022,Metoprolol succinate,13.26,standard,32
+181,summer,11,8,3,7/1/2022,11/16/2022,5/12/2022,Gabitidine,43.22,flowering,88
+5,spring,12,12,4,1/27/2023,11/13/2022,12/16/2022,Urtica Urens Kit Refill,44.85,orchid,6
+893,fall,1,3,6,4/7/2023,8/11/2022,12/15/2022,Anastrozole,22.71,compact,77
+997,winter,7,14,6,4/24/2022,6/27/2022,4/4/2023,Halls,58.66,orchid,77
+963,winter,9,5,8,2/27/2023,6/30/2022,10/2/2022,XANTHIUM STRUMARIUM VAR CANADENSE POLLEN,95.85,standard,43
+371,spring,12,12,6,1/13/2023,7/13/2022,9/29/2022,Sensodyne,60.3,compact,75
+113,fall,6,13,9,3/23/2023,11/3/2022,4/21/2022,Clobetasol Propionate,53.09,standard,14
+209,spring,6,1,14,11/8/2022,2/17/2023,10/23/2022,CVS Pharmacy,72.76,standard,1
+523,winter,4,3,7,3/9/2023,11/24/2022,6/25/2022,CYZONE,33.17,compact,71
+170,spring,12,9,10,9/26/2022,3/4/2023,12/10/2022,Cymbalta,73.77,flowering,30
+196,winter,6,14,2,8/20/2022,6/13/2022,12/10/2022,Hy5 Alcohol Free Fragrance Free Foaming Hand Sanitizer,29.3,compact,48
+418,summer,11,1,12,4/9/2023,12/31/2022,10/30/2022,CODEINUM,83.89,orchid,33
+569,fall,3,2,7,2/3/2023,11/23/2022,1/16/2023,Walgreens Anticavity and Antigingivitis Whitening,37.23,flowering,2
+553,fall,5,6,7,11/18/2022,5/27/2022,4/20/2022,Lisinopril,44.22,nitrogen-rich,2
+360,spring,2,4,13,8/6/2022,12/12/2022,4/20/2022,Nighttime Sinus Relief,38.84,standard,6
+762,winter,7,8,5,4/16/2023,7/17/2022,4/3/2023,equaline cough dm,94.22,standard,26
+554,summer,12,14,10,1/28/2023,6/29/2022,6/21/2022,Amoxicillin,52.6,orchid,35
+52,spring,6,5,1,11/21/2022,10/29/2022,3/4/2023,Isopropyl alcohol,24.64,flowering,9
+547,winter,1,7,1,8/28/2022,1/6/2023,1/19/2023,Avant Original - Fragrance Free,41.33,flowering,55
+899,fall,8,11,12,3/26/2023,4/14/2023,4/27/2022,TRIPLE ANTIBIOTIC,19.13,orchid,9
+720,spring,10,1,9,3/6/2023,6/14/2022,7/25/2022,Prostatone,13.34,compact,43
+814,fall,9,7,7,5/25/2022,12/26/2022,1/9/2023,Berri-Freez,55.18,flowering,47
+400,winter,8,8,5,9/4/2022,1/4/2023,11/3/2022,Cotton Linters,41.08,flowering,19
+894,spring,4,9,5,8/18/2022,6/10/2022,12/31/2022,citalopram hydrobromide,11.01,nitrogen-rich,93
+503,fall,8,6,13,10/19/2022,12/9/2022,8/22/2022,Mirtazapine,32.07,nitrogen-rich,99
+821,spring,1,6,13,8/7/2022,5/24/2022,12/20/2022,ciprofloxacin,39.48,standard,55
+968,winter,7,7,5,8/16/2022,2/16/2023,8/6/2022,Glipizide,15.96,orchid,69
+337,summer,13,2,5,10/24/2022,9/1/2022,4/13/2023,sunmark tussin dm,79.28,flowering,71
+472,summer,1,1,10,11/28/2022,10/7/2022,3/25/2023,Anticavity,19.7,compact,19
+335,fall,8,2,3,5/30/2022,3/25/2023,12/23/2022,LES BEIGES,21.02,standard,19
+29,summer,6,9,6,10/18/2022,3/21/2023,9/3/2022,Mineral Oil,16.24,orchid,37
+491,summer,11,13,6,10/25/2022,6/7/2022,5/17/2022,benztropine mesylate,4.32,compact,63
+880,winter,14,14,1,5/28/2022,10/26/2022,12/19/2022,VITALUMIERE AQUA,66.11,nitrogen-rich,93
+322,spring,3,3,9,1/1/2023,6/2/2022,9/5/2022,Ibuprofen,59.21,nitrogen-rich,18
+530,fall,8,5,12,6/9/2022,4/10/2023,1/28/2023,Sucralfate,14.66,standard,46
+608,fall,10,14,1,12/30/2022,6/11/2022,6/7/2022,FLECTOR,24.65,flowering,30
+329,spring,6,7,10,1/12/2023,3/18/2023,5/12/2022,LAMISIL,60.21,standard,35
+41,spring,4,2,1,1/18/2023,3/2/2023,5/21/2022,Good Neighbor Anti-Fungal,50.08,orchid,14
+355,fall,13,12,14,9/10/2022,3/8/2023,3/18/2023,Sodium Bicarbonate,6.65,nitrogen-rich,27
+940,fall,12,14,6,3/15/2023,6/24/2022,11/25/2022,Oxycodone and Acetaminophen,79.31,nitrogen-rich,53
+783,summer,6,13,6,10/7/2022,8/16/2022,6/1/2022,sunmark,49.31,flowering,89
+935,fall,1,10,8,4/9/2023,6/14/2022,2/13/2023,Fluoxetine,52.41,compact,92
+123,spring,5,14,14,10/19/2022,9/11/2022,6/19/2022,USANA Lip Moisturizer,51.23,compact,76
+324,spring,14,8,12,7/27/2022,1/5/2023,7/31/2022,Lithium Carbonate,76.79,nitrogen-rich,2
+677,winter,11,14,6,6/19/2022,8/24/2022,3/11/2023,METHIMAZOLE,78.72,flowering,49
+947,summer,10,5,2,1/5/2023,6/6/2022,2/24/2023,Virt-Pn,69.98,nitrogen-rich,29
+258,fall,4,12,4,4/7/2023,12/26/2022,8/8/2022,SMART SENSE,64.59,compact,24
+796,fall,13,1,8,4/21/2022,10/19/2022,5/4/2022,DOBUTamine Hydrochloride in Dextrose,82.53,compact,12
+909,winter,13,14,3,6/17/2022,6/27/2022,8/2/2022,Serotonin,32.65,standard,13
+442,winter,13,5,4,9/6/2022,1/2/2023,6/13/2022,Metformin Hydrochloride,81.82,flowering,88
+640,winter,14,4,4,9/21/2022,5/20/2022,4/6/2023,Citalopram,41.6,standard,100
+508,summer,6,3,4,2/11/2023,12/16/2022,2/7/2023,Neo,91.6,orchid,41
+937,winter,6,11,2,5/12/2022,2/21/2023,5/7/2022,Yves Saint Laurent,89.11,flowering,55
+563,summer,10,13,2,7/31/2022,6/27/2022,6/3/2022,potassium chloride,35.66,orchid,54
+821,winter,2,6,12,6/22/2022,6/24/2022,2/4/2023,PERCOCET,63.99,nitrogen-rich,93
+279,winter,3,8,12,1/2/2023,4/7/2023,4/3/2023,isosorbide mononitrate,15.16,compact,59
+753,summer,7,6,7,9/2/2022,11/26/2022,6/7/2022,Thyreoidea Ferrum,74.94,nitrogen-rich,95
+848,winter,11,8,7,9/13/2022,11/5/2022,7/2/2022,benzonatate,93.38,nitrogen-rich,89
+618,fall,4,12,14,2/12/2023,12/16/2022,5/29/2022,ENALAPRIL MALEATE,55.79,flowering,71
+251,spring,10,3,4,5/11/2022,12/25/2022,1/2/2023,DAY CREAM REPLENISHING HYDRATOR,45.23,standard,18
+668,fall,13,3,6,5/5/2022,5/5/2022,4/25/2022,Mercurialis Calendula Healing,12.68,standard,33
+399,winter,13,8,7,2/5/2023,12/14/2022,4/6/2023,IPKN Moist and Firm BB 02 Medium,48.84,nitrogen-rich,49
+397,winter,14,10,14,6/25/2022,1/28/2023,5/27/2022,Alcohol,13.94,flowering,44
+954,fall,4,9,1,11/15/2022,1/19/2023,11/23/2022,Pure Gel,42.44,nitrogen-rich,97
+741,spring,4,2,9,5/10/2022,2/15/2023,5/5/2022,Letrozole,75.51,standard,53
+853,spring,14,14,1,7/25/2022,6/3/2022,8/1/2022,Anagallis Taraxacum,54.04,flowering,82
+250,summer,2,9,10,5/10/2022,1/18/2023,10/6/2022,Betaxolol,47.83,orchid,75
+309,spring,12,2,2,9/12/2022,12/1/2022,1/26/2023,CLEOCIN PHOSPHATE,70.39,compact,36
+919,summer,10,13,3,3/18/2023,3/20/2023,3/29/2023,CLE DE PEAU BEAUTE SILKY FOUNDATION I,25.88,orchid,14
+737,spring,3,11,9,2/20/2023,11/27/2022,6/5/2022,Enalapril Maleate,52.21,nitrogen-rich,80
+15,spring,2,11,9,3/8/2023,5/26/2022,4/19/2022,Forma-Ray,72.27,orchid,41
+554,winter,13,3,8,7/13/2022,1/26/2023,4/23/2022,iBlanc Restora-Bright Elite Natural Sun Defense,99.14,orchid,18
+125,summer,13,14,5,11/3/2022,1/5/2023,3/15/2023,Zidovudine,35.94,nitrogen-rich,50
+920,fall,11,13,12,9/9/2022,4/1/2023,12/21/2022,Fluoxetine Hydrochloride,62.3,orchid,46
+654,summer,6,13,8,5/14/2022,8/16/2022,9/1/2022,Octreotide Acetate,33.31,orchid,78
+26,fall,13,8,11,7/14/2022,1/6/2023,11/24/2022,benztropine mesylate,73.54,nitrogen-rich,54
+147,fall,2,3,4,1/14/2023,5/10/2022,12/23/2022,Arrythmiaforce,3.88,flowering,96
+187,fall,13,4,12,7/20/2022,3/30/2023,11/30/2022,Donepezil Hydrochloride,32.18,flowering,21
+70,fall,2,8,12,12/25/2022,6/7/2022,2/1/2023,Clozapine,13.7,compact,58
+779,summer,3,1,1,4/25/2022,7/13/2022,3/11/2023,Smart Sense Ranitidine,11.93,standard,79
+911,winter,1,4,7,12/5/2022,2/6/2023,8/5/2022,Quality Choice Tolnaftate Antifungal,9.14,nitrogen-rich,19
+418,winter,8,6,1,7/14/2022,11/13/2022,1/21/2023,Treatment Set TS343825,83.65,nitrogen-rich,27
+344,spring,5,7,3,6/17/2022,3/4/2023,6/21/2022,Metoprolol Tartrate,83.96,nitrogen-rich,56
+48,summer,13,7,5,2/10/2023,5/1/2022,2/13/2023,Carbamazepine,5.42,flowering,78
+512,fall,5,3,8,9/13/2022,7/31/2022,11/8/2022,Pleo Pin,25.68,compact,2
+833,fall,12,13,6,7/6/2022,6/10/2022,6/4/2022,Metronidazole,23.86,orchid,19
