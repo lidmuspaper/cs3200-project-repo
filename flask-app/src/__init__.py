@@ -33,10 +33,12 @@ def create_app():
     from src.views import views
     from src.persona1.persona1 import persona1
     from src.persona2.persona2 import persona2
+    from src.users.users import users
 
     # Register the routes that we just imported so they can be properly handled
     app.register_blueprint(views,       url_prefix='/v')
     app.register_blueprint(persona1,   url_prefix='/j')
     app.register_blueprint(persona2,    url_prefix='/s')
-
+    app.register_blueprint(users,    url_prefix='/u')
+    
     return app
