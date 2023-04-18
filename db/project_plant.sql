@@ -56,9 +56,9 @@ CREATE TABLE IF NOT EXISTS Plant_care_routine
     watering_timer    int,
     fertilizing_timer int,
     repotting_timer   int,
-    last_fertilized   date DEFAULT CURRENT_TIMESTAMP,
-    last_repotted     date DEFAULT CURRENT_TIMESTAMP,
-    last_watered      date DEFAULT CURRENT_TIMESTAMP,
+    last_fertilized   datetime DEFAULT CURRENT_TIMESTAMP,
+    last_repotted     datetime DEFAULT CURRENT_TIMESTAMP,
+    last_watered      datetime DEFAULT CURRENT_TIMESTAMP,
     type_fertilizer   varchar(50),
     pot_size          float,
     soil_type         varchar(50),
@@ -99,9 +99,8 @@ CREATE TABLE IF NOT EXISTS PLANT_LOCATION
     location_id   int AUTO_INCREMENT primary key,
     plant_id      int,
     location_name varchar(50),
-    FOREIGN KEY (plant_id) references Plant (plant_id),
-    FOREIGN KEY (location_name) references Location (location_name)
-    ON DELETE CASCADE
+    FOREIGN KEY (plant_id) references Plant (plant_id) ON DELETE CASCADE,
+    FOREIGN KEY (location_name) references Location (location_name) ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Gardens

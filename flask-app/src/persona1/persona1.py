@@ -34,14 +34,14 @@ def get_locations():
     the_response.mimetype = 'application/json'
     return the_response
 
-# Get all user's plants from the DB
+# Get all user's plants and their locations from the DB
 @persona1.route('/get_all_plants', methods=['GET'])
 def get_plants():
     data = request.json
     current_app.logger.info(data)
 
     cursor = db.get_db().cursor()
-    cursor.execute('select * from Plant WHERE user_id = ' + str(data['user_id']))
+    cursor.execute('select * from Plant LEFT JOIN PLANT_LOCATION on (Plant.plant_id = PLANT_LOCATION.plant_id) WHERE user_id = ' + str(data['user_id']))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -97,33 +97,6 @@ def add_plant():
 
     return query
 
-# Adds a new plant schedule
-@persona1.route('/add_plant_schedule', methods=['POST'])
-def add_schedule():
-    data = request.json
-    current_app.logger.info(data)
-
-    size = data['size']
-    age = data['age'] 
-    plant_name = data['plant_name']
-    shown_name = data['shown_name']
-    user_id = data['user_id']
-
-    query = 'INSERT INTO Plant (size, age, plant_name, shown_name, user_id) VALUES ('
-    query += str(size) + ', '
-    query += str(age) + ', "'
-    query += plant_name + '", "'
-    query += shown_name + '", '
-    query += str(user_id) + ')'
-
-    current_app.logger.info(query)
-
-    cursor = db.get_db().cursor()
-    cursor.execute(query)
-    db.get_db().commit()
-
-    return query
-
 # Adds a new plant location
 @persona1.route('/add_plant_location', methods=['POST'])
 def add_location():
@@ -145,12 +118,38 @@ def add_location():
 
     return query
 
+# Edit an existing plant
+@persona1.route('/edit_plant', methods=['PUT'])
+def edit_plant():
+    data = request.json
+    current_app.logger.info(data)
+
+    plant_id = data['p_id']
+    shown_name = data['new_name'] 
+    size = data['height']
+    age = data['new_age']
+
+    query = 'Update Plant set shown_name = "'
+    query += shown_name + '",age='
+    query += str(age) + ',size='
+    query += str(size) + ' where plant_id = '
+    query += str(plant_id)
+
+    current_app.logger.info(query)
+
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+    db.get_db().commit()
+
+    return query
+
+# Deletes a selected plant
 @persona1.route('/delete_plant', methods=['DELETE'])
 def delete_plant():
     data = request.json
     current_app.logger.info(data)
 
-    query = 'INSERT INTO Plant (size, age, plant_name, shown_name, user_id) VALUES ('
+    query = 'DELETE from Plant where plant_id =' + str(data['plant_id'])
 
     current_app.logger.info(query)
 
