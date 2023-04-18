@@ -53,19 +53,19 @@ CREATE TABLE IF NOT EXISTS Plant
 CREATE TABLE IF NOT EXISTS Plant_care_routine
 (
     plant_id          int UNIQUE,
-    routine_name      varchar(200),
     watering_timer    int,
     fertilizing_timer int,
     repotting_timer   int,
-    last_fertilized   date,
-    last_repotted     date,
-    last_watered      date,
+    last_fertilized   date DEFAULT CURRENT_TIMESTAMP,
+    last_repotted     date DEFAULT CURRENT_TIMESTAMP,
+    last_watered      date DEFAULT CURRENT_TIMESTAMP,
     type_fertilizer   varchar(50),
     pot_size          float,
     soil_type         varchar(50),
     watering_amount   float,
 
     FOREIGN KEY (plant_id) REFERENCES Plant (plant_id)
+    ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Illness
@@ -83,6 +83,7 @@ CREATE TABLE IF NOT EXISTS PLANT_ILLNESS
     illness_name varchar(50),
     FOREIGN KEY (plant_id) references Plant (plant_id),
     FOREIGN KEY (illness_name) references Illness (illness_name)
+    ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Location
@@ -100,6 +101,7 @@ CREATE TABLE IF NOT EXISTS PLANT_LOCATION
     location_name varchar(50),
     FOREIGN KEY (plant_id) references Plant (plant_id),
     FOREIGN KEY (location_name) references Location (location_name)
+    ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Gardens
@@ -165,14 +167,13 @@ INSERT INTO Plant (size, age, plant_name, shown_name, user_id)
 VALUES (12.5, 2, 'Spider Plant', 'First Spider Plant', 1),
        (16.8, 3, 'Peace Lily', 'Peace Lily in the Backyard', 2);
 
-
-INSERT INTO Plant_care_routine (plant_id, routine_name, watering_timer, fertilizing_timer, repotting_timer,
+INSERT INTO Plant_care_routine (plant_id, watering_timer, fertilizing_timer, repotting_timer,
                                 last_fertilized, last_repotted, last_watered, type_fertilizer, pot_size, soil_type,
                                 watering_amount)
-VALUES (1, 'Summer Routine', 1, 5, 10, '2022-02-01', '2022-03-01', '2022-03-01', 'All-purpose fertilizer', 6.0,
-        'Potting mix', 250.5),
-       (2, 'Peace Lily', 2, 10, 20, '2022-02-15', '2022-01-15', '2022-02-28', 'Liquid fertilizer', 8.0,
-        'Potting mix with perlite', 300.75);
+VALUES (1, 1, 5, 10, '2022-02-01', '2022-03-01', '2022-03-01', 'All-purpose fertilizer', 6.0,
+        'standard', 250.5),
+       (2, 2, 10, 20, '2022-02-15', '2022-01-15', '2022-02-28', 'Liquid fertilizer', 8.0,
+        'flowering', 300.75);
 
 INSERT INTO Illness (illness_name, severity, treatments, symptoms)
 VALUES ('Blight', 2, 'Remove infected leaves, increase humidity', 'Yellowing leaves, brown spots'),
