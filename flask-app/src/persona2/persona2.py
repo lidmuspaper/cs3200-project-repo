@@ -1,12 +1,8 @@
-from flask import Blueprint, request, jsonify, make_response
+from flask import Blueprint, request, jsonify, make_response, current_app
 import json
 from src import db
 
 persona2 = Blueprint('persona2', __name__)
-
-@persona2.route('/persona1', methods=['GET'])
-def get_plants():
-	pass
 
 # Get this user's weather from the DB
 @persona2.route('/get_weather', methods=['GET'])
@@ -27,13 +23,13 @@ def get_weather():
     return the_response
 
 # Get all user's plants' location from the DB
-@persona2.route('/get_location', methods=['GET'])
-def get_location():
+@persona2.route('/get_plant_location', methods=['GET'])
+def get_plant_location():
     data = request.json
     current_app.logger.info(data)
 
     cursor = db.get_db().cursor()
-    cursor.execute('select * from Locatoin WHERE user_id = ' + str(data['user_id']))
+    cursor.execute('select location_name from PLANT_LOCATION where plant_id = ' + str(data['plant_id']))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -44,14 +40,14 @@ def get_location():
     the_response.mimetype = 'application/json'
     return the_response
 
-# Get plants' location from the DB based on the plant_id
+# Get location details based on location_name
 @persona2.route('/get_location', methods=['GET'])
 def get_location():
     data = request.json
     current_app.logger.info(data)
 
     cursor = db.get_db().cursor()
-    cursor.execute('select location_name from Plant_Location WHERE plant_id = ' + str(data['plant_id']))
+    cursor.execute('select * from Location where location_name = ' + str(data['location_name']))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
@@ -99,8 +95,8 @@ def get_last_water_fert_repot():
     return the_response
 
 # Get type_fertilizer, pot_size, soil_type, watering_amount with the plant_id from the DB
-@persona2.route('/get_last_water_fert_repot', methods=['GET'])
-def get_last_water_fert_repot():
+@persona2.route('/get_fert_pot_soil', methods=['GET'])
+def get_fert_pot_soil():
     data = request.json
     current_app.logger.info(data)
 

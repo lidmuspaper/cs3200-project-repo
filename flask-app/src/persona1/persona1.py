@@ -52,6 +52,24 @@ def get_plants():
     the_response.mimetype = 'application/json'
     return the_response
 
+# Get all plants of a user without a location
+@persona1.route('/get_locationless', methods=['GET'])
+def get_locationless():
+    data = request.json
+    current_app.logger.info(data)
+
+    cursor = db.get_db().cursor()
+    cursor.execute('SELECT shown_name, plant_id from Plant left join PLANT_LOCATION USING (plant_id) WHERE PLANT_LOCATION.location_id is null AND user_id = ' + str(data['user_id']))
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
 # Adds a new plant
 @persona1.route('/add_new_plant', methods=['POST'])
 def add_plant():
@@ -112,18 +130,12 @@ def add_location():
     data = request.json
     current_app.logger.info(data)
 
-    size = data['size']
-    age = data['age'] 
-    plant_name = data['plant_name']
-    shown_name = data['shown_name']
-    user_id = data['user_id']
+    plant_id = data['plant_id']
+    location_name = data['location_name'] 
 
-    query = 'INSERT INTO Plant (size, age, plant_name, shown_name, user_id) VALUES ('
-    query += str(size) + ', '
-    query += str(age) + ', "'
-    query += plant_name + '", "'
-    query += shown_name + '", '
-    query += str(user_id) + ')'
+    query = 'INSERT INTO PLANT_LOCATION (plant_id, location_name) VALUES ('
+    query += str(plant_id) + ',"'
+    query += location_name + '")'
 
     current_app.logger.info(query)
 
