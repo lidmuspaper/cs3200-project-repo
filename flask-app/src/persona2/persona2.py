@@ -111,3 +111,44 @@ def get_fert_pot_soil():
     the_response.status_code = 200
     the_response.mimetype = 'application/json'
     return the_response
+
+# Adds a location
+@persona2.route('/add_new_location', methods=['POST'])
+def add_location():
+    data = request.json
+    current_app.logger.info(data)
+
+    location_name = data['location_name']
+    temp = data['temp'] 
+    humidity = data['humidity']
+    sunlight = data['sunlight']
+
+    query = 'INSERT INTO Location (location_name, temp, humidity, sunlight) VALUES ('
+    query += location_name + ', '
+    query += str(temp) + ', "'
+    query += str(humidity) + '", "'
+    query += str(sunlight) + ')'
+
+    current_app.logger.info(query)
+
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+    db.get_db().commit()
+
+    return query
+
+# Deletes a selected location
+@persona2.route('/delete_location', methods=['DELETE'])
+def delete_plant():
+    data = request.json
+    current_app.logger.info(data)
+
+    query = 'DELETE from Location where location_name =' + str(data['location_name'])
+
+    current_app.logger.info(query)
+
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+    db.get_db().commit()
+
+    return query
