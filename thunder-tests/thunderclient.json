@@ -125,5 +125,114 @@
       "form": []
     },
     "tests": []
+  },
+  {
+    "_id": "14cc60d1-e5c1-47c0-847b-4b328a8f0c1a",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "add_plant_location",
+    "url": "localhost:8001/j/add_plant_location",
+    "method": "POST",
+    "sortNum": 90000,
+    "created": "2023-04-19T17:12:04.354Z",
+    "modified": "2023-04-19T17:16:09.241Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": 1,\n  \"location_name\": \"Living Room\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "60ecd055-8123-4f9b-9ee0-f29758a83ff3",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "edit_plant",
+    "url": "localhost:8001/j/edit_plant",
+    "method": "PUT",
+    "sortNum": 110000,
+    "created": "2023-04-19T17:16:46.371Z",
+    "modified": "2023-04-19T17:29:40.926Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"p_id\": 2,\n  \"new_name\": \"Money plant\",\n  \"height\": 15,\n  \"size\": 23,\n  \"new_age\": 9\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "ecad7127-4aaf-4fb8-bc77-ed4cfb277e11",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "delete_plant",
+    "url": "localhost:8001/j/delete_plant",
+    "method": "DELETE",
+    "sortNum": 120000,
+    "created": "2023-04-19T17:30:00.248Z",
+    "modified": "2023-04-19T17:31:21.227Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": 2\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "cbfc8f2f-8428-448e-8b01-75a3abd7cdf4",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_info",
+    "url": "localhost:8001/j/get_info",
+    "method": "GET",
+    "sortNum": 140000,
+    "created": "2023-04-19T17:32:32.895Z",
+    "modified": "2023-04-19T17:34:40.274Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_name\": \"Spider Plant\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "e1d94f03-7cee-416d-a422-584c98da9f3d",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_symptoms",
+    "url": "localhost:8001/j/get_symptoms",
+    "method": "GET",
+    "sortNum": 160000,
+    "created": "2023-04-19T17:35:00.367Z",
+    "modified": "2023-04-19T17:35:23.184Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "8eff5cb0-a68c-46c1-ade8-fecae9f39071",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_illness",
+    "url": "localhost:8001/j/get_illness",
+    "method": "GET",
+    "sortNum": 170000,
+    "created": "2023-04-19T17:35:39.737Z",
+    "modified": "2023-04-19T17:38:19.654Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"symptoms\": \"Brown tips on leaves, wilting leaves\"\n}",
+      "form": []
+    },
+    "tests": []
   }
 ]
