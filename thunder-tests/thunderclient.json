@@ -56,7 +56,6 @@
     "tests": []
   },
   {
-<<<<<<< HEAD
     "_id": "906478f6-1715-4400-ab4e-2e1af11b76a7",
     "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
     "containerId": "",
@@ -123,6 +122,44 @@
     "body": {
       "type": "json",
       "raw": "{\n  \"location_name\": \"1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "14cc60d1-e5c1-47c0-847b-4b328a8f0c1a",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "add_plant_location",
+    "url": "localhost:8001/j/add_plant_location",
+    "method": "POST",
+    "sortNum": 90000,
+    "created": "2023-04-19T17:12:04.354Z",
+    "modified": "2023-04-19T17:16:09.241Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": 1,\n  \"location_name\": \"Living Room\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "60ecd055-8123-4f9b-9ee0-f29758a83ff3",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "edit_plant",
+    "url": "localhost:8001/j/edit_plant",
+    "method": "PUT",
+    "sortNum": 110000,
+    "created": "2023-04-19T17:16:46.371Z",
+    "modified": "2023-04-19T17:29:40.926Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"p_id\": 2,\n  \"new_name\": \"Money plant\",\n  \"height\": 15,\n  \"size\": 23,\n  \"new_age\": 9\n}",
       "form": []
     },
     "tests": []
@@ -223,6 +260,25 @@
     "tests": []
   },
   {
+    "_id": "ecad7127-4aaf-4fb8-bc77-ed4cfb277e11",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "delete_plant",
+    "url": "localhost:8001/j/delete_plant",
+    "method": "DELETE",
+    "sortNum": 120000,
+    "created": "2023-04-19T17:30:00.248Z",
+    "modified": "2023-04-19T19:55:58.062Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": 5\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
     "_id": "c502e518-332c-4b95-abd7-175270110bf2",
     "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
     "containerId": "",
@@ -242,238 +298,6 @@
     "tests": []
   },
   {
-    "_id": "f2456261-f604-4824-8613-816ff45f7f1d",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "get_plant_location2",
-    "url": "localhost:8001/s/get_plant_location",
-    "method": "GET",
-    "sortNum": 45000,
-    "created": "2023-04-19T17:32:55.243Z",
-    "modified": "2023-04-19T17:33:08.343Z",
-=======
-    "_id": "769f9737-ccff-4358-91c6-30c3dc932f48",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "get_locations",
-    "url": "localhost:8001/j/get_locations",
-    "method": "GET",
-    "sortNum": 30000,
-    "created": "2023-04-19T16:55:51.250Z",
-    "modified": "2023-04-19T16:57:20.611Z",
-    "headers": [],
-    "params": [],
-    "tests": []
-  },
-  {
-    "_id": "46fcf5e5-d3f2-4500-8aea-5e153ccbfa4a",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "get_all_plants",
-    "url": "localhost:8001/j/get_all_plants",
-    "method": "GET",
-    "sortNum": 50000,
-    "created": "2023-04-19T16:56:20.387Z",
-    "modified": "2023-04-19T16:58:56.270Z",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-<<<<<<< HEAD
-      "raw": "{\n \"plant_id\": \"2\" \n}",
-=======
-      "raw": "{\n  \"user_id\": 1\n}",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-      "form": []
-    },
-    "tests": []
-  },
-  {
-<<<<<<< HEAD
-    "_id": "10354dc2-b4d0-494c-96fb-fbcd748ec792",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "get_water_fert_repot2",
-    "url": "localhost:8001/s/get_water_fert_repot",
-    "method": "GET",
-    "sortNum": 90000,
-    "created": "2023-04-19T17:33:24.151Z",
-    "modified": "2023-04-19T17:33:35.491Z",
-=======
-    "_id": "bade842f-4e10-4069-be16-2b2c82e14906",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "get_locationless",
-    "url": "localhost:8001/j/get_locationless",
-    "method": "GET",
-    "sortNum": 60000,
-    "created": "2023-04-19T16:59:24.409Z",
-    "modified": "2023-04-19T17:00:05.165Z",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-<<<<<<< HEAD
-      "raw": "{\n  \"plant_id\": \"2\"\n}",
-=======
-      "raw": "{\n  \"user_id\": 2\n}",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-      "form": []
-    },
-    "tests": []
-  },
-  {
-<<<<<<< HEAD
-    "_id": "3a031794-07cd-4918-b451-c47085d50679",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "get_last_water_fert_repot2",
-    "url": "localhost:8001/s/get_last_water_fert_repot",
-    "method": "GET",
-    "sortNum": 105000,
-    "created": "2023-04-19T17:33:42.649Z",
-    "modified": "2023-04-19T17:33:55.478Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"plant_id\": \"2\"\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "a9354e22-f47b-41a4-bb5e-3458f05e7a49",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "get_fert_pot_soil2",
-    "url": "localhost:8001/s/get_fert_pot_soil",
-    "method": "GET",
-    "sortNum": 115000,
-    "created": "2023-04-19T17:34:01.335Z",
-    "modified": "2023-04-19T17:34:14.111Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"plant_id\": \"2\"\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "f247beb9-cf6d-421e-ab91-4871001342b1",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "add_new_location2",
-    "url": "localhost:8001/s/add_new_location",
-    "method": "POST",
-    "sortNum": 125000,
-    "created": "2023-04-19T17:34:19.756Z",
-    "modified": "2023-04-19T17:35:59.928Z",
-=======
-    "_id": "cd3895ec-0115-44c1-b3c0-e2e4587a35a2",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "add_new_plant",
-    "url": "localhost:8001/j/add_new_plant",
-    "method": "POST",
-    "sortNum": 70000,
-    "created": "2023-04-19T17:00:20.271Z",
-    "modified": "2023-04-19T17:11:03.741Z",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-<<<<<<< HEAD
-      "raw": "{\n  \"location_name\":\"Bedroom\",\n  \"temp\":69,\n  \"humidity\":20,\n  \"sunlight\":10\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "9b7628b8-6026-4aae-acd0-3cdcd6539646",
-    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
-    "containerId": "",
-    "name": "delete_location2",
-    "url": "localhost:8001/s/delete_location",
-    "method": "DELETE",
-    "sortNum": 140000,
-    "created": "2023-04-19T17:35:16.474Z",
-    "modified": "2023-04-19T17:36:14.984Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"location_name\":\"Bedroom\"\n}",
-=======
-      "raw": "{\n  \"size\": 12.3,\n  \"age\": 7,\n  \"plant_name\": \"Spider Plant\",\n  \"shown_name\": \"2nd Spider Plant\",\n  \"user_id\": 1\n}",
->>>>>>> 1b0279d3bca7341c487c658948ef5cfa67db95ef
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "14cc60d1-e5c1-47c0-847b-4b328a8f0c1a",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "add_plant_location",
-    "url": "localhost:8001/j/add_plant_location",
-    "method": "POST",
-    "sortNum": 90000,
-    "created": "2023-04-19T17:12:04.354Z",
-    "modified": "2023-04-19T17:16:09.241Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"plant_id\": 1,\n  \"location_name\": \"Living Room\"\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "60ecd055-8123-4f9b-9ee0-f29758a83ff3",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "edit_plant",
-    "url": "localhost:8001/j/edit_plant",
-    "method": "PUT",
-    "sortNum": 110000,
-    "created": "2023-04-19T17:16:46.371Z",
-    "modified": "2023-04-19T17:29:40.926Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"p_id\": 2,\n  \"new_name\": \"Money plant\",\n  \"height\": 15,\n  \"size\": 23,\n  \"new_age\": 9\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
-    "_id": "ecad7127-4aaf-4fb8-bc77-ed4cfb277e11",
-    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
-    "containerId": "",
-    "name": "delete_plant",
-    "url": "localhost:8001/j/delete_plant",
-    "method": "DELETE",
-    "sortNum": 120000,
-    "created": "2023-04-19T17:30:00.248Z",
-    "modified": "2023-04-19T17:31:21.227Z",
-    "headers": [],
-    "params": [],
-    "body": {
-      "type": "json",
-      "raw": "{\n  \"plant_id\": 2\n}",
-      "form": []
-    },
-    "tests": []
-  },
-  {
     "_id": "cbfc8f2f-8428-448e-8b01-75a3abd7cdf4",
     "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
     "containerId": "",
@@ -488,6 +312,44 @@
     "body": {
       "type": "json",
       "raw": "{\n  \"plant_name\": \"Spider Plant\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "f2456261-f604-4824-8613-816ff45f7f1d",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "get_plant_location2",
+    "url": "localhost:8001/s/get_plant_location",
+    "method": "GET",
+    "sortNum": 45000,
+    "created": "2023-04-19T17:32:55.243Z",
+    "modified": "2023-04-19T17:33:08.343Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n \"plant_id\": \"2\" \n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "10354dc2-b4d0-494c-96fb-fbcd748ec792",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "get_water_fert_repot2",
+    "url": "localhost:8001/s/get_water_fert_repot",
+    "method": "GET",
+    "sortNum": 90000,
+    "created": "2023-04-19T17:33:24.151Z",
+    "modified": "2023-04-19T17:33:35.491Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": \"2\"\n}",
       "form": []
     },
     "tests": []
@@ -521,6 +383,248 @@
     "body": {
       "type": "json",
       "raw": "{\n  \"symptoms\": \"Brown tips on leaves, wilting leaves\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "b76a1951-f225-4c4c-ae36-82d26076b35b",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "get_scheduleless",
+    "url": "localhost:8001/s/get_scheduleless",
+    "method": "GET",
+    "sortNum": 170000,
+    "created": "2023-04-19T19:16:42.259Z",
+    "modified": "2023-04-19T19:17:08.905Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\": \"1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "c73b0a19-35da-4368-8951-26d7cdc2f270",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "add_schedule",
+    "url": "localhost:8001/s/add_schedule",
+    "method": "POST",
+    "sortNum": 180000,
+    "created": "2023-04-19T19:17:26.087Z",
+    "modified": "2023-04-19T19:55:35.770Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\r\n  \"plant_id\":5,\r\n  \"watering_timer\":4,\r\n  \"fertilizing_timer\":4,\r\n  \"repotting_timer\":4,\r\n  \"type_fertilizer\":\"standard\",\r\n  \"pot_size\":4,\r\n  \"soil_type\":\"orchid\",\r\n  \"watering_amount\":4\r\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "da06bcfc-145d-4eec-9268-e4aaf1b3188d",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "get_schedules",
+    "url": "localhost:8001/s/get_schedules",
+    "method": "GET",
+    "sortNum": 190000,
+    "created": "2023-04-19T19:22:05.827Z",
+    "modified": "2023-04-19T19:22:46.563Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\":\"1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "9994b8c6-0469-4b61-b88e-93c60ac0d862",
+    "colId": "41cadfb9-7bc6-4396-a28a-369ccfc7b667",
+    "containerId": "",
+    "name": "edit_schedule",
+    "url": "localhost:8001/s/edit_schedule",
+    "method": "PUT",
+    "sortNum": 200000,
+    "created": "2023-04-19T19:23:06.529Z",
+    "modified": "2023-04-19T19:23:53.462Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\r\n  \"plant_id\":\"1\",\r\n  \"watering_timer\":4,\r\n  \"fertilizing_timer\":4,\r\n  \"repotting_timer\":4,\r\n  \"type_fertilizer\":\"standard\",\r\n  \"pot_size\":4,\r\n  \"soil_type\":\"orchid\",\r\n  \"watering_amount\":4\r\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "e29eb435-5ee5-418c-9ddb-9aad2bf385ea",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_locations",
+    "url": "localhost:8001/j/get_locations",
+    "method": "GET",
+    "sortNum": 180000,
+    "created": "2023-04-19T19:38:36.760Z",
+    "modified": "2023-04-19T19:39:12.900Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "4ae3d1b6-ec86-4779-ae50-8bc5901ac762",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_all_plants",
+    "url": "localhost:8001/j/get_all_plants",
+    "method": "GET",
+    "sortNum": 190000,
+    "created": "2023-04-19T19:39:35.225Z",
+    "modified": "2023-04-19T19:40:16.526Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\":\"1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "3eedeff0-2bfb-44e5-8186-bc43aeb4c1a6",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_locationless",
+    "url": "localhost:8001/j/get_locationless",
+    "method": "GET",
+    "sortNum": 200000,
+    "created": "2023-04-19T19:40:54.692Z",
+    "modified": "2023-04-19T19:41:31.715Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\":\"1\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "7090e967-2394-45ac-b6df-b78d88f93163",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "add_new_plant",
+    "url": "localhost:8001/j/add_new_plant",
+    "method": "POST",
+    "sortNum": 210000,
+    "created": "2023-04-19T19:41:44.994Z",
+    "modified": "2023-04-19T19:52:04.542Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\r\n  \"size\":4,\r\n  \"age\":4,\r\n  \"plant_name\":\"Peace Lily\",\r\n  \"shown_name\":\"Big Bertha\",\r\n  \"user_id\":1\r\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "36c5b332-17c3-4bb5-89a1-1ccfbceac1b7",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "add_plant_location2",
+    "url": "localhost:8001/j/add_plant_location",
+    "method": "POST",
+    "sortNum": 100000,
+    "created": "2023-04-19T19:47:34.167Z",
+    "modified": "2023-04-19T19:48:11.119Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_id\": 2,\n  \"location_name\": \"Backyard\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "8fdbcaf8-edb7-45e0-b877-b7d6bafda317",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_locationless2",
+    "url": "localhost:8001/j/get_locationless",
+    "method": "GET",
+    "sortNum": 205000,
+    "created": "2023-04-19T19:48:27.219Z",
+    "modified": "2023-04-19T19:48:37.266Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\":\"2\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "92e08644-c2d2-4e52-ba6d-8c47eaad0372",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_all_plants2",
+    "url": "localhost:8001/j/get_all_plants",
+    "method": "GET",
+    "sortNum": 195000,
+    "created": "2023-04-19T19:48:43.738Z",
+    "modified": "2023-04-19T19:48:53.952Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\":\"2\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "b7991ff4-b464-4294-9e73-e1e3d8738fd8",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_illness2",
+    "url": "localhost:8001/j/get_illness",
+    "method": "GET",
+    "sortNum": 175000,
+    "created": "2023-04-19T19:50:19.741Z",
+    "modified": "2023-04-19T19:50:34.888Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"symptoms\": \"Yellowing leaves, brown spots\"\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "fa406922-fc33-4672-b813-48b7702663e4",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_info2",
+    "url": "localhost:8001/j/get_info",
+    "method": "GET",
+    "sortNum": 150000,
+    "created": "2023-04-19T19:50:47.904Z",
+    "modified": "2023-04-19T19:51:10.785Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"plant_name\": \"Peace Lily\"\n}",
       "form": []
     },
     "tests": []
