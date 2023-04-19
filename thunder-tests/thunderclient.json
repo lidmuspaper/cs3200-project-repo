@@ -40,5 +40,19 @@
     "headers": [],
     "params": [],
     "tests": []
+  },
+  {
+    "_id": "2b74ce0f-5077-4860-a5c6-43e0f93ad1b9",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_all_types",
+    "url": "localhost:8001/j/get_all_types",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-04-19T16:45:07.829Z",
+    "modified": "2023-04-19T16:45:25.382Z",
+    "headers": [],
+    "params": [],
+    "tests": []
   }
 ]
