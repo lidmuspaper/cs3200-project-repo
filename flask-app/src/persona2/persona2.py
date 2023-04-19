@@ -169,3 +169,79 @@ def delete_plant():
     db.get_db().commit()
 
     return query
+
+# Get all plants of a user without a schedule
+@persona2.route('/get_scheduleless', methods=['GET'])
+def get_scheduleless():
+    data = request.json
+    current_app.logger.info(data)
+
+    cursor = db.get_db().cursor()
+    cursor.execute('SELECT shown_name, plant_id from Plant left join Plant_care_routine USING (plant_id) WHERE Plant_care_routine.plant_id is null AND user_id = ' + str(data['user_id']))
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
+# Adds a schedule
+@persona2.route('/add_schedule', methods=['POST'])
+def add_schedule():
+    data = request.json
+    current_app.logger.info(data)
+
+    plant_id = data['plant_id']
+    watering_timer = data['watering_timer'] 
+    fertilizing_timer = data['fertilizing_timer']
+    repotting_timer = data['repotting_timer']
+    type_fertilizer = data['type_fertilizer'] 
+    pot_size = data['pot_size']
+    soil_type = data['soil_type']
+    watering_amount = data['watering_amount']
+
+    query = 'INSERT INTO Plant_care_routine (plant_id, watering_timer, fertilizing_timer, repotting_timer, type_fertilizer, pot_size, soil_type, watering_amount) VALUES ('
+    query += str(plant_id) + ','
+    query += str(watering_timer) + ','
+    query += str(fertilizing_timer) + ','
+    query += str(repotting_timer) + ',"'
+    query += type_fertilizer + '",'
+    query += str(pot_size) + ',"'
+    query += soil_type + '",'
+    query += str(watering_amount) + ')'
+
+    current_app.logger.info(query)
+
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+    db.get_db().commit()
+
+    return query
+
+# Updates a plant's schedule
+@persona2.route('/edit_schedule', methods=['PUT'])
+def edit_schedule():
+    data = request.json
+    current_app.logger.info(data)
+
+    plant_id = data['plant_id']
+    shown_name = data['new_name'] 
+    size = data['height']
+    age = data['new_age']
+
+    query = 'Update Plant set shown_name = "'
+    query += shown_name + '",age='
+    query += str(age) + ',size='
+    query += str(size) + ' where plant_id = '
+    query += str(plant_id)
+
+    current_app.logger.info(query)
+
+    cursor = db.get_db().cursor()
+    cursor.execute(query)
+    db.get_db().commit()
+
+    return query
