@@ -64,7 +64,7 @@ def get_location():
     current_app.logger.info(data)
 
     cursor = db.get_db().cursor()
-    cursor.execute('select * from Location where location_name = ' + str(data['location_name']))
+    cursor.execute('SELECT * FROM Location WHERE location_name = ' + str(data['location_name']))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
