@@ -50,9 +50,80 @@
     "method": "GET",
     "sortNum": 10000,
     "created": "2023-04-19T16:45:07.829Z",
-    "modified": "2023-04-19T16:45:25.382Z",
+    "modified": "2023-04-19T16:56:47.640Z",
     "headers": [],
     "params": [],
+    "tests": []
+  },
+  {
+    "_id": "769f9737-ccff-4358-91c6-30c3dc932f48",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_locations",
+    "url": "localhost:8001/j/get_locations",
+    "method": "GET",
+    "sortNum": 30000,
+    "created": "2023-04-19T16:55:51.250Z",
+    "modified": "2023-04-19T16:57:20.611Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "46fcf5e5-d3f2-4500-8aea-5e153ccbfa4a",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_all_plants",
+    "url": "localhost:8001/j/get_all_plants",
+    "method": "GET",
+    "sortNum": 50000,
+    "created": "2023-04-19T16:56:20.387Z",
+    "modified": "2023-04-19T16:58:56.270Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\": 1\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "bade842f-4e10-4069-be16-2b2c82e14906",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "get_locationless",
+    "url": "localhost:8001/j/get_locationless",
+    "method": "GET",
+    "sortNum": 60000,
+    "created": "2023-04-19T16:59:24.409Z",
+    "modified": "2023-04-19T17:00:05.165Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"user_id\": 2\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "cd3895ec-0115-44c1-b3c0-e2e4587a35a2",
+    "colId": "a12a111f-6f82-452d-9209-688c6d97199a",
+    "containerId": "",
+    "name": "add_new_plant",
+    "url": "localhost:8001/j/add_new_plant",
+    "method": "POST",
+    "sortNum": 70000,
+    "created": "2023-04-19T17:00:20.271Z",
+    "modified": "2023-04-19T17:11:03.741Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"size\": 12.3,\n  \"age\": 7,\n  \"plant_name\": \"Spider Plant\",\n  \"shown_name\": \"2nd Spider Plant\",\n  \"user_id\": 1\n}",
+      "form": []
+    },
     "tests": []
   }
 ]
