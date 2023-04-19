@@ -221,6 +221,24 @@ def add_schedule():
 
     return query
 
+# Get all plant schedules belonging to a user
+@persona2.route('/get_schedules', methods=['GET'])
+def get_schedules():
+    data = request.json
+    current_app.logger.info(data)
+
+    cursor = db.get_db().cursor()
+    cursor.execute('select * from Plant_care_routine left join Plant on Plant_care_routine.plant_id = Plant.plant_id where user_id = ' + str(data['user_id']))
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
 # Updates a plant's schedule
 @persona2.route('/edit_schedule', methods=['PUT'])
 def edit_schedule():
@@ -228,15 +246,23 @@ def edit_schedule():
     current_app.logger.info(data)
 
     plant_id = data['plant_id']
-    shown_name = data['new_name'] 
-    size = data['height']
-    age = data['new_age']
+    watering_timer = data['watering_timer']
+    repotting_timer = data['repotting_timer']
+    fertilizing_timer = data['fertilizing_timer']
+    type_fertilizer = data['type_fertilizer']
+    pot_size = data['pot_size']
+    soil_type = data['soil_type']
+    watering_amount = data['watering_amount']
 
-    query = 'Update Plant set shown_name = "'
-    query += shown_name + '",age='
-    query += str(age) + ',size='
-    query += str(size) + ' where plant_id = '
-    query += str(plant_id)
+
+    query = 'Update Plant_care_routine set watering_timer='
+    query += str(watering_timer) + ', repotting_timer='
+    query += str(repotting_timer) + ', fertilizing_timer='
+    query += str(fertilizing_timer) + ', type_fertilizer="'
+    query += type_fertilizer + '",  pot_size='
+    query += str(pot_size) + ', soil_type="'
+    query += soil_type + '", watering_amount='
+    query += str(watering_amount) + ' WHERE plant_id = ' + str(plant_id)
 
     current_app.logger.info(query)
 
