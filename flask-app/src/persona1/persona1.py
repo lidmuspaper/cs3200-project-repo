@@ -158,3 +158,54 @@ def delete_plant():
     db.get_db().commit()
 
     return query
+
+# Get plant info of a given plant_name
+@persona1.route('/get_info', methods=['GET'])
+def get_info():
+    data = request.json
+    current_app.logger.info(data)
+
+    cursor = db.get_db().cursor()
+    cursor.execute('select * from Plant_info where name = "' + data['plant_name'] + '"')
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
+# Get all symptoms
+@persona1.route('/get_symptoms', methods=['GET'])
+def get_symptoms():
+    cursor = db.get_db().cursor()
+    cursor.execute('select symptoms from Illness')
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
+# Get illness info of a given symptom
+@persona1.route('/get_illness', methods=['GET'])
+def get_illness():
+    data = request.json
+    current_app.logger.info(data)
+
+    cursor = db.get_db().cursor()
+    cursor.execute('select * from Illness where symptoms = "' + data['symptoms'] + '"')
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
