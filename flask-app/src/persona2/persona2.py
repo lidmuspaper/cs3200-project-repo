@@ -22,7 +22,7 @@ def get_weather():
     the_response.mimetype = 'application/json'
     return the_response
 
-# Get all user's plants' location from the DB
+# Get location of a plant
 @persona2.route('/get_plant_location', methods=['GET'])
 def get_plant_location():
     data = request.json
@@ -39,6 +39,23 @@ def get_plant_location():
     the_response.status_code = 200
     the_response.mimetype = 'application/json'
     return the_response
+
+# Get all location data
+@persona2.route('/get_location_data', methods=['GET'])
+def get_location_data():
+
+    cursor = db.get_db().cursor()
+    cursor.execute('select * from Location')
+    row_headers = [x[0] for x in cursor.description]
+    json_data = []
+    theData = cursor.fetchall()
+    for row in theData:
+        json_data.append(dict(zip(row_headers, row)))
+    the_response = make_response(jsonify(json_data))
+    the_response.status_code = 200
+    the_response.mimetype = 'application/json'
+    return the_response
+
 
 # Get location details based on location_name
 @persona2.route('/get_location', methods=['GET'])
@@ -123,10 +140,10 @@ def add_location():
     humidity = data['humidity']
     sunlight = data['sunlight']
 
-    query = 'INSERT INTO Location (location_name, temp, humidity, sunlight) VALUES ('
-    query += location_name + ', '
-    query += str(temp) + ', "'
-    query += str(humidity) + '", "'
+    query = 'INSERT INTO Location (location_name, temp, humidity, sunlight) VALUES ("'
+    query += location_name + '", '
+    query += str(temp) + ','
+    query += str(humidity) + ','
     query += str(sunlight) + ')'
 
     current_app.logger.info(query)
@@ -143,7 +160,7 @@ def delete_plant():
     data = request.json
     current_app.logger.info(data)
 
-    query = 'DELETE from Location where location_name =' + str(data['location_name'])
+    query = 'DELETE from Location where location_name = "' + data['location_name'] + '"'
 
     current_app.logger.info(query)
 

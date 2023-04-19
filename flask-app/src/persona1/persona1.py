@@ -34,14 +34,14 @@ def get_locations():
     the_response.mimetype = 'application/json'
     return the_response
 
-# Get all user's plants and their locations from the DB
+# Get all user's plants
 @persona1.route('/get_all_plants', methods=['GET'])
 def get_plants():
     data = request.json
     current_app.logger.info(data)
 
     cursor = db.get_db().cursor()
-    cursor.execute('select * from Plant LEFT JOIN PLANT_LOCATION on (Plant.plant_id = PLANT_LOCATION.plant_id) WHERE user_id = ' + str(data['user_id']))
+    cursor.execute('select * from Plant WHERE user_id = ' + str(data['user_id']))
     row_headers = [x[0] for x in cursor.description]
     json_data = []
     theData = cursor.fetchall()
