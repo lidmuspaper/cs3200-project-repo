@@ -64,8 +64,7 @@ CREATE TABLE IF NOT EXISTS Plant_care_routine
     soil_type         varchar(50),
     watering_amount   float,
 
-    FOREIGN KEY (plant_id) REFERENCES Plant (plant_id)
-    ON DELETE CASCADE
+    FOREIGN KEY (plant_id) REFERENCES Plant (plant_id) ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Illness
@@ -81,9 +80,8 @@ CREATE TABLE IF NOT EXISTS PLANT_ILLNESS
     illness_id   int AUTO_INCREMENT PRIMARY KEY,
     plant_id     int,
     illness_name varchar(50),
-    FOREIGN KEY (plant_id) references Plant (plant_id),
-    FOREIGN KEY (illness_name) references Illness (illness_name)
-    ON DELETE CASCADE
+    FOREIGN KEY (plant_id) references Plant (plant_id) ON DELETE CASCADE,
+    FOREIGN KEY (illness_name) references Illness (illness_name) ON DELETE CASCADE
 );
 
 CREATE TABLE IF NOT EXISTS Location
@@ -313,7 +311,7 @@ insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values 
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (0.16, 21, 'Carex hystericina Muhl. ex Willd.', 'Gongolin', 13, '13');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (2.43, 11, 'Erigeron austiniae Greene', 'big bootius', 14, '14');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (8.74, 1, 'Spermolepis divaricata (Walter) Raf. ex Ser.', 'big booty 2', 15, '15');
-insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (0.12, 16, 'Cyanea st.-johnii (Hosaka) Lammers', 'Indigo', 16, '16');mark
+insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (0.12, 16, 'Cyanea st.-johnii (Hosaka) Lammers', 'Indigo', 16, '16');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (6.89, 8, 'Atriplex wolfii S. Watson', 'Bluebead', 17, '17');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (5.38, 15, 'Helianthus nuttallii Torr. & A. Gray ssp.', 'Aralia', 18, '18');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (6.98, 2, 'Lecidea furva Lowe', 'Blackburd', 19, '19');
@@ -325,7 +323,7 @@ insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values 
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (1.49, 6, 'Verrucaria calkinsiana Servit', 'Hairy Pagoda-plant', 25, '25');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (8.79, 17, 'Tetraplodon Bruch & Schimp.', 'Fenzl''s False Spleenwort', 26, '26');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (6.06, 2, 'Diplotomma penichrum (Tuck.) Szat.', 'Florida Eccremidium Moss', 27, '27');
-insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (8.34, 24, 'Rhizocarpon intermediellum Rasanen', 'Carolina Holly', 28, '28');mark
+insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (8.34, 24, 'Rhizocarpon intermediellum Rasanen', 'Carolina Holly', 28, '28');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (7.42, 24, 'Calamintha Mill.', 'Coville''s Groundsmoke', 29, '29');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (0.38, 6, 'Salsola aphylla L. f.', 'Dwarf Chamaesaracha', 30, '30');
 insert into Plant (size, age, plant_name, shown_name, plant_id, user_id) values (5.54, 2, 'Hypericum maculatum Crantz', 'Fern-leaf Catalina Ironwood', 31, '31');
@@ -404,52 +402,10 @@ insert into Illness (illness_name, severity, treatments, symptoms) values ('a', 
 insert into Illness (illness_name, severity, treatments, symptoms) values ('b', 97, 'sertraline hydrochloride', 'drooping');
 insert into Illness (illness_name, severity, treatments, symptoms) values ('c', 67, 'prednicarbate', 'bugs');
 insert into Illness (illness_name, severity, treatments, symptoms) values ('d', 60, 'lisinopril', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('e', 94, 'Regular Strength', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('f', 80, 'desipramine hydrochloride', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('g', 54, 'Benzocaine, Zinc Chloride', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('h', 94, 'Bryonia, Ruta Graveolens', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('i', 30, 'SERTRALINE HYDROCHLORIDE', 'dry');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('j', 61, 'OXYGEN', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('k', 79, 'ATROPA BELLADONNA, SANGUINARIA CANADENSIS ROOT', 'drooping');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('l', 95, 'fluocinolone a', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('m', 100, 'somatropin (rDNA origin)', 'wilt');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('n', 10, 'Levetiracetam', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('o', 16, 'Albuterol Sulfate', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('p', 33, 'Acetaminophen, Dextromethorphan HBr', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('q', 68, 'Ibuprofen', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('r', 63, 'AVOBENZONE,HOMOSALATE', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('s', 2, 'Oxygen', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('t', 43, 'Fentanyl', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('u', 86, 'AZITHROMYCIN MONOHYDRATE', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('v', 45, 'Ethyl Alcohol', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('w', 80, 'Meropenem', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('x', 57, 'Norepinephrine,', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('y', 98, 'demeclocycline hydrochloride', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('z', 80, 'diazepam', 'wilt');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('aa', 30, 'Benzocain', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('bb', 85, 'Doxycycline Hyclate', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('cc', 93, 'CARBAMAZEPINE', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('dd', 43, 'Nicotine Polacrilex', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ee', 36, 'Quetiapine Fumarate', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ff', 51, 'Echinacea (Angustifolins,', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('gg', 32, 'Olibanummunis.', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('hh', 57, 'Post Oak', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ii', 68, 'Enalapril Maleate', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('jj', 78, 'Duloxetine', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('kk', 40, 'Triamcinolone Acetonide', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ll', 75, 'Safflower Seed', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('mm', 56, 'Trazodone Hydrochloride', 'wilt');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('nn', 44, 'Penicillin V Potassium', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('oo', 2, 'acetaminophen,', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('pp', 86, 'Ibuprofen, ', 'brittle');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('qq', 41, 'aluminum hydro', 'wilt');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('rr', 70, 'serratia marcescens', 'drooping');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ss', 30, 'Atenolol', 'yellow');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('tt', 33, 'Triclosan', 'brown');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('uu', 26, 'Desmopressin Acetate', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('vv', 61, 'Trazodone Hydrochloride', 'bugs');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('ww', 2, 'aspergillus niger var. niger', 'wet');
-insert into Illness (illness_name, severity, treatments, symptoms) values ('xx', 53, 'PHENYLEPHRINE HYDROCHLORIDEHAN HYDROBROMIDE', 'brown');
+insert into Illness (illness_name, severity, treatments, symptoms) values ('e', 80, 'desipramine hydrochloride', 'brown');
+insert into Illness (illness_name, severity, treatments, symptoms) values ('f', 30, 'SERTRALINE HYDROCHLORIDE', 'dry');
+insert into Illness (illness_name, severity, treatments, symptoms) values ('g', 100, 'somatropin (rDNA origin)', 'wilt');
+insert into Illness (illness_name, severity, treatments, symptoms) values ('h', 16, 'Albuterol Sulfate', 'wet');
 
 insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (1, '1', 'a');
 insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (2, '2', 'b');
@@ -459,48 +415,6 @@ insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (5, '5', '
 insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (6, '6', 'f');
 insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (7, '7', 'g');
 insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (8, '8', 'h');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (9, '9', 'i');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (10, '10', 'j');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (11, '11', 'k');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (12, '12', 'l');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (13, '13', 'm');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (14, '14', 'n');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (15, '15', 'o');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (16, '16', 'p');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (17, '17', 'q');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (18, '18', 'r');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (19, '19', 's');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (20, '20', 't');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (21, '21', 'u');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (22, '22', 'v');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (23, '23', 'w');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (24, '24', 'x');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (25, '25', 'y');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (26, '26', 'z');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (27, '27', 'aa');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (28, '28', 'bb');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (29, '29', 'cc');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (30, '30', 'dd');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (31, '31', 'ee');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (32, '32', 'ff');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (33, '33', 'gg');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (34, '34', 'hh');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (35, '35', 'ii');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (36, '36', 'jj');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (37, '37', 'kk');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (38, '38', 'll');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (39, '39', 'mm');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (40, '40', 'nn');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (41, '41', 'oo');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (42, '42', 'pp');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (43, '43', 'qq');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (44, '44', 'rr');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (45, '45', 'ss');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (46, '46', 'tt');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (47, '47', 'uu');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (48, '48', 'vv');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (49, '49', 'ww');
-insert into PLANT_ILLNESS (illness_id, plant_id, illness_name) values (50, '50', 'xx');
 
 insert into Location (location_name, temp, humidity, sunlight) values ('living room', 55, 29, 2);
 insert into Location (location_name, temp, humidity, sunlight) values ('outdoors', 40, 9, 73);
@@ -508,6 +422,7 @@ insert into Location (location_name, temp, humidity, sunlight) values ('bedroom'
 insert into Location (location_name, temp, humidity, sunlight) values ('kitchen', 49, 76, 15);
 insert into Location (location_name, temp, humidity, sunlight) values ('basement', 94, 36, 46);
 insert into Location (location_name, temp, humidity, sunlight) values ('office', 52, 2, 37);
+
 insert into PLANT_LOCATION (location_id, plant_id, location_name) values (1, '1', 'office');
 insert into PLANT_LOCATION (location_id, plant_id, location_name) values (2, '2', 'outdoors');
 insert into PLANT_LOCATION (location_id, plant_id, location_name) values (3, '3', 'basement');
